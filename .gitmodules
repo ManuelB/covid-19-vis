@@ -1,0 +1,6 @@
+[submodule "COVID-19"]
+	path = COVID-19
+	url = https://github.com/CSSEGISandData/COVID-19.git
+[submodule "geo-countries"]
+	path = geo-countries
+	url = https://github.com/datasets/geo-countries
