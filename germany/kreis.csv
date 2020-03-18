@@ -1,0 +1,402 @@
+AGS;Faelle_je_100000_Einwohner;Kreis;Fälle;Insgesamt;Flaeche;Dichte;bundesland;farbe
+"01001";0;Flensburg, Kreisfreie Stadt;0;89504;56,73;1577,71901991891;Schleswig-Holstein;1
+"01002";4,4;Kiel, Landeshauptstadt, Kreisfreie Stadt;11;247548;118,65;2086,37168141593;Schleswig-Holstein;1
+"01003";3,7;Lübeck, Hansestadt, Kreisfreie Stadt;8;217198;214,19;1014,04360614408;Schleswig-Holstein;1
+"01004";0;Neumünster, Kreisfreie Stadt;0;79487;71,66;1109,22411387106;Schleswig-Holstein;1
+"01051";0,8;Dithmarschen, Landkreis;1;133210;1428,17;93,2732097719459;Schleswig-Holstein;1
+"01053";2;Herzogtum Lauenburg, Landkreis;4;197264;1263,07;156,178200733134;Schleswig-Holstein;1
+"01054";0;Nordfriesland, Landkreis;0;165507;2083,55;79,43509874973;Schleswig-Holstein;1
+"01055";0,5;Ostholstein, Landkreis;1;200581;1393,02;143,990036036812;Schleswig-Holstein;1
+"01056";2,2;Pinneberg, Landkreis;7;314391;664,25;473,302220549492;Schleswig-Holstein;1
+"01057";1,6;Plön, Landkreis;2;128647;1083,56;118,726235741445;Schleswig-Holstein;1
+"01058";2,2;Rendsburg-Eckernförde, Landkreis;6;272775;2189,79;124,566739276369;Schleswig-Holstein;1
+"01059";2,5;Schleswig-Flensburg, Landkreis;5;200025;2071,28;96,5707195550577;Schleswig-Holstein;1
+"01060";1,1;Segeberg, Landkreis;3;276032;1344,47;205,309155280519;Schleswig-Holstein;1
+"01061";1,5;Steinburg, Landkreis;2;131347;1055,7;124,416974519276;Schleswig-Holstein;1
+"01062";0;Stormarn, Landkreis;0;243196;766,21;317,401234648464;Schleswig-Holstein;1
+"02000";6,5;Hamburg;119;1841179;755,09;2438,35701704433;Hamburg;2
+"03101";0,8;Braunschweig, Kreisfreie Stadt;2;248292;192,7;1288,48988064349;Niedersachsen;3
+"03102";1;Salzgitter, Kreisfreie Stadt;1;104948;224,49;467,49521136799;Niedersachsen;3
+"03103";1,6;Wolfsburg, Kreisfreie Stadt;2;124151;204,61;606,768975123405;Niedersachsen;3
+"03151";2,8;Gifhorn, Landkreis;5;175920;1567,45;112,233245079588;Niedersachsen;3
+"03153";2,2;Goslar, Landkreis;3;137014;966,73;141,729334974605;Niedersachsen;3
+"03154";0;Helmstedt, Landkreis;0;91307;676,12;135,045554043661;Niedersachsen;3
+"03155";3;Northeim, Landkreis;4;132765;1268,76;104,641539771115;Niedersachsen;3
+"03157";0;Peine, Landkreis;0;133965;536,5;249,701770736254;Niedersachsen;3
+"03158";0;Wolfenbüttel, Landkreis;0;119960;724,28;165,626553266692;Niedersachsen;3
+"03159";0,9;Göttingen, Landkreis;3;328074;1755,39;186,895219865671;Niedersachsen;3
+"03241";2,1;Region Hannover, Landkreis;24;1157624;2297,13;503,943616599844;Niedersachsen;3
+"03251";8,8;Diepholz, Landkreis;19;216886;1990,99;108,933746528109;Niedersachsen;3
+"03252";1,3;Hameln-Pyrmont, Landkreis;2;148559;797,53;186,273870575402;Niedersachsen;3
+"03254";2,5;Hildesheim, Landkreis;7;276594;1208,35;228,902222038317;Niedersachsen;3
+"03255";1,4;Holzminden, Landkreis;1;70975;694,27;102,22968009564;Niedersachsen;3
+"03256";1,6;Nienburg (Weser), Landkreis;2;121386;1400,82;86,6535315029768;Niedersachsen;3
+"03257";0,6;Schaumburg, Landkreis;1;157781;675,66;233,521297694107;Niedersachsen;3
+"03351";3,4;Celle, Landkreis;6;178936;1550,82;115,381540088469;Niedersachsen;3
+"03352";2;Cuxhaven, Landkreis;4;198213;2058,96;96,2685044877025;Niedersachsen;3
+"03353";4,7;Harburg, Landkreis;12;252776;1248,45;202,47186511274;Niedersachsen;3
+"03354";0;Lüchow-Dannenberg, Landkreis;0;48424;1227,19;39,4592524384977;Niedersachsen;3
+"03355";0,5;Lüneburg, Landkreis;1;183372;1327,81;138,10108373939;Niedersachsen;3
+"03356";10,6;Osterholz, Landkreis;12;113517;652,67;173,927099453016;Niedersachsen;3
+"03357";3,1;Rotenburg (Wümme), Landkreis;5;163455;2074,78;78,7818467500169;Niedersachsen;3
+"03358";0;Heidekreis, Landkreis;0;139755;1881,46;74,2800803631223;Niedersachsen;3
+"03359";8,4;Stade, Landkreis;17;203102;1267,4;160,250907369418;Niedersachsen;3
+"03360";1,1;Uelzen, Landkreis;1;92572;1462,6;63,2927663065773;Niedersachsen;3
+"03361";5,8;Verden, Landkreis;8;136792;789,34;173,299211999899;Niedersachsen;3
+"03401";6,4;Delmenhorst, Kreisfreie Stadt;5;77607;62,45;1242,70616493195;Niedersachsen;3
+"03402";6;Emden, Kreisfreie Stadt;3;50195;112,34;446,813245504718;Niedersachsen;3
+"03405";2,6;Wilhelmshaven, Kreisfreie Stadt;2;76278;107,07;712,412440459512;Niedersachsen;3
+"03451";4;Ammerland, Landkreis;5;124071;730,64;169,811398226213;Niedersachsen;3
+"03452";1,6;Aurich, Landkreis;3;189848;1287,34;147,473084033744;Niedersachsen;3
+"03453";0,6;Cloppenburg, Landkreis;1;169348;1420,35;119,229767310874;Niedersachsen;3
+"03454";1,2;Emsland, Landkreis;4;325657;2883,64;112,932612947525;Niedersachsen;3
+"03455";2;Friesland, Landkreis;2;98460;609,54;161,531646815631;Niedersachsen;3
+"03456";2,2;Grafschaft Bentheim, Landkreis;3;136511;981,81;139,040140149316;Niedersachsen;3
+"03457";0,6;Leer, Landkreis;1;169809;1085,7;156,405084277425;Niedersachsen;3
+"03403";5,9;Oldenburg (Oldenburg), Kreisfreie Stadt;10;168210;103,09;1631,6810553885;Niedersachsen;3
+"03458";2,3;Oldenburg, Landkreis;3;130144;1064,83;122,220448334476;Niedersachsen;3
+"03404";0;Osnabrück, Kreisfreie Stadt;0;164748;119,8;1375,19198664441;Niedersachsen;3
+"03459";0;Osnabrück, Landkreis;0;357343;2121,8;168,415024978792;Niedersachsen;3
+"03460";1,4;Vechta, Landkreis;2;141598;814,2;173,910587079342;Niedersachsen;3
+"03461";0;Wesermarsch, Landkreis;0;88624;824,76;107,454289732771;Niedersachsen;3
+"03462";1,8;Wittmund, Landkreis;1;56882;656,84;86,5994762803727;Niedersachsen;3
+"04011";6,7;Bremen, Kreisfreie Stadt;38;569352;326,18;1745,51474645901;Bremen;4
+"04012";7,9;Bremerhaven, Kreisfreie Stadt;9;113634;93,66;1213,26073030109;Bremen;4
+"05111";1,1;Düsseldorf, Kreisfreie Stadt;7;619294;217,41;2848,50742836116;Nordrhein-Westfalen;5
+"05112";2;Duisburg, Kreisfreie Stadt;10;498590;232,8;2141,70962199313;Nordrhein-Westfalen;5
+"05113";0,9;Essen, Kreisfreie Stadt;5;583109;210,34;2772,22116573167;Nordrhein-Westfalen;5
+"05114";0,9;Krefeld, Kreisfreie Stadt;2;227020;137,77;1647,81882848225;Nordrhein-Westfalen;5
+"05116";3,1;Mönchengladbach, Kreisfreie Stadt;8;261454;170,47;1533,72440898692;Nordrhein-Westfalen;5
+"05117";4,7;Mülheim an der Ruhr, Kreisfreie Stadt;8;170880;91,28;1872,04206836109;Nordrhein-Westfalen;5
+"05119";0;Oberhausen, Kreisfreie Stadt;0;210829;77,09;2734,84239200934;Nordrhein-Westfalen;5
+"05120";4,5;Remscheid, Kreisfreie Stadt;5;110994;74,52;1489,45249597424;Nordrhein-Westfalen;5
+"05122";3,1;Solingen, Kreisfreie Stadt;5;159360;89,54;1779,76323430869;Nordrhein-Westfalen;5
+"05124";0,6;Wuppertal, Kreisfreie Stadt;2;354382;168,39;2104,5311479304;Nordrhein-Westfalen;5
+"05154";1,9;Kleve, Kreis;6;310974;1232,99;252,211291251348;Nordrhein-Westfalen;5
+"05158";3,3;Mettmann, Kreis;16;485684;407,22;1192,68208830608;Nordrhein-Westfalen;5
+"05162";1,8;Rhein-Kreis Neuss;8;451007;576,28;782,617824668564;Nordrhein-Westfalen;5
+"05166";0,7;Viersen, Kreis;2;298935;563,28;530,704090328078;Nordrhein-Westfalen;5
+"05170";3,9;Wesel, Kreis;18;459809;1042,8;440,936900652091;Nordrhein-Westfalen;5
+"05314";4,6;Bonn, Kreisfreie Stadt;15;327258;141,06;2319,99149298171;Nordrhein-Westfalen;5
+"05315";1;Köln, Kreisfreie Stadt;11;1085664;405,01;2680,58566455149;Nordrhein-Westfalen;5
+"05316";3,1;Leverkusen, Kreisfreie Stadt;5;163838;78,87;2077,31710409535;Nordrhein-Westfalen;5
+"05334";12,8;Städteregion Aachen (einschl. Stadt Aachen);71;555465;706,91;785,764807401225;Nordrhein-Westfalen;5
+"05358";3;Düren, Kreis;8;263722;941,49;280,111312918884;Nordrhein-Westfalen;5
+"05362";1,1;Rhein-Erft-Kreis;5;470089;704,71;667,067304281194;Nordrhein-Westfalen;5
+"05366";1,6;Euskirchen, Kreis;3;192840;1248,73;154,428899762158;Nordrhein-Westfalen;5
+"05370";184,8;Heinsberg, Kreis;470;254322;627,91;405,029383191859;Nordrhein-Westfalen;5
+"05374";4,8;Oberbergischer Kreis;13;272471;918,85;296,534798933449;Nordrhein-Westfalen;5
+"05378";4,9;Rheinisch-Bergischer Kreis;14;283455;437,32;648,163815969999;Nordrhein-Westfalen;5
+"05382";0,2;Rhein-Sieg-Kreis;1;599780;1153,21;520,096079638574;Nordrhein-Westfalen;5
+"05512";2,6;Bottrop, Kreisfreie Stadt;3;117383;100,62;1166,59709799245;Nordrhein-Westfalen;5
+"05513";2,7;Gelsenkirchen, Kreisfreie Stadt;7;260654;104,94;2483,83838383838;Nordrhein-Westfalen;5
+"05515";5,4;Münster, Kreisfreie Stadt;17;314319;303,28;1036,39870746505;Nordrhein-Westfalen;5
+"05554";4,3;Borken, Kreis;16;370676;1420,98;260,859406888204;Nordrhein-Westfalen;5
+"05558";12,7;Coesfeld, Kreis;28;219929;1112,05;197,7689852075;Nordrhein-Westfalen;5
+"05562";2,1;Recklinghausen, Kreis;13;615261;761,31;808,160933128423;Nordrhein-Westfalen;5
+"05566";0,4;Steinfurt, Kreis;2;447614;1795,76;249,261593976923;Nordrhein-Westfalen;5
+"05570";3,6;Warendorf, Kreis;10;277783;1319,42;210,534174106804;Nordrhein-Westfalen;5
+"05711";0,3;Bielefeld, Kreisfreie Stadt;1;333786;258,83;1289,59548738554;Nordrhein-Westfalen;5
+"05754";1,6;Gütersloh, Kreis;6;364083;969,21;375,649240102764;Nordrhein-Westfalen;5
+"05758";2,4;Herford, Kreis;6;250783;450,41;556,788259585711;Nordrhein-Westfalen;5
+"05762";0;Höxter, Kreis;0;140667;1201,42;117,083950658388;Nordrhein-Westfalen;5
+"05766";9,2;Lippe, Kreis;32;348391;1246,22;279,55818394826;Nordrhein-Westfalen;5
+"05770";4,5;Minden-Lübbecke, Kreis;14;310710;1152,42;269,61524444213;Nordrhein-Westfalen;5
+"05774";4,6;Paderborn, Kreis;14;306890;1246,8;246,142123837023;Nordrhein-Westfalen;5
+"05911";4,1;Bochum, Kreisfreie Stadt;15;364628;145,66;2503,28161471921;Nordrhein-Westfalen;5
+"05913";1;Dortmund, Kreisfreie Stadt;6;587010;280,71;2091,16169712515;Nordrhein-Westfalen;5
+"05914";1,6;Hagen, Kreisfreie Stadt;3;188814;160,45;1176,77781240262;Nordrhein-Westfalen;5
+"05915";1,1;Hamm, Kreisfreie Stadt;2;179111;226,43;791,02150775074;Nordrhein-Westfalen;5
+"05916";2,6;Herne, Kreisfreie Stadt;4;156374;51,42;3041,11240762349;Nordrhein-Westfalen;5
+"05954";0,9;Ennepe-Ruhr-Kreis;3;324296;409,64;791,660970608339;Nordrhein-Westfalen;5
+"05958";5,4;Hochsauerlandkreis;14;260475;1960,17;132,883882520394;Nordrhein-Westfalen;5
+"05962";3,2;Märkischer Kreis;13;412120;1061,06;388,404048781407;Nordrhein-Westfalen;5
+"05966";0;Olpe, Kreis;0;134775;712,14;189,253517566771;Nordrhein-Westfalen;5
+"05970";0,7;Siegen-Wittgenstein, Kreis;2;278210;1132,89;245,575475112323;Nordrhein-Westfalen;5
+"05974";1;Soest, Kreis;3;301902;1328,64;227,226336705202;Nordrhein-Westfalen;5
+"05978";0,3;Unna, Kreis;1;394782;543,21;726,757607555089;Nordrhein-Westfalen;5
+"06411";1,3;Darmstadt, Kreisfreie Stadt;2;159207;122,07;1304,22708282133;Hessen;6
+"06412";2;Frankfurt am Main, Kreisfreie Stadt;15;753056;248,31;3032,72522250413;Hessen;6
+"06414";1,4;Wiesbaden, Landeshauptstadt, Kreisfreie Stadt;4;278342;203,87;1365,29160739687;Hessen;6
+"06431";1,9;Bergstraße, Landkreis;5;269694;719,47;374,850931936008;Hessen;6
+"06432";1,3;Darmstadt-Dieburg, Landkreis;4;297399;658,64;451,534981173327;Hessen;6
+"06433";0,7;Groß-Gerau, Landkreis;2;274526;453,03;605,977529081959;Hessen;6
+"06434";2,1;Hochtaunuskreis;5;236564;481,84;490,959654657148;Hessen;6
+"06435";2,9;Main-Kinzig-Kreis;12;418950;1397,32;299,823948701801;Hessen;6
+"06436";1,7;Main-Taunus-Kreis;4;237735;222,53;1068,32786590572;Hessen;6
+"06437";0;Odenwaldkreis;0;96798;623,97;155,132458291264;Hessen;6
+"06413";0,8;Offenbach am Main, Kreisfreie Stadt;1;128744;44,88;2868,62745098039;Hessen;6
+"06438";1,1;Offenbach, Landkreis;4;354092;356,24;993,970357062654;Hessen;6
+"06439";5,9;Rheingau-Taunus-Kreis;11;187157;811,41;230,656511504665;Hessen;6
+"06440";0,3;Wetteraukreis;1;306460;1100,66;278,432940235858;Hessen;6
+"06531";2,2;Gießen, Landkreis;6;268876;854,56;314,636772140049;Hessen;6
+"06532";2;Lahn-Dill-Kreis;5;253777;1066,3;237,997749226297;Hessen;6
+"06533";0;Limburg-Weilburg, Landkreis;0;172083;738,44;233,035859379232;Hessen;6
+"06534";2,8;Marburg-Biedenkopf, Landkreis;7;246648;1262,37;195,384871313482;Hessen;6
+"06535";2,8;Vogelsbergkreis;3;105878;1458,91;72,5733595629614;Hessen;6
+"06611";4;Kassel, Kreisfreie Stadt;8;201585;106,8;1887,5;Hessen;6
+"06631";3,1;Fulda, Landkreis;7;222584;1380,41;161,244847545295;Hessen;6
+"06632";0;Hersfeld-Rotenburg, Landkreis;0;120829;1097,75;110,069687998178;Hessen;6
+"06633";2,5;Kassel, Landkreis;6;236633;1293,33;182,964131350854;Hessen;6
+"06634";1,7;Schwalm-Eder-Kreis;3;180222;1539,01;117,102552939877;Hessen;6
+"06635";2,5;Waldeck-Frankenberg, Landkreis;4;156953;1848,7;84,8991182993455;Hessen;6
+"06636";0;Werra-Meißner-Kreis;0;101017;1024,83;98,5695188470283;Hessen;6
+"07111";7;Koblenz, Kreisfreie Stadt;8;114024;105,25;1083,36342042755;Rheinland-Pfalz;7
+"07131";2,3;Ahrweiler, Landkreis;3;129727;787,02;164,833168153287;Rheinland-Pfalz;7
+"07132";0,8;Altenkirchen (Westerwald), Landkreis;1;128705;642,38;200,356486814658;Rheinland-Pfalz;7
+"07133";0;Bad Kreuznach, Landkreis;0;158080;863,89;182,986259824746;Rheinland-Pfalz;7
+"07134";0;Birkenfeld, Landkreis;0;80720;776,83;103,909478264228;Rheinland-Pfalz;7
+"07135";4,9;Cochem-Zell, Landkreis;3;61587;692,43;88,9432866860188;Rheinland-Pfalz;7
+"07137";4,7;Mayen-Koblenz, Landkreis;10;214259;817,73;262,016802612109;Rheinland-Pfalz;7
+"07138";5,5;Neuwied, Landkreis;10;181941;627,06;290,14926801263;Rheinland-Pfalz;7
+"07140";6,8;Rhein-Hunsrück-Kreis;7;102937;991,06;103,865558089319;Rheinland-Pfalz;7
+"07141";4,9;Rhein-Lahn-Kreis;6;122308;782,24;156,356105543056;Rheinland-Pfalz;7
+"07143";1;Westerwaldkreis;2;201597;989,04;203,830987624363;Rheinland-Pfalz;7
+"07211";2,7;Trier, Kreisfreie Stadt;3;110636;117,06;945,122159576286;Rheinland-Pfalz;7
+"07231";3,6;Bernkastel-Wittlich, Landkreis;4;112262;1167,92;96,1213096787451;Rheinland-Pfalz;7
+"07232";6,1;Eifelkreis Bitburg-Prüm;6;98561;1626,95;60,5802268047574;Rheinland-Pfalz;7
+"07233";5;Vulkaneifel, Landkreis;3;60603;911,64;66,4768987758326;Rheinland-Pfalz;7
+"07235";0;Trier-Saarburg, Landkreis;0;148945;1102,26;135,126921053109;Rheinland-Pfalz;7
+"07311";2,1;Frankenthal (Pfalz), Kreisfreie Stadt;1;48561;43,88;1106,677301732;Rheinland-Pfalz;7
+"07313";0;Landau in der Pfalz, Kreisfreie Stadt;0;46677;82,94;562,780323125151;Rheinland-Pfalz;7
+"07314";0,6;Ludwigshafen am Rhein, Kreisfreie Stadt;1;171061;77,43;2209,23414697146;Rheinland-Pfalz;7
+"07315";5,1;Mainz, Kreisfreie Stadt;11;217118;97,73;2221,61055970531;Rheinland-Pfalz;7
+"07316";1,9;Neustadt an der Weinstraße, Kreisfreie Stadt;1;53148;117,09;453,907250832693;Rheinland-Pfalz;7
+"07317";0;Pirmasens, Kreisfreie Stadt;0;40403;61,36;658,458279009126;Rheinland-Pfalz;7
+"07318";4;Speyer, Kreisfreie Stadt;2;50378;42,71;1179,53640833528;Rheinland-Pfalz;7
+"07319";0;Worms, Kreisfreie Stadt;0;83330;108,73;766,393819553021;Rheinland-Pfalz;7
+"07320";0;Zweibrücken, Kreisfreie Stadt;0;34209;70,64;484,272366930917;Rheinland-Pfalz;7
+"07331";1,5;Alzey-Worms, Landkreis;2;129244;588,07;219,776557212577;Rheinland-Pfalz;7
+"07332";5,3;Bad Dürkheim, Landkreis;7;132660;594,64;223,092963810036;Rheinland-Pfalz;7
+"07333";2,7;Donnersbergkreis;2;75101;645,41;116,361692567515;Rheinland-Pfalz;7
+"07334";3,1;Germersheim, Landkreis;4;129075;463,32;278,587153587154;Rheinland-Pfalz;7
+"07312";6;Kaiserslautern, Kreisfreie Stadt;6;99845;139,7;714,71009305655;Rheinland-Pfalz;7
+"07335";2,8;Kaiserslautern, Landkreis;3;106057;640;165,7140625;Rheinland-Pfalz;7
+"07336";1,4;Kusel, Landkreis;1;70526;573,61;122,95113404578;Rheinland-Pfalz;7
+"07337";0,9;Südliche Weinstraße, Landkreis;1;110356;639,93;172,450111730971;Rheinland-Pfalz;7
+"07338";0,6;Rhein-Pfalz-Kreis;1;154201;304,99;505,593626020525;Rheinland-Pfalz;7
+"07339";5,2;Mainz-Bingen, Landkreis;11;210889;605,36;348,369565217391;Rheinland-Pfalz;7
+"07340";0;Südwestpfalz, Landkreis;0;95113;953,52;99,7493497776659;Rheinland-Pfalz;7
+"08111";6,3;Stuttgart, Landeshauptstadt, Stadtkreis;40;634830;207,33;3061,93025611344;Baden-Württemberg;8
+"08115";2,3;Böblingen, Landkreis;9;391640;617,76;633,967883967884;Baden-Württemberg;8
+"08116";12,2;Esslingen, Landkreis;65;533859;641,28;832,489708083832;Baden-Württemberg;8
+"08117";8,9;Göppingen, Landkreis;23;257253;642,34;400,493508110969;Baden-Württemberg;8
+"08118";4,6;Ludwigsburg, Landkreis;25;543984;686,77;792,09051065131;Baden-Württemberg;8
+"08119";5,4;Rems-Murr-Kreis, Landkreis;23;426158;858,08;496,641338802909;Baden-Württemberg;8
+"08121";0,8;Heilbronn, Stadtkreis;1;125960;99,89;1260,98708579437;Baden-Württemberg;8
+"08125";3,2;Heilbronn, Landkreis;11;343068;1099,91;311,905519542508;Baden-Württemberg;8
+"08126";7,1;Hohenlohekreis, Landkreis;8;112010;776,76;144,201555177919;Baden-Württemberg;8
+"08127";7,1;Schwäbisch Hall, Landkreis;14;195861;1484,07;131,97558066668;Baden-Württemberg;8
+"08128";21,2;Main-Tauber-Kreis, Landkreis;28;132321;1304,12;101,463822347637;Baden-Württemberg;8
+"08135";3;Heidenheim, Landkreis;4;132472;627,13;211,235310063304;Baden-Württemberg;8
+"08136";3,8;Ostalbkreis, Landkreis;12;314002;1511,39;207,757097770926;Baden-Württemberg;8
+"08211";5,4;Baden-Baden, Stadtkreis;3;55123;140,19;393,20208288751;Baden-Württemberg;8
+"08212";1;Karlsruhe, Stadtkreis;3;313092;173,42;1805,39730134933;Baden-Württemberg;8
+"08215";1,6;Karlsruhe, Landkreis;7;444232;1085,29;409,321010974025;Baden-Württemberg;8
+"08216";5,2;Rastatt, Landkreis;12;231018;738,43;312,850236312176;Baden-Württemberg;8
+"08221";0;Heidelberg, Stadtkreis;0;160355;108,83;1473,44482219976;Baden-Württemberg;8
+"08222";7,1;Mannheim, Stadtkreis;22;309370;144,97;2134,02772987515;Baden-Württemberg;8
+"08225";2,1;Neckar-Odenwald-Kreis, Landkreis;3;143535;1125,95;127,479017718371;Baden-Württemberg;8
+"08226";1,3;Rhein-Neckar-Kreis, Landkreis;7;547625;1061,55;515,873015873016;Baden-Württemberg;8
+"08231";0;Pforzheim, Stadtkreis;0;125542;97,99;1281,17154811715;Baden-Württemberg;8
+"08235";9,5;Calw, Landkreis;15;158397;797,29;198,66924205747;Baden-Württemberg;8
+"08236";0;Enzkreis, Landkreis;0;198905;573,6;346,766039051604;Baden-Württemberg;8
+"08237";1,7;Freudenstadt, Landkreis;2;117935;870,4;135,495174632353;Baden-Württemberg;8
+"08311";7,8;Freiburg im Breisgau, Stadtkreis;18;230241;153,04;1504,4498170413;Baden-Württemberg;8
+"08315";6,1;Breisgau-Hochschwarzwald, Landkreis;16;262795;1378,32;190,663271228742;Baden-Württemberg;8
+"08316";9,7;Emmendingen, Landkreis;16;165383;679,8;243,281847602236;Baden-Württemberg;8
+"08317";3,7;Ortenaukreis, Landkreis;16;429479;1850,35;232,106898694842;Baden-Württemberg;8
+"08325";0,7;Rottweil, Landkreis;1;139455;769,42;181,246913259338;Baden-Württemberg;8
+"08326";1,4;Schwarzwald-Baar-Kreis, Landkreis;3;212381;1025,34;207,132268320752;Baden-Württemberg;8
+"08327";0;Tuttlingen, Landkreis;0;140152;734,38;190,843977232495;Baden-Württemberg;8
+"08335";2,5;Konstanz, Landkreis;7;285325;817,98;348,816596982811;Baden-Württemberg;8
+"08336";2,6;Lörrach, Landkreis;6;228639;806,72;283,418038476795;Baden-Württemberg;8
+"08337";0,6;Waldshut, Landkreis;1;170619;1131,14;150,838092543805;Baden-Württemberg;8
+"08415";3,1;Reutlingen, Landkreis;9;286748;1027,84;278,981164383562;Baden-Württemberg;8
+"08416";4;Tübingen, Landkreis;9;227331;519,11;437,924524667219;Baden-Württemberg;8
+"08417";11,1;Zollernalbkreis, Landkreis;21;188935;917,58;205,905752087011;Baden-Württemberg;8
+"08421";4;Ulm, Stadtkreis;5;126329;118,68;1064,45062352545;Baden-Württemberg;8
+"08425";3,1;Alb-Donau-Kreis, Landkreis;6;196047;1358,55;144,306061609805;Baden-Württemberg;8
+"08426";2,5;Biberach, Landkreis;5;199742;1409,52;141,709234349282;Baden-Württemberg;8
+"08435";3,7;Bodenseekreis, Landkreis;8;216227;664,8;325,251203369434;Baden-Württemberg;8
+"08436";2,8;Ravensburg, Landkreis;8;284285;1632,08;174,18570168129;Baden-Württemberg;8
+"08437";4,6;Sigmaringen, Landkreis;6;130873;1204,23;108,67774428473;Baden-Württemberg;8
+"09161";0,7;Ingolstadt;1;136981;133,35;1027,22909636295;Bayern;9
+"09162";9,7;München, Landeshauptstadt;143;1471508;310,7;4736,1055680721;Bayern;9
+"09163";1,6;Rosenheim;1;63324;37,22;1701,34336378291;Bayern;9
+"09171";0;Altötting, Landkreis;0;111210;569,28;195,352023608769;Bayern;9
+"09172";0;Berchtesgadener Land, Landkreis;0;105722;839,82;125,886499487986;Bayern;9
+"09173";1,6;Bad Tölz-Wolfratshausen, Landkreis;2;127227;1110,66;114,550807627897;Bayern;9
+"09174";0;Dachau, Landkreis;0;153884;579,16;265,702051246633;Bayern;9
+"09175";12;Ebersberg, Landkreis;17;142142;549,39;258,726951710078;Bayern;9
+"09176";1,5;Eichstätt, Landkreis;2;132341;1213,85;109,025826914363;Bayern;9
+"09177";5,8;Erding, Landkreis;8;137660;870,74;158,095413096906;Bayern;9
+"09178";28,5;Freising, Landkreis;51;179116;799,85;223,936988185285;Bayern;9
+"09179";3,2;Fürstenfeldbruck, Landkreis;7;219320;434,8;504,415823367065;Bayern;9
+"09180";2,3;Garmisch-Partenkirchen, Landkreis;2;88467;1012,17;87,4033018168885;Bayern;9
+"09181";1,7;Landsberg am Lech, Landkreis;2;120071;804,36;149,275200159133;Bayern;9
+"09182";1;Miesbach, Landkreis;1;99726;866,22;115,12779663365;Bayern;9
+"09183";0;Mühldorf a.Inn, Landkreis;0;115250;805,33;143,109036047335;Bayern;9
+"09184";7,7;München, Landkreis;27;348871;664,25;525,21038765525;Bayern;9
+"09185";0;Neuburg-Schrobenhausen, Landkreis;0;96680;739,71;130,699868867529;Bayern;9
+"09186";3,9;Pfaffenhofen a.d.Ilm, Landkreis;5;127151;761,05;167,073122659484;Bayern;9
+"09187";1,1;Rosenheim, Landkreis;3;260983;1439,44;181,30870338465;Bayern;9
+"09188";25;Starnberg, Landkreis;34;136092;487,72;279,037152464529;Bayern;9
+"09189";4;Traunstein, Landkreis;7;177089;1533,76;115,46069789276;Bayern;9
+"09190";5,9;Weilheim-Schongau, Landkreis;8;135348;966,28;140,071200894151;Bayern;9
+"09261";1,4;Landshut;1;72404;65,83;1099,86328421692;Bayern;9
+"09274";1,3;Landshut, Landkreis;2;158698;1347,56;117,766926890083;Bayern;9
+"09262";0;Passau;0;52469;69,56;754,298447383554;Bayern;9
+"09275";2,6;Passau, Landkreis;5;192043;1530,09;125,510917658438;Bayern;9
+"09263";6,3;Straubing;3;47794;67,59;707,116437342802;Bayern;9
+"09271";0,8;Deggendorf, Landkreis;1;119326;861,17;138,562653134689;Bayern;9
+"09272";0;Freyung-Grafenau, Landkreis;0;78355;983,85;79,6412054683133;Bayern;9
+"09273";2,5;Kelheim, Landkreis;3;122258;1065,13;114,782233154638;Bayern;9
+"09276";6,4;Regen, Landkreis;5;77656;974,78;79,6651552145099;Bayern;9
+"09277";8,3;Rottal-Inn, Landkreis;10;120659;1281,2;94,1765532313456;Bayern;9
+"09278";2;Straubing-Bogen, Landkreis;2;100649;1201,61;83,7617862700876;Bayern;9
+"09279";8,3;Dingolfing-Landau, Landkreis;8;96217;877,58;109,639007269992;Bayern;9
+"09361";2,4;Amberg;1;41970;50,13;837,223219628965;Bayern;9
+"09362";0,7;Regensburg;1;152610;80,86;1887,33613653228;Bayern;9
+"09375";2,1;Regensburg, Landkreis;4;193572;1391,65;139,095318506808;Bayern;9
+"09363";9,4;Weiden i.d.OPf.;4;42520;70,57;602,522318265552;Bayern;9
+"09371";6,8;Amberg-Sulzbach, Landkreis;7;103109;1255,86;82,1023043969869;Bayern;9
+"09372";4,7;Cham, Landkreis;6;127882;1526,82;83,7570898992678;Bayern;9
+"09373";1,5;Neumarkt i.d.OPf., Landkreis;2;133561;1343,96;99,3787017470758;Bayern;9
+"09374";1,1;Neustadt a.d.Waldnaab, Landkreis;1;94352;1427,69;66,0871757874609;Bayern;9
+"09376";0;Schwandorf, Landkreis;0;147189;1458,34;100,929138609652;Bayern;9
+"09377";6,9;Tirschenreuth, Landkreis;5;72504;1084,25;66,870186765045;Bayern;9
+"09461";0;Bamberg;0;77592;54,62;1420,57854265837;Bayern;9
+"09462";0;Bayreuth;0;74657;66,89;1116,11601136194;Bayern;9
+"09463";0;Coburg;0;41249;48,29;854,19341478567;Bayern;9
+"09464";2,2;Hof;1;45930;58,02;791,623578076525;Bayern;9
+"09475";1;Hof, Landkreis;1;95311;892,52;106,788643391745;Bayern;9
+"09471";0;Bamberg, Landkreis;0;147086;1167,79;125,952440079124;Bayern;9
+"09472";4,8;Bayreuth, Landkreis;5;103656;1273,62;81,3869128939558;Bayern;9
+"09473";0;Coburg, Landkreis;0;86906;590,42;147,193523254632;Bayern;9
+"09474";2,6;Forchheim, Landkreis;3;116099;642,82;180,608879624156;Bayern;9
+"09476";1,5;Kronach, Landkreis;1;67135;651,49;103,048396752061;Bayern;9
+"09477";0;Kulmbach, Landkreis;0;71845;658,33;109,132198137712;Bayern;9
+"09478";0;Lichtenfels, Landkreis;0;66838;519,94;128,549448013232;Bayern;9
+"09479";0;Wunsiedel i.Fichtelgebirge, Landkreis;0;73178;606,37;120,68209179214;Bayern;9
+"09561";0;Ansbach;0;41847;99,91;418,84696226604;Bayern;9
+"09571";0;Ansbach, Landkreis;0;183949;1971,33;93,3121293745847;Bayern;9
+"09562";5,4;Erlangen;6;111962;76,96;1454,80769230769;Bayern;9
+"09563";5,5;Fürth;7;127748;63,35;2016,54301499605;Bayern;9
+"09564";4,1;Nürnberg;21;518365;186,45;2780,18235451864;Bayern;9
+"09565";2,5;Schwabach;1;40792;40,8;999,803921568627;Bayern;9
+"09572";6,6;Erlangen-Höchstadt, Landkreis;9;136271;564,56;241,375584526003;Bayern;9
+"09573";2,6;Fürth, Landkreis;3;117387;307,44;381,820843091335;Bayern;9
+"09574";0,6;Nürnberger Land, Landkreis;1;170365;799,51;213,086765643957;Bayern;9
+"09575";4;Neustadt a.d.Aisch-Bad Windsheim, Landkreis;4;100364;1267,44;79,1863914662627;Bayern;9
+"09576";2,4;Roth, Landkreis;3;126958;895,16;141,8271593905;Bayern;9
+"09577";2,1;Weißenburg-Gunzenhausen, Landkreis;2;94393;970,78;97,2341828220606;Bayern;9
+"09661";2,8;Aschaffenburg;2;70527;62,45;1129,3354683747;Bayern;9
+"09671";1,1;Aschaffenburg, Landkreis;2;174208;698,9;249,260266132494;Bayern;9
+"09662";0;Schweinfurt;0;54032;35,7;1513,50140056022;Bayern;9
+"09663";3,9;Würzburg;5;127880;87,6;1459,81735159817;Bayern;9
+"09672";2,9;Bad Kissingen, Landkreis;3;103218;1136,9;90,7889875978538;Bayern;9
+"09673";1,3;Rhön-Grabfeld, Landkreis;1;79690;1021,68;77,9989820687495;Bayern;9
+"09674";3,5;Haßberge, Landkreis;3;84599;956,19;88,4750938620985;Bayern;9
+"09675";2,2;Kitzingen, Landkreis;2;90909;684,14;132,880696933376;Bayern;9
+"09676";0,8;Miltenberg, Landkreis;1;128756;715,58;179,932362559043;Bayern;9
+"09677";3,2;Main-Spessart, Landkreis;4;126365;1321,2;95,6441114138662;Bayern;9
+"09678";3,5;Schweinfurt, Landkreis;4;115106;841,39;136,804573384518;Bayern;9
+"09679";1,9;Würzburg, Landkreis;3;161834;968,35;167,123457427583;Bayern;9
+"09761";1,7;Augsburg;5;295135;146,85;2009,77187606401;Bayern;9
+"09772";0;Augsburg, Landkreis;0;251534;1070,64;234,937981020698;Bayern;9
+"09762";0;Kaufbeuren;0;43893;40,02;1096,77661169415;Bayern;9
+"09763";0;Kempten (Allgäu);0;68907;63,28;1088,92225031606;Bayern;9
+"09764";2,3;Memmingen;1;43837;70,11;625,260305234631;Bayern;9
+"09771";0;Aichach-Friedberg, Landkreis;0;133596;780,23;171,226433231227;Bayern;9
+"09773";0;Dillingen a.d.Donau, Landkreis;0;96021;792,23;121,203438395415;Bayern;9
+"09774";0;Günzburg, Landkreis;0;125747;762,4;164,935729275971;Bayern;9
+"09775";4,6;Neu-Ulm, Landkreis;8;174200;515,84;337,701612903226;Bayern;9
+"09776";9,8;Lindau (Bodensee), Landkreis;8;81669;323,39;252,540276446396;Bayern;9
+"09777";3,6;Ostallgäu, Landkreis;5;140316;1394,43;100,626062262;Bayern;9
+"09778";0,7;Unterallgäu, Landkreis;1;144041;1229,57;117,147458054442;Bayern;9
+"09779";1,5;Donau-Ries, Landkreis;2;133496;1274,58;104,737246779331;Bayern;9
+"09780";5,1;Oberallgäu, Landkreis;8;155362;1527,96;101,679363334119;Bayern;9
+"10041";3;Saarbrücken, Regionalverband;10;329708;410,95;802,30684998175;Saarland;10
+"10042";1;Merzig-Wadern, Landkreis;1;103366;556,66;185,689648977832;Saarland;10
+"10043";1,5;Neunkirchen, Landkreis;2;132206;249,8;529,247397918335;Saarland;10
+"10044";2;Saarlouis, Landkreis;4;195201;459,35;424,950473495156;Saarland;10
+"10045";2,1;Saarpfalz-Kreis;3;142631;418,27;341,002223444187;Saarland;10
+"10046";12,6;St. Wendel, Landkreis;11;87397;476,07;183,580145776882;Saarland;10
+"11000";5,9;Berlin;216;3644826;891,12;4090,16294101805;Berlin;11
+"12051";0;Brandenburg an der Havel, Kreisfreie Stadt;0;72124;229,71;313,978494623656;Brandenburg;12
+"12052";8;Cottbus, Kreisfreie Stadt;8;100219;165,63;605,077582563545;Brandenburg;12
+"12053";0;Frankfurt (Oder), Kreisfreie Stadt;0;57873;147,85;391,430503889077;Brandenburg;12
+"12054";0;Potsdam, Kreisfreie Stadt;0;178089;188,25;946,02390438247;Brandenburg;12
+"12060";2,2;Barnim, Landkreis;4;182760;1479,58;123,521539896457;Brandenburg;12
+"12061";1,2;Dahme-Spreewald, Landkreis;2;169067;2274,5;74,3315014288855;Brandenburg;12
+"12062";4,9;Elbe-Elster, Landkreis;5;102638;1899,19;54,0430394010078;Brandenburg;12
+"12063";1,2;Havelland, Landkreis;2;161909;1727,31;93,7347667760854;Brandenburg;12
+"12064";2,6;Märkisch-Oderland, Landkreis;5;194328;2158,65;90,0229309985408;Brandenburg;12
+"12065";0,9;Oberhavel, Landkreis;2;211249;1808,19;116,828983679812;Brandenburg;12
+"12066";1,8;Oberspreewald-Lausitz, Landkreis;2;110476;1223,48;90,2965312060679;Brandenburg;12
+"12067";2,2;Oder-Spree, Landkreis;4;178658;2256,75;79,1660573834053;Brandenburg;12
+"12068";0;Ostprignitz-Ruppin, Landkreis;0;99078;2526,55;39,2147394668619;Brandenburg;12
+"12069";1,4;Potsdam-Mittelmark, Landkreis;3;214664;2592,02;82,8172622124829;Brandenburg;12
+"12070";0;Prignitz, Landkreis;0;76508;2138,55;35,7756423745061;Brandenburg;12
+"12071";3,5;Spree-Neiße, Landkreis;4;114429;1656,98;69,0587695687335;Brandenburg;12
+"12072";0,6;Teltow-Fläming, Landkreis;1;168296;2104,21;79,9806103003027;Brandenburg;12
+"12073";4,2;Uckermark, Landkreis;5;119552;3077,03;38,8530498565175;Brandenburg;12
+"13072";3,7;Landkreis Rostock;8;215113;3431,29;62,6915824660696;Mecklenburg-Vorpommern;13
+"13004";1;Kreisfreie Stadt Schwerin, Landeshauptstadt;1;95818;130,52;734,125038308305;Mecklenburg-Vorpommern;13
+"13071";2,7;Landkreis Mecklenburgische Seenplatte;7;259130;5495,6;47,1522672683601;Mecklenburg-Vorpommern;13
+"13073";1,8;Landkreis Vorpommern-Rügen;4;224684;3215,41;69,8772473805829;Mecklenburg-Vorpommern;13
+"13074";0;Landkreis Nordwestmecklenburg;0;156729;2127,08;73,6827011677981;Mecklenburg-Vorpommern;13
+"13075";0,8;Landkreis Vorpommern-Greifswald;2;236697;3945,56;59,9907237502408;Mecklenburg-Vorpommern;13
+"13076";0;Landkreis Ludwigslust-Parchim;0;212618;4766,79;44,6040207351278;Mecklenburg-Vorpommern;13
+"14511";2,4;Chemnitz, Stadt;6;247237;221,05;1118,46641031441;Sachsen;14
+"14521";0,6;Erzgebirgskreis;2;337696;1827,91;184,744325486485;Sachsen;14
+"13003";1;Kreisfreie Stadt Rostock, Hansestadt;2;208886;181,36;1151,77547419497;Mecklenburg-Vorpommern;13
+"14522";0;Mittelsachsen, Landkreis;0;306185;2116,85;144,641802678508;Sachsen;14
+"14523";0;Vogtlandkreis;0;227796;1412,42;161,280638903442;Sachsen;14
+"14524";1,3;Zwickau, Landkreis;4;317531;949,78;334,320579502622;Sachsen;14
+"14612";2;Dresden, Stadt;11;554649;328,48;1688,53202630297;Sachsen;14
+"14625";4,7;Bautzen, Landkreis;14;300880;2395,61;125,596403421258;Sachsen;14
+"14626";1,6;Görlitz, Landkreis;4;254894;2111,41;120,722171439938;Sachsen;14
+"14627";3,7;Meißen, Landkreis;9;242165;1454,59;166,483338947745;Sachsen;14
+"14628";3,3;Sächsische Schweiz-Osterzgebirge, Landkreis;8;245611;1654,19;148,478107109824;Sachsen;14
+"14713";2,7;Leipzig, Stadt;16;587857;297,8;1973,99932840833;Sachsen;14
+"14729";3,9;Leipzig, Landkreis;10;257763;1651,3;156,097014473445;Sachsen;14
+"14730";1;Nordsachsen, Landkreis;2;197673;2028,56;97,4449856055527;Sachsen;14
+"15001";0;Dessau-Roßlau, Kreisfreie Stadt;0;81237;244,71;331,972538923624;Sachsen-Anhalt;15
+"15002";5;Halle (Saale), Kreisfreie Stadt;12;239257;135,03;1771,88032289121;Sachsen-Anhalt;15
+"15003";4,6;Magdeburg, Kreisfreie Stadt;11;238697;201,01;1187,48818466743;Sachsen-Anhalt;15
+"15081";0;Altmarkkreis Salzwedel;0;83765;2293,36;36,5250113370775;Sachsen-Anhalt;15
+"15082";1,3;Anhalt-Bitterfeld, Landkreis;2;159854;1453,82;109,954464789314;Sachsen-Anhalt;15
+"15083";1,7;Börde, Landkreis;3;171734;2366,91;72,5562019679667;Sachsen-Anhalt;15
+"15084";1,1;Burgenlandkreis;2;180190;1413,75;127,455349248453;Sachsen-Anhalt;15
+"15085";0,9;Harz, Landkreis;2;214446;2104,72;101,888137139382;Sachsen-Anhalt;15
+"15086";1,1;Jerichower Land, Landkreis;1;89928;1576,94;57,0269001991198;Sachsen-Anhalt;15
+"15087";0,7;Mansfeld-Südharz, Landkreis;1;136249;1448,92;94,0348673494741;Sachsen-Anhalt;15
+"15088";0,5;Saalekreis;1;184582;1433,91;128,726349631427;Sachsen-Anhalt;15
+"15089";1,6;Salzlandkreis;3;190560;1427,33;133,508018468049;Sachsen-Anhalt;15
+"15090";0;Stendal, Landkreis;0;111982;2423,42;46,2082511492024;Sachsen-Anhalt;15
+"15091";1,6;Wittenberg, Landkreis;2;125840;1930,48;65,1858605113754;Sachsen-Anhalt;15
+"16051";0,9;Erfurt, krsfr. Stadt;2;213699;269,91;791,741691675003;Freistaat Thüringen;16
+"16052";1,1;Gera, krsfr. Stadt;1;94152;152,18;618,68839532133;Freistaat Thüringen;16
+"16053";0;Jena, krsfr. Stadt;0;111407;114,77;970,697917574279;Freistaat Thüringen;16
+"16054";0;Suhl, krsfr. Stadt;0;34835;103,03;338,105406192371;Freistaat Thüringen;16
+"16055";1,5;Weimar, krsfr. Stadt;1;65090;84,48;770,47821969697;Freistaat Thüringen;16
+"16056";2,4;Eisenach, krsfr. Stadt;1;42370;104,17;406,738984352501;Freistaat Thüringen;16
+"16061";1;Eichsfeld, Kreis;1;100380;943,07;106,439606816037;Freistaat Thüringen;16
+"16062";2,4;Nordhausen, Kreis;2;83822;713,9;117,414203669982;Freistaat Thüringen;16
+"16063";0;Wartburgkreis;0;123025;1307,44;94,0960961879704;Freistaat Thüringen;16
+"16064";0;Unstrut-Hainich-Kreis;0;102912;979,69;105,04547356817;Freistaat Thüringen;16
+"16065";8;Kyffhäuserkreis;6;75009;1037,91;72,2692719021881;Freistaat Thüringen;16
+"16066";0,8;Schmalkalden-Meiningen, Kreis;1;122347;1210,73;101,052257728808;Freistaat Thüringen;16
+"16067";0;Gotha, Kreis;0;135452;936,08;144,701307580549;Freistaat Thüringen;16
+"16068";0;Sömmerda, Kreis;0;69655;806,86;86,3284832560791;Freistaat Thüringen;16
+"16069";0;Hildburghausen, Kreis;0;63553;938,42;67,7234074295092;Freistaat Thüringen;16
+"16070";0,9;Ilm-Kreis;1;108742;843,71;128,885517535646;Freistaat Thüringen;16
+"16071";0;Weimarer Land, Kreis;0;81947;804,48;101,863315433572;Freistaat Thüringen;16
+"16072";0;Sonneberg, Kreis;0;56196;433,61;129,600332095662;Freistaat Thüringen;16
+"16073";4,7;Saalfeld-Rudolstadt, Kreis;5;106356;1036,03;102,657258959683;Freistaat Thüringen;16
+"16074";3,6;Saale-Holzland-Kreis;3;83051;815,24;101,873068053579;Freistaat Thüringen;16
+"16075";3,7;Saale-Orla-Kreis;3;80868;1151,3;70,2405975853383;Freistaat Thüringen;16
+"16076";0;Greiz, Kreis;0;98159;845,98;116,029929785574;Freistaat Thüringen;16
+"16077";1,1;Altenburger Land, Kreis;1;90118;569,4;158,268352651914;Freistaat Thüringen;16
