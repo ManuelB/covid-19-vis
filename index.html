@@ -265,15 +265,28 @@
         let oCovid19Data = new Covid19Data();
 
         oCovid19Data.dataLoaded().then(() => {
+            let sNewestData;
             let fnDefaultStyleFunction = new ol.layer.Vector().getStyleFunction();
             let oCountrySource = new ol.source.Vector({
                 "format": oCovid19Data.oGeoJson,
                 "url": "geo-countries/data/countries.geojson"
             });
             let fnStyle = function(oFeature, fResolution) {
-                let sData2020316 = oFeature.get("Confirmed_3/16/20");
-                if (sData2020316) {
-                    let iRed = Math.min(255, Math.round(parseFloat(sData2020316) / 10000 * 255));
+                let oFeatureData = oFeature.getProperties();
+                if (sNewestData === undefined) {
+                    let oNewestDate = new Date();
+                    do {
+                        sNewestData = "Confirmed_" + oNewestDate.toLocaleDateString('en-US', {
+                            "year": "2-digit",
+                            "month": "numeric",
+                            "day": "numeric"
+                        });
+                        oNewestDate.setDate(oNewestDate.getDate() - 1);
+                    } while ((!(sNewestData in oFeatureData)) && sNewestData !== "Confirmed_1/22/20")
+                }
+                let sData = oFeatureData[sNewestData];
+                if (sData) {
+                    let iRed = Math.min(255, Math.round(parseFloat(sData) / 10000 * 255));
 
                     return new ol.style.Style({
                         fill: new ol.style.Fill({
@@ -382,9 +395,9 @@
                 if (aFeatures.getLength() > 0) {
                     let oFeature = aFeatures.item(0);
                     let oProperties = oFeature.getProperties();
-                    if ("Confirmed_3/16/20" in oProperties) {
-                        console.log(oProperties["Confirmed_3/16/20"]);
-                        console.log(fnStyle(oFeature));
+                    if (sNewestData in oProperties) {
+                        alert(sNewestData + " " + oProperties[sNewestData]);
+                        // console.log(fnStyle(oFeature));
                     }
                 }
             });
