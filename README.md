@@ -13,6 +13,10 @@ This repository contains data visualizations based on https://github.com/CSSEGIS
 
 The website below can be used to generate a file that can be used in [kepler.gl] . Go on the website and click on the G in the upper left corner. This will generate [Covid19Data.geojson](kepler-gl-geojson/Covid19Data.geojson)
 
+With the following link you can explore the data for yourself:
+ * [Timelapse for World Wide Spread](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/kepler-gl-geojson/keplergl.json)
+ * [Germany Kreise with cases per 100.000 inhabitans](ttps://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/keplergl.json)
+
 # Website
 
 The interactive website can be found here:
