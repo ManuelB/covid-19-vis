@@ -16,7 +16,7 @@ The website below can be used to generate a file that can be used in [kepler.gl]
 
 With the following link you can explore the data for yourself:
  * [Timelapse for World Wide Spread](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/kepler-gl-geojson/keplergl.json)
- * [Germany Kreise with cases per 100.000 inhabitans](ttps://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/keplergl.json)
+ * [Germany Kreise with cases per 100.000 inhabitans](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/keplergl.json)
 
 # Website
 
