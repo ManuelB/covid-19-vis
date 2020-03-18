@@ -8,6 +8,7 @@ This repository contains data visualizations based on https://github.com/CSSEGIS
 ![Screenshot 4](/screenshots/4.png?raw=true "Screenshot 4")
 ![Screenshot 5](/screenshots/5.png?raw=true "Screenshot 5")
 ![Screenshot 6](/screenshots/6.png?raw=true "Screenshot 6")
+![Screenshot 7](/germany/germany-kreise.png?raw=true "Screenshot 7")
 
 # Kepler.gl
 
