@@ -204,7 +204,7 @@
         }));
 
         let Covid19Data = function() {
-            this.aFiles = ["Confirmed" /*, "Deaths", "Recovered"*/ ];
+            this.aFiles = ["Confirmed", "Deaths", "Recovered"];
             let aLoaded = [];
             this.mData = {};
             this.oGeoJson = new ol.format.GeoJSON();
@@ -222,10 +222,14 @@
             fetch("COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-" + sFile + ".csv")
                 .then((oResponse) => oResponse.text())
                 .then((sText) => {
-                    let aLines = sText.split(/\r?\n/).map((sLine) => sLine.split(/,/));
+                    let aLines = sText.split(/\r?\n/).map((sLine) => this.CSVtoArray(sLine));
                     let aHeader = aLines.shift();
                     this.mData[sFile] = [];
                     for (let aLine of aLines) {
+                        // skip empty lines
+                        if (!aLine) {
+                            continue;
+                        }
                         let mLine = {};
                         for (let i = 0; i < aHeader.length; i++) {
                             mLine[aHeader[i]] = aLine[i];
@@ -233,6 +237,26 @@
                         this.mData[sFile].push(mLine);
                     }
                 });
+        };
+
+        Covid19Data.prototype.CSVtoArray = function(text) {
+            var re_valid = /^\s*(?:'[^'\\]*(?:\\[\S\s][^'\\]*)*'|"[^"\\]*(?:\\[\S\s][^"\\]*)*"|[^,'"\s\\]*(?:\s+[^,'"\s\\]+)*)\s*(?:,\s*(?:'[^'\\]*(?:\\[\S\s][^'\\]*)*'|"[^"\\]*(?:\\[\S\s][^"\\]*)*"|[^,'"\s\\]*(?:\s+[^,'"\s\\]+)*)\s*)*$/;
+            var re_value = /(?!\s*$)\s*(?:'([^'\\]*(?:\\[\S\s][^'\\]*)*)'|"([^"\\]*(?:\\[\S\s][^"\\]*)*)"|([^,'"\s\\]*(?:\s+[^,'"\s\\]+)*))\s*(?:,|$)/g;
+            // Return NULL if input string is not well formed CSV string.
+            if (!re_valid.test(text)) return null;
+            var a = []; // Initialize array to receive values.
+            text.replace(re_value, // "Walk" the string using replace with callback.
+                function(m0, m1, m2, m3) {
+                    // Remove backslash from \' in single quoted values.
+                    if (m1 !== undefined) a.push(m1.replace(/\\'/g, "'"));
+                    // Remove backslash from \" in double quoted values.
+                    else if (m2 !== undefined) a.push(m2.replace(/\\"/g, '"'));
+                    else if (m3 !== undefined) a.push(m3);
+                    return ''; // Return empty string.
+                });
+            // Handle special case of empty last value.
+            if (/,\s*$/.test(text)) a.push('');
+            return a;
         };
 
         Covid19Data.prototype.mapDataToCountries = function(oCountrySource) {
@@ -351,6 +375,7 @@
                                         let oNewFeature = new ol.Feature({
                                             geometry: new ol.geom.Point(ol.proj.transform(aCoordinates, "EPSG:3857", "EPSG:4326")),
                                             type: sFile,
+                                            country_region: mProperties["Confirmed_Country/Region"],
                                             time: new Date(2000 + parseInt(RegExp.$3), (parseInt(RegExp.$1) - 1), parseInt(RegExp.$2)),
                                             value: mProperties[sProperty]
                                         });
