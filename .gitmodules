@@ -4,3 +4,6 @@
 [submodule "geo-countries"]
 	path = geo-countries
 	url = https://github.com/datasets/geo-countries
+[submodule "covid19_scenarios"]
+	path = covid19_scenarios
+	url = https://github.com/ManuelB/covid19_scenarios

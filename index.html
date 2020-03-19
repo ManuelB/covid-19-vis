@@ -283,9 +283,6 @@
                 }
             }
         };
-
-
-
         let oCovid19Data = new Covid19Data();
 
         oCovid19Data.dataLoaded().then(() => {
@@ -362,33 +359,62 @@
                 DownloadGeoJSON.prototype.handleDownloadGeoJSON = function handleDownloadGeoJSON() {
                     let aCollection = [];
 
-                    for (let sFile of oCovid19Data.aFiles) {
-                        for (let oFeature of oCountrySource.getFeatures()) {
-                            let mProperties = oFeature.getProperties();
-                            for (let sProperty in mProperties) {
-                                let oMatch = new RegExp("^" + sFile + "_(.*)");
-                                let bMatch = oMatch.test(sProperty);
-                                let sDate = RegExp.$1;
-                                if (bMatch && sDate.match(/(\d?\d)\/(\d?\d)\/(\d\d)/) && mProperties[sProperty] > 0) {
-                                    try {
-                                        let aCoordinates = ol.extent.getCenter(oFeature.getGeometry().getExtent());
-                                        let oNewFeature = new ol.Feature({
-                                            geometry: new ol.geom.Point(ol.proj.transform(aCoordinates, "EPSG:3857", "EPSG:4326")),
-                                            type: sFile,
-                                            country_region: mProperties["Confirmed_Country/Region"],
-                                            time: new Date(2000 + parseInt(RegExp.$3), (parseInt(RegExp.$1) - 1), parseInt(RegExp.$2)),
-                                            value: mProperties[sProperty]
-                                        });
-                                        aCollection.push(oNewFeature);
-                                    } catch (e) {
-                                        console.log(e);
+                    fetch("simulation/COVID19_Simulation.json").then((o) => o.json()).then((oSimulation) => {
+                        let mMaxRegion = {};
+                        for (let sFile of oCovid19Data.aFiles) {
+                            for (let oFeature of oCountrySource.getFeatures()) {
+                                let mProperties = oFeature.getProperties();
+                                for (let sProperty in mProperties) {
+                                    let oMatch = new RegExp("^" + sFile + "_(.*)");
+                                    let bMatch = oMatch.test(sProperty);
+                                    let sDate = RegExp.$1;
+                                    if (bMatch && sDate.match(/(\d?\d)\/(\d?\d)\/(\d\d)/) && mProperties[sProperty] > 0) {
+                                        try {
+                                            let aCoordinates = ol.extent.getCenter(oFeature.getGeometry().getExtent());
+                                            let dDate = new Date(2000 + parseInt(RegExp.$3), (parseInt(RegExp.$1) - 1), parseInt(RegExp.$2));
+                                            if (!(mProperties["Confirmed_Country/Region"] in mMaxRegion) || mMaxRegion[mProperties["Confirmed_Country/Region"]] < dDate.getTime()) {
+                                                mMaxRegion[mProperties["Confirmed_Country/Region"]] = dDate.getTime();
+                                            }
+                                            let oNewFeature = new ol.Feature({
+                                                geometry: new ol.geom.Point(ol.proj.transform(aCoordinates, "EPSG:3857", "EPSG:4326")),
+                                                type: sFile,
+                                                country_region: mProperties["Confirmed_Country/Region"],
+                                                time: dDate,
+                                                value: mProperties[sProperty]
+                                            });
+                                            aCollection.push(oNewFeature);
+                                        } catch (e) {
+                                            console.log(e);
+                                        }
+                                    }
+                                }
+                            }
+
+                            // Add simulated data to country
+                            for (let oFeature of oCountrySource.getFeatures()) {
+                                let mProperties = oFeature.getProperties();
+                                let country_region = mProperties["Confirmed_Country/Region"];
+                                if (country_region in oSimulation) {
+                                    for (let oSimulationPoint of oSimulation[country_region].deterministicTrajectory) {
+                                        if (oSimulationPoint.time > mMaxRegion[country_region]) {
+                                            let aCoordinates = ol.extent.getCenter(oFeature.getGeometry().getExtent());
+                                            let oNewFeature = new ol.Feature({
+                                                geometry: new ol.geom.Point(ol.proj.transform(aCoordinates, "EPSG:3857", "EPSG:4326")),
+                                                type: "Confirmed_Simulated",
+                                                country_region: country_region,
+                                                time: new Date(oSimulationPoint.time),
+                                                value: Math.round(oSimulationPoint.infectious.total)
+                                            });
+                                            aCollection.push(oNewFeature);
+                                        }
                                     }
                                 }
                             }
                         }
-                    }
-                    let sGeoJson = oCovid19Data.oGeoJson.writeFeatures(aCollection);
-                    download(sGeoJson, "Covid19Data.geojson", "application/geo+json");
+                        let sGeoJson = oCovid19Data.oGeoJson.writeFeatures(aCollection);
+                        download(sGeoJson, "Covid19Data.geojson", "application/geo+json");
+                    });
+
                 };
 
                 return DownloadGeoJSON;
