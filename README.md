@@ -8,7 +8,7 @@ This repository contains data visualizations based on https://github.com/CSSEGIS
 ![Screenshot 4](/screenshots/4.png?raw=true "Screenshot 4")
 ![Screenshot 5](/screenshots/5.png?raw=true "Screenshot 5")
 ![Screenshot 6](/screenshots/6.png?raw=true "Screenshot 6")
-![Germany Kreise with Covid-19 confirmed cases](/germany/germany-kreise.png?raw=true "Germany Kreise with Covid-19 confirmed cases")
+![Germany Kreise 2020-03-20 with Covid-19 confirmed cases](/germany/rki-dashboard/2020-03-20-RKI-Cases-Landkreise.png?raw=true "Germany Kreise with Covid-19 confirmed cases")
 ![Germany Kreise with Hospitals](/germany/kreise_with_hospitals_keplergl.png?raw=true "Germany Kreise with Hospitals")
 
 # Kepler.gl
@@ -18,7 +18,7 @@ The website below can be used to generate a file that can be used in [kepler.gl]
 With the following link you can explore the data for yourself:
  * [Timelapse for World Wide Spread](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/kepler-gl-geojson/keplergl.json)
  * [Timelapse for World Wide Spread including 6 month simulation](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/simulation/keplergl.json)
- * [Germany Kreise with confirmed covid-19 cases per 100.000 inhabitans](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/keplergl.json)
+ * [Germany Kreise 2020-03-20 with confirmed covid-19 cases per 100.000 inhabitans](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/rki-dashboard/keplergl.json)
  * [Germany Kreise with hospitals](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/kreise_with_hospitals_keplergl.json)
 
 # Website
