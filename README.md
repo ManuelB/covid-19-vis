@@ -12,6 +12,8 @@ This repository contains data visualizations based on https://github.com/CSSEGIS
 ![Germany Simulation 2020-03-27](/germany/rki-dashboard/Germany_Simulation_2020-03-27.png?raw=true "Germany Simulation 2020-03-27")
 ![Germany Kreise with Hospitals](/germany/kreise_with_hospitals_keplergl.png?raw=true "Germany Kreise with Hospitals")
 
+![When are germanies hospitals full](/simulation/When-are-germanies-hospitals-full.png?raw=true "Germany Hospitals full")
+
 # Kepler.gl
 
 The website below can be used to generate a file that can be used in [kepler.gl] . Go on the website and click on the G in the upper left corner. This will generate [Covid19Data.geojson](kepler-gl-geojson/Covid19Data.geojson)
@@ -22,6 +24,13 @@ With the following link you can explore the data for yourself:
  * [Germany Kreise 2020-03-20 with confirmed covid-19 cases per 100.000 inhabitans](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/rki-dashboard/keplergl.json)
  * [Germany Kreise with hospitals](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/kreise_with_hospitals_keplergl.json)
  * Germany Simulation for all Districts Dowload, Unzip and Paste the following file https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/rki-dashboard/keplergl-simulation.zip
+
+# YouTube
+
+ * https://www.youtube.com/watch?v=_Tn9rrjBQGQ - COVID-19 spread across the world visualized with kepler.gl
+ * https://www.youtube.com/watch?v=FwhXsUaQmyM - Simulation der COVID-19 benötigten ICU Betten in Deutschland in den nächsten 6 Monaten
+ * https://www.youtube.com/watch?v=ZjNbRwBumkg - COVID 19 Simulation, wann sind die Deutschen Krankenhäuser voll
+
 
 # Website
 
