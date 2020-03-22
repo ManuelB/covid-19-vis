@@ -11,8 +11,8 @@ This repository contains data visualizations based on https://github.com/CSSEGIS
 ![Germany Kreise 2020-03-20 with Covid-19 confirmed cases](/germany/rki-dashboard/2020-03-20-RKI-Cases-Landkreise.png?raw=true "Germany Kreise with Covid-19 confirmed cases")
 ![Germany Simulation 2020-03-27](/germany/rki-dashboard/Germany_Simulation_2020-03-27.png?raw=true "Germany Simulation 2020-03-27")
 ![Germany Kreise with Hospitals](/germany/kreise_with_hospitals_keplergl.png?raw=true "Germany Kreise with Hospitals")
-
 ![When are germanies hospitals full](/simulation/When-are-germanies-hospitals-full.png?raw=true "Germany Hospitals full")
+![How is the situation in the 478 hospitals in the DIVI Intensivregister](/germany/divi-intensivregister-scrapper/2020-03-22.png?raw=true "Mapped hospitals from DIVI register")
 
 # Kepler.gl
 
@@ -24,6 +24,7 @@ With the following link you can explore the data for yourself:
  * [Germany Kreise 2020-03-20 with confirmed covid-19 cases per 100.000 inhabitans](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/rki-dashboard/keplergl.json)
  * [Germany Kreise with hospitals](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/kreise_with_hospitals_keplergl.json)
  * Germany Simulation for all Districts Dowload, Unzip and Paste the following file https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/rki-dashboard/keplergl-simulation.zip
+ * [Mapped data from DIVI Intensivregister](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/divi-intensivregister-scrapper/keplergl.json)
 
 # YouTube
 
