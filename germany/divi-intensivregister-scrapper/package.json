@@ -1,0 +1,28 @@
+{
+  "name": "divi-intensivregister-scrapper",
+  "version": "1.0.0",
+  "description": "This downloads all data from the website https://www.divi.de/register/intensivregister?view=item",
+  "scripts": {
+    "start": "node start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelB/covid-19-vis.git"
+  },
+  "keywords": [
+    "corona",
+    "divi",
+    "intensivregister",
+    "capacity"
+  ],
+  "author": "Manuel Blechschmidt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuelB/covid-19-vis/issues"
+  },
+  "homepage": "https://github.com/ManuelB/covid-19-vis#readme",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
