@@ -1,0 +1,23 @@
+{
+    "name": "germany-population-xslx-to-json",
+    "version": "1.0.0",
+    "description": "This package creates a population.json file from the XLSX file that is delivered from the Statistisches Bundesamt",
+    "main": "index.js",
+    "scripts": {
+        "run": "node convert.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ManuelB/covid-19-vis.git"
+    },
+    "author": "Manuel Blechschmidt",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ManuelB/covid-19-vis/issues"
+    },
+    "homepage": "https://github.com/ManuelB/covid-19-vis#readme",
+    "dependencies": {
+        "xlsx": "^0.15.6"
+    }
+}
