@@ -62,16 +62,16 @@ for (let iRow = 24; iRow < 9689;) {
             iRow++;
         }
         let mDistrictPopulation = {
-            "Kreisname": kreisname,
+            // "Kreisname": kreisname,
             "0-9": mAgeDistribution["unter 3 Jahre"] + mAgeDistribution["3 bis unter 6 Jahre"] + mAgeDistribution["6 bis unter 10 Jahre"],
             "10-19": mAgeDistribution["10 bis unter 15 Jahre"] + mAgeDistribution["15 bis unter 18 Jahre"] + mAgeDistribution["18 bis unter 20 Jahre"],
             "20-29": mAgeDistribution["20 bis unter 25 Jahre"] + mAgeDistribution["25 bis unter 30 Jahre"],
             "30-39": mAgeDistribution["30 bis unter 35 Jahre"] + mAgeDistribution["35 bis unter 40 Jahre"],
             "40-49": mAgeDistribution["40 bis unter 45 Jahre"] + mAgeDistribution["45 bis unter 50 Jahre"],
             "50-59": mAgeDistribution["50 bis unter 55 Jahre"] + mAgeDistribution["55 bis unter 60 Jahre"],
-            "60-69": mAgeDistribution["60 bis unter 65 Jahre"] + mAgeDistribution["65 bis unter 75 Jahre"] * 0.5,
-            "70-79": mAgeDistribution["65 bis unter 75 Jahre"] * 0.5 + mAgeDistribution["75 Jahre und mehr"] * 0.3,
-            "80+": mAgeDistribution["75 Jahre und mehr"] * 0.7
+            "60-69": mAgeDistribution["60 bis unter 65 Jahre"] + Math.round(mAgeDistribution["65 bis unter 75 Jahre"] * 0.5),
+            "70-79": Math.round(mAgeDistribution["65 bis unter 75 Jahre"] * 0.5 + mAgeDistribution["75 Jahre und mehr"] * 0.3),
+            "80+": Math.round(mAgeDistribution["75 Jahre und mehr"] * 0.7)
         }
 
         mPopulation[kreisnummer] = mDistrictPopulation;

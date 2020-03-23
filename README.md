@@ -24,6 +24,7 @@ With the following link you can explore the data for yourself:
  * [Germany Kreise 2020-03-20 with confirmed covid-19 cases per 100.000 inhabitans](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/rki-dashboard/keplergl.json)
  * [Germany Kreise with hospitals](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/kreise_with_hospitals_keplergl.json)
  * [Germany NW and RP 2020-03-23 20% of ICU beds for COVID-19](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/simulation/RP-NW_Landkreise_Intensivbetten_Strong_Mitigation_keplergl.json)
+ * [Germany NW and RP 2020-03-23 20% of ICU beds for COVID-19 with age distribution](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/simulation/RP-NW_Landkreise_Intensivbetten_Strong_Mitigation_With_Age_On_District_keplergl.json)
  * Germany Simulation for all Districts Dowload, Unzip and Paste the following file https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/rki-dashboard/keplergl-simulation.zip
  * [Mapped data from DIVI Intensivregister](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/divi-intensivregister-scrapper/keplergl.json)
 
