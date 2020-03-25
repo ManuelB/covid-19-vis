@@ -1,0 +1,6 @@
+- Zahlen stammen aus der amtlichen Statistik „Grunddaten der Krankenhäuser (EVAS-Nr. 23111)“
+- die Daten sind von 12/2017
+- es handelt sich um Durchschnittwerte des Jahres der insgesamt zur Verfügung stehenden Betten; die Anzahl der freien Betten ist i.d.R. geringer
+- nicht erfasst sind Krankenhäuser des Straf- und Maßregelvollzuges sowie der Polizei
+- die Zuordnung zum Landkreis ist immer bezogen auf den Standort des Hauptsitzes der Krankenhausverwaltung (nicht zwingend Standort des Krankenhauses)
+- zu den Intensivbetten gehören auch Schwerkrankenbetten mit Überwachungseinrichtungen
