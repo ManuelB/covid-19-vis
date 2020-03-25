@@ -1,6 +1,27 @@
 # covid-19-vis
 This repository contains data visualizations based on https://github.com/CSSEGISandData/COVID-19 using kepler.gl
 
+The covid-19-vis project is a simulation and visualization project that
+predicts when the ICU bed capacity of a certain region will be
+overloaded. It connects best in class software projects
+(https://github.com/neherlab/covid19_scenarios/,
+https://github.com/keplergl/kepler.gl) with most recent data from John
+Hopkins University, Robert-Koch-Institut, DIVI Intensivregister and the
+federal statistical office.
+The ICU capacity data was exclusively released for this project and is
+available in the following folder
+https://github.com/ManuelB/covid-19-vis/tree/gh-pages/germany/its-beds
+The collection process of this data is still running.
+
+A recent video that compares two scenarios on YouTube received ~6.000
+views in the last 4 days (https://www.youtube.com/watch?v=ZjNbRwBumkg).
+The author also released a how-to video that explains how to create an
+own simulation e.g. for another country:
+https://www.youtube.com/watch?v=lwUDvNfVeEo
+
+The simulation results can directly be read from github into kepler.gl
+https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/simulation/RP-NW_Landkreise_Intensivbetten_Strong_Mitigation_With_Age_On_District_keplergl.json
+
 # Screenshots
 ![Screenshot 1](/screenshots/1.png?raw=true "Screenshot 1")
 ![Screenshot 2](/screenshots/2.png?raw=true "Screenshot 2")
