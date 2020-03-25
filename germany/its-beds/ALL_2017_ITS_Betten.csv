@@ -1,106 +1,113 @@
-Nummer,Kreisebene,Intensivbetten,Krankenhauser,Betten,Bundesland
-5111000,Düsseldorf,275,13,5017,NW
-5112000,Duisburg,273,8,4634,NW
-5113000,Essen,366,12,5681,NW
-5114000,Krefeld,104,4,2078,NW
-5116000,Mönchengladbach,133,5,2131,NW
-5117000,Mülheim an der Ruhr,0,2,932,NW
-5119000,Oberhausen,89,3,1456,NW
-5120000,Remscheid,0,3,1020,NW
-5122000,Solingen,75,4,1046,NW
-5124000,Wuppertal,102,3,2070,NW
-5154000,Kleve,63,7,1689,NW
-5158000,Mettmann,59,11,2240,NW
-5162000,Rhein-Kreis Neuss,70,7,1983,NW
-5166000,Viersen,45,7,1413,NW
-5170000,Wesel,92,7,2540,NW
-5100000,Reg.-Bez. Düsseldorf,1857,96,35930,NW
-5314000,Bonn,218,9,4149,NW
-5315000,Köln,525,22,7083,NW
-5316000,Leverkusen,0,2,1086,NW
-5334000,Städteregion Aachen,251,9,3842,NW
-5358000,Düren,72,6,1783,NW
-5362000,Rhein-Erft-Kreis,64,8,1433,NW
-5366000,Euskirchen,0,3,1101,NW
-5370000,Heinsberg,37,4,952,NW
-5374000,Oberbergischer Kreis,61,4,1559,NW
-5378000,Rheinisch-Bergischer Kreis,46,5,1151,NW
-5382000,Rhein-Sieg-Kreis,100,7,1455,NW
-5300000,Reg.-Bez. Köln,1485,79,25594,NW
-5512000,Bottrop,0,2,704,NW
-5513000,Gelsenkirchen,93,5,1775,NW
-5515000,Münster,232,9,3730,NW
-5554000,Borken,57,7,1876,NW
-5558000,Coesfeld,0,3,856,NW
-5562000,Recklinghausen,174,12,4886,NW
-5566000,Steinfurt,84,8,2033,NW
-5570000,Warendorf,44,6,1345,NW
-5500000,Reg.-Bez. Münster,752,52,17205,NW
-5711000,Bielefeld,189,7,3974,NW
-5754000,Gütersloh,36,3,1421,NW
-5758000,Herford,0,3,1092,NW
-5762000,Höxter,0,2,1057,NW
-5766000,Lippe,60,4,1403,NW
-5770000,Minden-Lübbecke,230,8,2373,NW
-5774000,Paderborn,74,5,1747,NW
-5700000,Reg.-Bez. Detmold,693,32,13067,NW
-5911000,Bochum,207,7,3403,NW
-5913000,Dortmund,258,11,3921,NW
-5914000,Hagen,0,4,1589,NW
-5915000,Hamm,81,5,1789,NW
-5916000,Herne,85,5,1656,NW
-5954000,Ennepe-Ruhr-Kreis,90,7,1906,NW
-5958000,Hochsauerlandkreis,75,10,2087,NW
-5962000,Märkischer Kreis,129,11,2848,NW
-5966000,Olpe,0,2,844,NW
-5970000,Siegen-Wittgenstein,111,5,1988,NW
-5974000,Soest,83,9,2027,NW
-5978000,Unna,144,9,2652,NW
-5900000,Reg.-Bez. Arnsberg,1361,85,26710,NW
-5000000,Nordrhein-Westfalen,6148,344,118506,NW
-111,Koblenz,175,,,RP
-131,Ahrweiler,13,,,RP
-132,Altenkirchen (Westerwald),17,,,RP
-133,Bad Kreuznach,52,,,RP
-134,Birkenfeld,36,,,RP
-135,Cochem-Zell,10,,,RP
-137,Mayen-Koblenz,14,,,RP
-138,Neuwied,93,,,RP
-140,Rhein-Hunsrück-Kreis,13,,,RP
-141,Rhein-Lahn-Kreis,35,,,RP
-143,Westerwaldkreis,23,,,RP
-211,Trier,96,,,RP
-231,Bernkastel-Wittlich,23,,,RP
-232,Eifelkreis Bitburg-Prüm,21,,,RP
-233,Vulkaneifel,10,,,RP
-235,Trier-Saarburg,16,,,RP
-311,Frankenthal (Pfalz),12,,,RP
-312,Kaiserslautern,106,,,RP
-313,Landau in der Pfalz,38,,,RP
-314,Ludwigshafen am Rhein,128,,,RP
-315,Mainz,221,,,RP
-316,Neustadt an der Weinstraße,18,,,RP
-317,Pirmasens,12,,,RP
-318,Speyer,34,,,RP
-319,Worms,33,,,RP
-331,Alzey-Worms,6,,,RP
-332,Bad Dürkheim,14,,,RP
-333,Donnersbergkreis,12,,,RP
-334,Germersheim,10,,,RP
-335,Kaiserslautern,23,,,RP
-337,Südliche Weinstraße,0,,,RP
-339,Mainz-Bingen,22,,,RP
-340,Südwestpfalz,7,,,RP
-14511,"Chemnitz, Kreisfreie Stadt",140,,,SN
-14521,Erzgebirgskreis,91,,,SN
-14522,"Mittelsachsen, Landkreis",83,,,SN
-14523,Vogtlandkreis,79,,,SN
-14524,"Zwickau, Landkreis",103,,,SN
-14612,"Dresden, Kreisfreie Stadt",294,,,SN
-14625,"Bautzen, Landkreis",105,,,SN
-14626,"Görlitz, Landkreis",73,,,SN
-14627,"Meißen, Landkreis",84,,,SN
-14628,"Sächsische Schweiz-Osterzgebirge, Landkreis",270,,,SN
-14713,"Leipzig, Kreisfreie Stadt",421,,,SN
-14729,"Leipzig, Landkreis",54,,,SN
-14730,"Nordsachsen, Landkreis",62,,,SN
+Nummer,Kreisebene,Intensivbetten,Krankenhauser,Betten,Bundesland,EWZ,Region,Intensivbetten_Region,EWZ Region
+5111,Düsseldorf,275,13,5017,NW,,,,
+5112,Duisburg,273,8,4634,NW,,,,
+5113,Essen,366,12,5681,NW,,,,
+5114,Krefeld,104,4,2078,NW,,,,
+5116,Mönchengladbach,133,5,2131,NW,,,,
+5117,Mülheim an der Ruhr,0,2,932,NW,,,,
+5119,Oberhausen,89,3,1456,NW,,,,
+5120,Remscheid,0,3,1020,NW,,,,
+5122,Solingen,75,4,1046,NW,,,,
+5124,Wuppertal,102,3,2070,NW,,,,
+5154,Kleve,63,7,1689,NW,,,,
+5158,Mettmann,59,11,2240,NW,,,,
+5162,Rhein-Kreis Neuss,70,7,1983,NW,,,,
+5166,Viersen,45,7,1413,NW,,,,
+5170,Wesel,92,7,2540,NW,,,,
+5100,Reg.-Bez. Düsseldorf,1857,96,35930,NW,,,,
+5314,Bonn,218,9,4149,NW,,,,
+5315,Köln,525,22,7083,NW,,,,
+5316,Leverkusen,0,2,1086,NW,,,,
+5334,Städteregion Aachen,251,9,3842,NW,,,,
+5358,Düren,72,6,1783,NW,,,,
+5362,Rhein-Erft-Kreis,64,8,1433,NW,,,,
+5366,Euskirchen,0,3,1101,NW,,,,
+5370,Heinsberg,37,4,952,NW,,,,
+5374,Oberbergischer Kreis,61,4,1559,NW,,,,
+5378,Rheinisch-Bergischer Kreis,46,5,1151,NW,,,,
+5382,Rhein-Sieg-Kreis,100,7,1455,NW,,,,
+5300,Reg.-Bez. Köln,1485,79,25594,NW,,,,
+5512,Bottrop,0,2,704,NW,,,,
+5513,Gelsenkirchen,93,5,1775,NW,,,,
+5515,Münster,232,9,3730,NW,,,,
+5554,Borken,57,7,1876,NW,,,,
+5558,Coesfeld,0,3,856,NW,,,,
+5562,Recklinghausen,174,12,4886,NW,,,,
+5566,Steinfurt,84,8,2033,NW,,,,
+5570,Warendorf,44,6,1345,NW,,,,
+5500,Reg.-Bez. Münster,752,52,17205,NW,,,,
+5711,Bielefeld,189,7,3974,NW,,,,
+5754,Gütersloh,36,3,1421,NW,,,,
+5758,Herford,0,3,1092,NW,,,,
+5762,Höxter,0,2,1057,NW,,,,
+5766,Lippe,60,4,1403,NW,,,,
+5770,Minden-Lübbecke,230,8,2373,NW,,,,
+5774,Paderborn,74,5,1747,NW,,,,
+5700,Reg.-Bez. Detmold,693,32,13067,NW,,,,
+5911,Bochum,207,7,3403,NW,,,,
+5913,Dortmund,258,11,3921,NW,,,,
+5914,Hagen,0,4,1589,NW,,,,
+5915,Hamm,81,5,1789,NW,,,,
+5916,Herne,85,5,1656,NW,,,,
+5954,Ennepe-Ruhr-Kreis,90,7,1906,NW,,,,
+5958,Hochsauerlandkreis,75,10,2087,NW,,,,
+5962,Märkischer Kreis,129,11,2848,NW,,,,
+5966,Olpe,0,2,844,NW,,,,
+5970,Siegen-Wittgenstein,111,5,1988,NW,,,,
+5974,Soest,83,9,2027,NW,,,,
+5978,Unna,144,9,2652,NW,,,,
+5900,Reg.-Bez. Arnsberg,1361,85,26710,NW,,,,
+7131,Ahrweiler,13,,,RP,,,,
+7132,Altenkirchen (Westerwald),17,,,RP,,,,
+7331,Alzey-Worms,6,,,RP,,,,
+7332,Bad Dürkheim,14,,,RP,,,,
+7133,Bad Kreuznach,52,,,RP,,,,
+7231,Bernkastel-Wittlich,23,,,RP,,,,
+7134,Birkenfeld,36,,,RP,,,,
+7135,Cochem-Zell,10,,,RP,,,,
+7333,Donnersbergkreis,12,,,RP,,,,
+7232,Eifelkreis Bitburg-Prüm,21,,,RP,,,,
+7311,Frankenthal (Pfalz),12,,,RP,,,,
+7334,Germersheim,10,,,RP,,,,
+7312,Kaiserslautern,106,,,RP,,,,
+7335,Kaiserslautern,23,,,RP,,,,
+7111,Koblenz,175,,,RP,,,,
+7313,Landau in der Pfalz,38,,,RP,,,,
+7314,Ludwigshafen am Rhein,128,,,RP,,,,
+7315,Mainz,221,,,RP,,,,
+7339,Mainz-Bingen,22,,,RP,,,,
+7137,Mayen-Koblenz,14,,,RP,,,,
+7316,Neustadt an der Weinstraße,18,,,RP,,,,
+7138,Neuwied,93,,,RP,,,,
+7317,Pirmasens,12,,,RP,,,,
+7140,Rhein-Hunsrück-Kreis,13,,,RP,,,,
+7141,Rhein-Lahn-Kreis,35,,,RP,,,,
+7318,Speyer,34,,,RP,,,,
+7337,Südliche Weinstraße,0,,,RP,,,,
+7340,Südwestpfalz,7,,,RP,,,,
+7211,Trier,96,,,RP,,,,
+7235,Trier-Saarburg,16,,,RP,,,,
+7233,Vulkaneifel,10,,,RP,,,,
+7143,Westerwaldkreis,23,,,RP,,,,
+7319,Worms,33,,,RP,,,,
+14511,Chemnitz,140,,,SN,,,,
+14521,Erzgebirgskreis,91,,,SN,,,,
+14522,Mittelsachsen,83,,,SN,,,,
+14523,Vogtlandkreis,79,,,SN,,,,
+14524,Zwickau,103,,,SN,,,,
+14612,Dresden,294,,,SN,,,,
+14625,Bautzen,105,,,SN,,,,
+14626,Görlitz,73,,,SN,,,,
+14627,Meißen,84,,,SN,,,,
+14628,Sächsische Schweiz-Osterzgebirge,270,,,SN,,,,
+14713,Leipzig,421,,,SN,,,,
+14729,Leipzig,54,,,SN,,,,
+14730,Nordsachsen,62,,,SN,,,,
+13003,Rostock,92,,,MV,208886,Mittleres Mecklenburg/Rostock,186,423999
+13004,Schwerin,74,,,MV,95818,Westmecklenburg,360,465165
+13071,Mecklenburgische Seenplatte,150,,,MV,259130,Mecklenburgische Seenplatte,150,259130
+13072,Rostock,94,,,MV,215113,Mittleres Mecklenburg/Rostock,186,423999
+13073,Vorpommern-Rügen,155,,,MV,224684,Vorpommern,318,461381
+13074,Nordwestmecklenburg,121,,,MV,156729,Westmecklenburg,360,465165
+13075,Vorpommern-Greifswald,163,,,MV,236697,Vorpommern,318,461381
+13076,Ludwigslust-Parchim,165,,,MV,212618,Westmecklenburg,360,465165
