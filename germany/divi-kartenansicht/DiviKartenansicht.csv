@@ -1,0 +1,635 @@
+gemeindeschluessel,lat,lon,Bundesland,PLZ,Ort,Webadresse,BL,ICU low care (frei),ICU low care (belegt),ICU low care (Einschätzung),ICU low care in 24 h (Anzahl),ICU high care (frei),ICU high care (belegt),ICU high care (Einschätzung),ICU high care in 24 h (Anzahl),ICU ECMO (frei),ICU ECMO (belegt),ICU ECMO care (Einschätzung),ICU ECMO care in 24 h (Anzahl),Anzahl ECMO-Fälle pro Jahr,COVID-19 aktuell,COVID-19 kumulativ,COVID-19 beatmet,COVID-19 verstorben,icu_beds_future
+11000,52.542387394849,13.347768545282,11,15535,Berlin,https://ards.charite.de,BE,12,6,Verfügbar,7,3,10,Verfügbar,6,6,1,Verfügbar,7,80,12,0,6,0,20
+05113,51.445465262903,7.033164024288,05,45138,Essen,https://www.contilia.de/,NRW,3,12,Verfügbar,10,7,3,Verfügbar,7,2,0,Verfügbar,2,35,0,0,0,0,19
+12067,52.284712952122,14.063543915945,12,15526,Bad Saarow,https://www.helios-gesundheit.de/kliniken/bad-saarow/unser-angebot/unsere-fachbereiche/anaesthesiologie-intensivmedizin-und-schmerztherapie/leistung/,BB,0,12,Begrenzt,14,5,14,Verfügbar,19,2,0,Verfügbar,2,15,0,0,0,0,35
+09564,49.463117134636,11.063412129879,09,90419,Nürnberg,https://www.klinikum-nuernberg.de/DE/ueber_uns/Fachabteilungen_KN/kliniken/medizin3/index.html,BY,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,0,0,0,0
+05314,50.701534412031,7.102468227649,05,53127,Bonn,http://www.ecmo-bonn.de,NRW,5,0,Verfügbar,3,2,0,Verfügbar,3,3,5,Verfügbar,3,121,0,0,0,0,9
+09562,49.600814436059,11.010412752612,09,91054,Erlangen,https://www.anaesthesie.uk-erlangen.de/,BY,0,0,Verfügbar,10,11,0,Verfügbar,20,2,0,Verfügbar,4,60,1,3,0,0,34
+14612,51.058086530837,13.77770733835,14,1307,Dresden,https://www.uniklinikum-dresden.de/de/das-klinikum/kliniken-polikliniken-institute/ane,SN,0,0,Verfügbar,15,7,23,Verfügbar,20,6,0,Verfügbar,6,50,4,0,4,0,41
+02000,53.589913025365,9.974761963022,02,20251,Hamburg,https://www.uke.de/kliniken-institute/kliniken/intensivmedizin/%C3%BCber-die-klinik/index.html,HH,4,8,Verfügbar,6,8,0,Verfügbar,20,10,2,Verfügbar,10,150,10,4,10,0,36
+06531,50.576552378551,8.664676129802,06,35392,Gießen,https://www.ukgm.de/ugm_2/deu/ugi_ana/index.html,HE,4,0,Verfügbar,6,4,0,Verfügbar,6,4,0,Verfügbar,4,0,0,0,0,0,16
+07211,49.762079222289,6.640679597863,07,54292,Trier,https://www.bk-trier.de/bkt/medizin-pflege/fachabteilungen/innere-medizin-iii/internistische-intensivmedizin/index.php,RP,0,4,Ausgelastet,3,6,11,Begrenzt,6,3,0,Verfügbar,3,30,0,0,0,0,12
+16051,50.994088107174,11.011598825553,16,99089,Erfurt,https://www.helios-gesundheit.de/kliniken/erfurt/unser-angebot/unsere-fachbereiche/interdisziplinaere-intensivmedizin-intermediate-care/,TH,28,0,Verfügbar,28,38,0,Verfügbar,78,2,0,Verfügbar,2,30,1,0,1,0,108
+05334,50.776221763856,6.043888092172,05,52074,Aachen,https://www.ukaachen.de/kliniken-institute/klinik-fuer-operative-intensivmedizin-und-intermediate-care/klinik.html,NRW,0,18,Begrenzt,5,0,66,Begrenzt,5,0,2,Begrenzt,6,50,15,2,15,0,16
+08416,48.530938538791,9.037610471232,08,72076,Tübingen,https://www.medizin.uni-tuebingen.de/de/das-klinikum/einrichtungen/kliniken/anaesthesie,BW,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,0,0,0,0
+05515,51.961204012648,7.595886111849,05,48149,Münster,https://www.ukm.de/index.php?id=9203,NRW,13,5,Verfügbar,15,11,31,Verfügbar,16,9,0,Verfügbar,9,145,1,1,0,0,40
+03159,51.550535752979,9.942435720004,03,37075,Göttingen,http://www.ains.med.uni-goettingen.de,NI,16,1,Verfügbar,8,12,4,Verfügbar,4,8,0,Verfügbar,4,0,4,0,3,0,16
+05913,51.509104715874,7.455439746363,05,44137,Dortmund,https://www.klinikumdo.de/kliniken-zentren/kliniken-abteilungen-a-l/herzchirurgie/willkommen,NRW,0,0,Ausgelastet,0,1,0,Begrenzt,1,0,0,Begrenzt,1,20,0,0,0,0,2
+13003,54.085558886271,12.101712405665,13,18057,Rostock,https://anaesthesie.med.uni-rostock.de/bei-uns-sind-sie-gut-aufgehoben/intensivtherapiestation-its,MV,4,0,Verfügbar,10,4,0,Verfügbar,10,3,0,Verfügbar,4,60,0,0,0,0,24
+03404,52.270038404085,8.053050398794,03,49074,Osnabrück,https://www.niels-stensen-kliniken.de/marienhospital-osnabrueck/medizin/kliniken/anaesthesiologie.html,NI,0,0,Verfügbar,0,14,0,Verfügbar,15,0,0,Verfügbar,2,45,1,0,0,0,17
+09162,48.111138440404,11.471995174934,09,81377,München,http://www.klinikum.uni-muenchen.de/Klinik-fuer-Anaesthesiologie/de/index.html,BY,0,0,Begrenzt,4,4,21,Verfügbar,4,4,1,Verfügbar,4,40,13,0,12,0,12
+06412,50.107939612682,8.543833494186,06,65929,Frankfurt/Main,https://www.klinikumfrankfurt.de/kliniken-und-institute/klinik-fuer-anaesthesie-operative-intensivmedizin-notfallmedizin-schmerztherapie.html,HE,8,1,Verfügbar,2,24,20,Verfügbar,4,0,1,Ausgelastet,0,12,4,0,3,0,6
+05315,50.938275499264,7.053503966017,05,51109,Köln,,NRW,4,0,Verfügbar,4,2,0,Verfügbar,4,2,0,Verfügbar,4,100,4,0,4,0,12
+05911,51.485216294599,7.222674965842,05,44791,Bochum,https://www.augusta-kliniken.de/fachgebiete/bochum-mitte/anaesthesiologie-intensivmedizin.html,NRW,0,0,Verfügbar,0,15,6,Verfügbar,0,1,1,Verfügbar,0,18,1,0,1,0,0
+09780,47.562595220997,10.22785735132,09,87509,Immenstadt/Allgäu,http://www.kv-keoa.de,BY,0,0,Verfügbar,0,15,9,Verfügbar,15,2,0,Verfügbar,2,5,0,0,0,2,17
+08118,48.89836232473,9.203446626598,08,71640,Ludwigsburg,http://www.rkh-kliniken.de,BW,16,18,Verfügbar,16,10,26,Verfügbar,10,3,1,Verfügbar,3,49,7,0,7,0,29
+05111,51.196351936376,6.789506149416,05,40225,Düsseldorf,,,NRW,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,0,0,0,0
+03241,52.38356952366,9.806128263408,03,30625,Hannover,,NI,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,0,0,0,0
+09663,49.807103506384,9.958309024564,09,97080,Würzburg,https://www.ukw.de/anaesthesie/schwerpunkte/ardsecmo-zentrum-fuer-akutes-lungenversagen/,BY,4,0,Verfügbar,4,36,0,Verfügbar,4,9,1,Verfügbar,4,60,4,0,4,0,12
+03402,53.375643708806,7.212860763057,03,26721,Emden,https://www.klinikum-emden.de,NI,9,1,Verfügbar,10,3,7,Verfügbar,5,1,0,Verfügbar,1,10,1,0,1,0,16
+09162,48.155701228804,11.510060548717,09,80639,München,https://www.barmherzige-muenchen.de,BY,6,0,Verfügbar,12,6,20,Verfügbar,16,5,0,Verfügbar,5,30,1,0,0,0,33
+04011,53.075136342809,8.837436676058,04,28177,Bremen,,HB,0,0,Ausgelastet,0,7,0,Verfügbar,3,1,0,Begrenzt,1,0,1,0,0,0,4
+01003,53.835847270404,10.708594903235,01,23538,Lübeck,https://www.uksh.de/anaesthesie-luebeck/,SH,0,0,Verfügbar,3,1,0,Verfügbar,2,1,0,Verfügbar,2,0,0,0,0,0,7
+02000,53.470879874845,9.93764555451,02,21075,Hamburg,http://www.asklepios.de/hamburg/harburg/experten/beatmungszentrum/,HH,4,0,Verfügbar,4,4,12,Verfügbar,4,4,0,Verfügbar,4,0,0,0,0,0,12
+05758,52.126395097108,8.700473427789,05,32049,Herford,http://www.airs-klinikum-herford.de,NRW,2,0,Verfügbar,2,2,14,Verfügbar,2,1,0,Verfügbar,1,8,0,0,0,0,5
+06611,51.328164739627,9.509411573345,06,34125,Kassel,https://www.gesundheit-nordhessen.de/klinikum-kassel/zentren/ecmo-zentrum/,HE,0,0,Verfügbar,0,17,0,Verfügbar,5,9,0,Verfügbar,1,150,2,1,1,0,6
+14713,51.331383154482,12.386209113038,14,4103,Leipzig,https://www.uniklinikum-leipzig.de/einrichtungen/kai,SN,0,0,Verfügbar,0,106,0,Verfügbar,35,4,0,Verfügbar,4,0,0,0,0,0,39
+08221,49.377395602477,8.689904853698,08,69126,Heidelberg,https://www.thoraxklinik-heidelberg.de/index.php?id=582,BW,0,12,Verfügbar,2,5,11,Verfügbar,3,1,0,Verfügbar,1,20,1,0,1,0,6
+05124,51.273043125594,7.170935153945,05,42283,Wuppertal,https://www.helios-gesundheit.de/kliniken/wuppertal/unser-angebot/unsere-fachbereiche/intensivmedizin/,NRW,16,7,Verfügbar,16,12,41,Verfügbar,8,3,0,Verfügbar,4,7,18,7,5,3,28
+01058,54.297086924599,9.659486532146,01,24768,Rendsburg,https://www.imland.de,SH,5,0,Verfügbar,3,2,0,Verfügbar,1,2,0,Verfügbar,2,0,3,0,3,0,6
+08222,49.491427119948,8.487168073589,08,68167,Mannheim,https://www.umm.de/klinik-fuer-anaesthesiologie-und-operative-intensivmedizin/leistungsspektrum/intensivmedizin/,BW,2,15,Begrenzt,5,2,28,Begrenzt,4,1,1,Verfügbar,5,50,2,0,2,0,14
+09362,48.987983204496,12.09049057954,09,93053,Regensburg,https://www.ukr.de/,BY,7,10,Verfügbar,5,19,65,Verfügbar,10,9,0,Verfügbar,0,200,4,0,2,0,15
+08421,48.422632793116,9.952504992452,08,89081,Ulm,https://www.uniklinik-ulm.de/anaesthesiologie/stationen.html,BW,1,0,Begrenzt,2,5,0,Verfügbar,5,5,0,Verfügbar,5,50,8,0,7,0,12
+05911,51.464353367673,7.327428102526,05,44892,Bochum,http://anaesthesie.rub.de/index.php,NRW,3,0,Verfügbar,3,3,0,Verfügbar,3,1,0,Verfügbar,1,20,0,0,0,0,7
+05113,51.436266579469,6.989787407219,05,45122,Essen,,NRW,5,0,Verfügbar,10,27,0,Verfügbar,10,10,0,Verfügbar,5,0,7,1,3,1,25
+10045,49.308912016795,7.345732033236,10,66421,Homburg,,SL,6,0,Verfügbar,31,6,0,Verfügbar,14,8,0,Verfügbar,8,120,1,0,0,0,53
+08231,48.88855931467,8.711673259768,08,75175,Pforzheim,https://www.helios-gesundheit.de/kliniken/pforzheim/unser-angebot/unsere-fachbereiche/intensivmedizin/,BW,4,8,Verfügbar,8,3,0,Verfügbar,6,1,0,Verfügbar,1,0,2,1,2,0,15
+05911,51.468139741933,7.212012648615,05,44789,Bochum,https://bergmannsheil.bg-kliniken.de,NRW,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Verfügbar,0,20,4,0,0,1,0
+12062,51.685228368576,13.207791566783,12,4916,Herzberg (Elster),,,BB,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,0,0,0,0
+03457,53.58488183671,6.671117305887,03,17475,Greifswald,,MV,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,0,0,0,0
+16071,50.889708717078,11.266985893381,16,99437,Bad Berka,,TH,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,0,0,0,0
+06414,50.065690632694,8.191581665733,06,65199,Wiesbaden,,http://www.helios-kliniken.de/wiesbaden-horst-schmidt-kliniken,HE,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,0,0,0,0
+11000,52.57138797223,13.413936280012,11,13187,Berlin,https://www.caritas-klinik-pankow.de,BE,2,3,Verfügbar,2,4,6,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,5
+05315,50.923308887945,6.917503255522,05,50937,Köln,http://ecmo-zentrum.uk-koeln.de,NRW,4,8,Verfügbar,2,2,12,Begrenzt,2,2,1,Verfügbar,2,35,6,1,5,0,6
+05116,51.218465487226,6.419624588634,05,41063,Mönchengladbach,https://www.herzzentrum-mg.de,NRW,4,0,Verfügbar,20,3,0,Verfügbar,13,2,0,Verfügbar,0,50,14,0,3,0,33
+11000,52.519049415154,13.566016137584,11,12683,Berlin,https://www.ukb.de,BE,0,0,Verfügbar,0,8,0,Verfügbar,11,2,0,Verfügbar,2,25,2,0,2,0,13
+03403,53.142667947088,8.205731391972,03,26122,Oldenburg,https://www.evangelischeskrankenhaus.de/kliniken-zentren/innere-medizin/,NI,7,3,Verfügbar,7,18,36,Verfügbar,25,2,0,Verfügbar,3,25,2,0,2,0,35
+05334,50.818603278644,6.264195620997,05,52249,Eschweiler,https://www.sah-eschweiler.de,NRW,0,0,Verfügbar,0,4,0,Verfügbar,8,0,0,Kein ECMO Betrieb,0,0,0,0,0,2,8
+03403,53.143626813834,8.21041989333,03,26121,Oldenburg,https://www.pius-hospital.de/,NI,10,0,Verfügbar,2,10,0,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+16062,51.560000720476,10.839835524657,16,99768,Harztor OT Neustadt,https://neustadt.diako-harz.de,TH,3,0,Verfügbar,2,12,11,Verfügbar,14,1,0,Begrenzt,1,10,0,0,0,0,17
+09162,48.137004031183,11.598835229825,09,81675,München,mailto:anaesthesie@.mri.tum,BY,6,0,Verfügbar,6,10,0,Verfügbar,12,4,0,Verfügbar,2,15,20,3,11,1,20
+08226,49.549707590859,8.645036995395,08,69469,Weinheim,https://www.grn.de,BW,0,0,Verfügbar,0,2,0,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,2
+08416,48.533593888862,9.035523176226,08,72076,Tübingen,mailto:rfretschner@bgu-tuebingen.de,BW,1,3,Verfügbar,1,4,15,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+11000,52.491268519874,13.292226970179,11,14193,Berlin,https://www.pgdiakonie.de/martin-luther-krankenhaus/kliniken-einrichtungen/klinik-fuer-anaesthesiologie-intensivmedizin-und-schmerztherapie/,BE,4,0,Verfügbar,0,11,0,Verfügbar,0,2,0,Verfügbar,0,0,0,0,1,0,0
+12061,52.132198842072,13.616511300133,12,15755,Teupitz,mailto:s.kirsch@asklepios.com,BB,3,7,Begrenzt,4,5,3,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,9
+05562,51.606482277585,7.191815078259,05,45659,Recklinghausen,https://www.proselis.de,NRW,0,0,Ausgelastet,0,20,0,Verfügbar,4,0,0,Ausgelastet,0,0,1,0,1,0,4
+07133,49.70655896432,7.677172601207,07,55590,Meisenheim,https://www.Landeskrankenhaus.de,RP,4,0,Verfügbar,0,0,0,Ausgelastet,0,0,0,Ausgelastet,0,0,0,0,0,0,0
+03460,52.725877094715,8.286903619701,03,49377,Vechta,https://www.marienhospital-vechta.de/leistungen/anaesthesie-intensivmedizin.html,NI,9,0,Verfügbar,19,11,1,Verfügbar,12,0,0,Kein ECMO Betrieb,0,2,4,0,1,1,31
+03460,52.725877094715,8.286903619701,03,49377,Vechta,https://www.marienhospital-vechta.de/leistungen/anaesthesie-intensivmedizin.html,NI,2,0,Verfügbar,20,2,0,Verfügbar,5,0,0,Ausgelastet,0,2,0,0,0,0,25
+12060,52.683151705411,13.582613663748,12,16321,Bernau bei Berlin,https://herzzentrum.immanuel.de,BB,6,8,Verfügbar,12,8,9,Verfügbar,12,2,0,Verfügbar,2,10,0,0,0,0,26
+05970,50.884082549873,8.01902496818,05,57072,Siegen,mailto:markus.pingel@drk-kinderklinik.de,NRW,4,2,Begrenzt,0,2,6,Begrenzt,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,1
+02000,53.586897568381,10.164517521907,02,22149,Hamburg,https://www.kkh-wilhelmstift.de,HH,4,0,Verfügbar,4,5,0,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,9
+13072,54.090704899466,11.905740022594,13,18209,Hohenfelde,http://www.krankenhaus-doberan.de,MV,0,0,Begrenzt,0,3,0,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+07332,49.563856902112,8.157812386735,07,67269,Grünstadt,http://krankenhausgruenstadt.de,RP,0,4,Begrenzt,2,2,1,Verfügbar,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,3
+05112,51.396954869071,6.783368825945,05,47055,Duisburg,https://www.sana.de/duisburg,NRW,4,9,Begrenzt,9,16,19,Verfügbar,53,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,62
+09371,49.504915584592,11.729883151129,09,92237,Sulzbach-Rosenberg,http://www.kh-as.de,BY,0,0,Ausgelastet,0,2,0,Begrenzt,3,0,0,Ausgelastet,0,0,0,0,0,0,3
+03252,51.985350926225,9.273886263354,03,31812,Bad Pyrmont,https://www.bathildis.de,NI,3,0,Verfügbar,6,3,0,Verfügbar,2,0,0,Ausgelastet,0,0,0,0,0,0,8
+10043,49.340971867017,7.183249779046,10,66538,Neunkirchen,,SL,2,0,Begrenzt,4,2,0,Begrenzt,4,0,0,Ausgelastet,0,0,0,0,0,0,8
+08311,48.023886676398,7.815443426371,08,79110,Freiburg,https://www.diakoniekrankenhaus-freiburg.de/de,BW,1,6,Verfügbar,3,2,4,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,5
+05566,52.278697336133,7.71369731423,05,49477,Ibbenbüren,https://www.klinikum-ibbenbueren.de,NRW,4,2,Verfügbar,6,0,10,Ausgelastet,2,3,0,Verfügbar,3,0,0,0,0,0,11
+14627,51.287179914401,13.539129138026,14,1558,Großenhain,http://www.elbland-reha.de/kontakt/impressum,SN,0,0,Ausgelastet,0,0,0,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+03102,52.153615720019,10.318831443819,03,38226,Salzgitter,https://www.helios-gesundheit.de/kliniken/salzgitter/,NI,5,7,Verfügbar,12,3,7,Verfügbar,21,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,33
+03151,52.496605133344,10.548190569498,03,38518,Gifhorn,,NI,0,0,Begrenzt,0,0,0,Verfügbar,0,0,0,Ausgelastet,0,0,1,0,0,0,0
+16054,50.60232774644,10.708873987132,16,98527,Suhl,https://www.zentralklinikum-suhl.de,TH,4,6,Verfügbar,4,9,11,Verfügbar,8,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,12
+08135,48.672888376689,10.140581488618,08,89522,Heidenheim,https://kliniken-heidenheim.de/klinikum/patienten/behandlungszentren/zentrum-fuer-intensivmedizin/zentrum-fuer-intensivmedizin-Kopie.php,BW,4,4,Verfügbar,8,9,3,Verfügbar,12,0,0,Kein ECMO Betrieb,0,0,1,0,0,1,20
+12069,52.267193219049,12.924351230258,12,14547,Beelitz-Heilstätten,http://www.fruehreha-beelitz.de/infos-ueber-beatmung/informationen-ueber-beatmung.html,BB,0,0,Ausgelastet,0,0,0,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+13073,54.328989260509,13.079763829692,13,18435,Stralsund,https://www.helios-gesundheit.de/kliniken/stralsund/unser-angebot/unsere-fachbereiche-und-zentren-somatik/intensivmedizin/,MV,4,6,Verfügbar,4,3,17,Verfügbar,11,2,0,Verfügbar,2,20,0,0,0,0,17
+09574,49.362132616064,11.263945341143,09,90592,Schwarzenbruck,https://www.krankenhaus-rummelsberg.de,BY,1,3,Verfügbar,1,2,3,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,3
+11000,52.56240480009,13.157562375036,11,13589,Berlin,https://www.pgdiakonie.de/evangelisches-waldkrankenhaus-spandau/kliniken-zentren/anaesthesie-und-interdisziplinaere-intensivmedizin/,BE,6,1,Verfügbar,6,5,1,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,2,0,1,0,11
+09478,50.138324479783,11.08082020286,09,96215,Lichtenfels,http://www.regiomed-kliniken.de,BY,2,0,Begrenzt,2,1,9,Begrenzt,2,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,4
+06412,50.116926902221,8.697997212394,06,60316,Frankfurt,https://www.rotkreuzkliniken.de/intensivstation.html,HE,3,0,Verfügbar,3,4,2,Verfügbar,4,0,0,Ausgelastet,0,0,0,0,0,0,7
+02000,53.569834053909,10.088993489767,02,22043,Hamburg,https://www.asklepios.com/hamburg/wandsbek/experten/anaesthesie/,HH,1,11,Begrenzt,2,5,15,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,2,0,2,0,8
+06611,51.314017098389,9.462657451695,06,34119,Kassel,http://www.diako-kassel.de,HE,8,4,Verfügbar,8,8,5,Verfügbar,8,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,16
+11000,52.46171655277,13.160881661734,11,14089,Berlin,https://www.havelhoehe.de,BE,0,5,Verfügbar,2,14,11,Verfügbar,14,1,0,Verfügbar,0,20,1,0,0,0,16
+05962,51.392817822432,7.765916168673,05,58675,Hemer,www.lungenklinik-hemer.de,NRW,7,0,Verfügbar,8,8,0,Verfügbar,15,0,0,Begrenzt,1,0,1,0,1,0,24
+02000,53.486210224153,10.235927581853,02,21029,Hamburg,https://klinik-bergedorf.de/,HH,2,3,Verfügbar,2,2,9,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,6,0,3,0,4
+05158,51.300240747792,6.852114915782,05,40878,Ratingen,https://www.sankt-marien-ratingen.de,NRW,6,0,Verfügbar,0,6,2,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,6
+09262,48.566439437969,13.446212589724,09,94032,Passau,https://www.kinderklinik-passau.de/,BY,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+05913,51.509104715874,7.455439746363,05,44137,Dortmund,http://www.klinikumdo.de,NRW,14,6,Verfügbar,0,23,73,Verfügbar,0,4,0,Verfügbar,0,0,4,0,4,0,0
+09475,50.195354613092,11.793603086589,09,95213,Münchberg,http://www.kliniken-hochfranken.de,BY,2,0,Begrenzt,0,11,0,Verfügbar,9,0,0,Kein ECMO Betrieb,0,0,0,0,0,1,9
+12068,52.906364286635,12.797664641876,12,16816,Neuruppin,http://www.ruppiner-kliniken.de,BB,2,2,Begrenzt,3,12,20,Verfügbar,12,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,15
+05913,51.534029262211,7.45406457781,05,44145,Dortmund,daniela.nickoleit-bitzenberger@klinikumdo.de,NRW,0,0,Ausgelastet,0,0,0,Ausgelastet,0,0,0,Ausgelastet,0,10,0,0,0,0,0
+08335,47.75976089215,8.821524471036,08,78224,Singen,http://glkn.de,BW,0,0,Verfügbar,15,2,26,Verfügbar,46,0,0,Kein ECMO Betrieb,0,0,2,0,1,0,61
+05374,51.19860988881,7.351010084185,05,42477,Radevormwald,https://www.sana.de/radevormwald,NRW,0,0,Ausgelastet,0,2,4,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,0,2,0,0,0
+06438,49.998422625475,8.683548688823,06,63225,Langen,http://www.asklepios.com/Langen,HE,5,0,Verfügbar,5,3,9,Verfügbar,5,3,0,Verfügbar,3,80,0,0,0,1,13
+14626,50.899258108902,14.82097695116,14,2763,Zittau ,https://klinikum-oberlausitzer-bergland.de/,SN,1,0,Verfügbar,1,2,0,Verfügbar,2,0,0,Ausgelastet,0,0,0,0,0,0,3
+09462,49.94384828447,11.534236907992,09,95445,Bayreuth,https://klinikum-bayreuth.de/einrichtungen/kliniken/anaesthesie-intensivmedizin,BY,2,2,Verfügbar,16,5,7,Verfügbar,16,3,0,Verfügbar,3,30,4,0,1,0,35
+05119,51.474229698028,6.866135358778,05,46047,Oberhausen,http://www.eko.de,NRW,6,8,Verfügbar,6,8,5,Verfügbar,10,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,16
+11000,52.438175472559,13.458396685182,11,12351,Berlin,https://www.vivantes.de/fuer-sie-vor-ort/klinikum-neukoelln/fachbereiche/kliniken/anaesthesie-operative-intensivmedizin-und-schmerztherapie/,BE,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Ausgelastet,0,0,0,0,0,0,0
+09188,48.06630037314,11.353591203624,09,82131,Gauting,https://www.asklepios.com/gauting/experten/intensivmedizin-und-langzeitbeatmung/,BY,2,6,Verfügbar,2,2,6,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,10,0,0,1,5
+16077,50.97166360943,12.439656257629,16,4600,Altenburg,https://klinikum-altenburgerland.de/,TH,5,1,Verfügbar,8,2,0,Begrenzt,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,10
+07134,49.716390274005,7.321047918506,07,55743,Idar-Oberstein,https://io.shg-kliniken.de/,RP,4,4,Verfügbar,8,9,2,Verfügbar,11,0,0,Kein ECMO Betrieb,0,0,2,0,0,0,19
+13071,53.380587745061,13.05248388639,13,17235,Neustrelitz,DRK-MST.de,MV,8,0,Verfügbar,8,3,0,Verfügbar,4,0,0,Ausgelastet,0,0,0,0,0,0,12
+11000,52.631418701813,13.511301755971,11,13125,Berlin,https://www.helios-gesundheit.de/kliniken/berlin-buch,BE,4,30,Verfügbar,4,6,30,Verfügbar,4,1,0,Verfügbar,1,5,1,0,1,0,9
+08111,48.761254645194,9.163320243383,08,70199,Stuttgart,https://www.marienhospital-stuttgart.de,BW,11,7,Verfügbar,13,8,7,Verfügbar,12,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,25
+09571,49.293353749032,10.792796444002,09,91564,Neuendettelsau,www.diakoneo.de,BY,3,0,Verfügbar,3,2,0,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+15002,51.501065103479,11.934980928963,15,6120,Halle (Saale),http://uk-halle.de,ST,13,0,Verfügbar,12,13,0,Verfügbar,12,12,0,Verfügbar,12,25,0,0,0,0,36
+14625,51.264083323859,14.123152256143,14,1917,Kamenz,,SN,1,0,Verfügbar,1,6,0,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,7
+09772,48.281611472435,10.822921514609,09,86399,Bobingen,https://www.wertachkliniken.de/,BY,0,4,Ausgelastet,0,3,1,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,3
+06531,50.576552378551,8.664676129802,06,35392,Gießen,https://www.ukgm.de/ugm_2/deu/home.html,HE,4,0,Verfügbar,4,3,0,Verfügbar,4,3,0,Verfügbar,3,120,4,0,3,0,11
+03403,53.112105072622,8.217821824574,03,26133,Oldenburg,https://www.klinikum-oldenburg.de,NI,11,3,Verfügbar,6,11,1,Verfügbar,6,7,1,Verfügbar,2,100,1,0,1,0,14
+14627,51.131220411481,13.593594074282,14,1640,Coswig,http://fachkrankenhaus-coswig.de,SN,6,4,Verfügbar,5,10,2,Verfügbar,15,1,0,Verfügbar,1,12,0,0,0,0,21
+08311,48.005244748277,7.839340925129,08,79106,Freiburg,http://www.ecmo-freiburg.de,BW,7,25,Verfügbar,20,23,90,Verfügbar,50,12,7,Verfügbar,15,100,17,1,14,1,85
+05116,51.198902335442,6.42537492512,05,41061,Mönchengladbach,https://www.johanniter.de/einrichtungen/krankenhaus/moenchengladbach,NRW,5,4,Verfügbar,6,3,0,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,3,0,0,0,8
+08111,48.783202666073,9.173708438857,08,70174,Stuttgart,http://www.klinikum-stuttgart.de,BW,1,16,Begrenzt,3,36,41,Verfügbar,34,1,0,Begrenzt,1,25,9,7,3,0,38
+03359,53.595440432972,9.443376767658,03,21682,Stade,http://www.elbekliniken.de,NI,2,2,Verfügbar,2,6,16,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,2,1,0,0,8
+05913,51.51152274977,7.457698702829,05,44139,Dortmund,https://www.joho-dortmund.de/,NRW,3,21,Begrenzt,4,6,26,Verfügbar,4,2,0,Verfügbar,2,40,0,0,0,0,10
+01003,53.848800488052,10.687592804416,01,23560,Lübeck,https://www.sana.de/luebeck,SH,4,13,Verfügbar,0,6,16,Verfügbar,8,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,8
+09376,49.203580939665,12.035078582153,09,93133,Burglengenfeld,https://www.asklepios.com/burglengenfeld/,BY,4,0,Verfügbar,4,2,5,Verfügbar,8,0,0,Begrenzt,1,1,2,0,2,0,13
+06439,49.982859678145,7.926482319881,06,65385,Rüdesheim,http://www.joho-rheingau.de,HE,4,2,Verfügbar,4,3,3,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,4,0,0,0,7
+06431,49.678280370741,8.620446503146,06,64625,Bensheim,https://www.hgh-bensheim.de/de/,HE,3,0,Verfügbar,3,3,0,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+02000,53.631362490632,9.905442953241,02,22457,Hamburg,http://www.albertinen.de,HH,0,0,Verfügbar,0,6,29,Verfügbar,11,1,0,Verfügbar,1,10,1,0,1,0,12
+08111,48.761254645194,9.163320243383,08,70199,Stuttgart,michael.heinold@vinzenz.de,BW,2,0,Begrenzt,0,6,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+06635,51.267262415816,8.870632097121,06,34497,Korbach,www.krankenhaus-korbach.de,HE,6,0,Verfügbar,4,8,0,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,8
+11000,52.441800385763,13.320401430065,11,10245,Berlin,https://anaesthesie.charite.de/klinik/,BE,9,0,Verfügbar,9,5,0,Verfügbar,5,2,0,Verfügbar,2,10,0,0,0,0,16
+04011,53.083509886869,8.836106836779,04,28209,Bremen,https://www.sjs-bremen.de/unsere-kompetenzen/anaesthesiologie-und-intensivmedizin/intensivmedizin.html,HB,1,0,Verfügbar,1,1,0,Verfügbar,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,2
+03357,53.104505059312,9.411837101179,03,27356,Rotenburg,B.Gaida@diako-online.de,NI,2,0,Verfügbar,2,4,0,Begrenzt,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+03153,51.928337031875,10.441874161359,03,38642,Goslar,https://www.asklepios.com/goslar/,NI,4,0,Verfügbar,6,2,12,Begrenzt,4,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,10
+06534,50.913512149301,8.523131199181,06,35216,Biedenkopf,,HE,0,0,Ausgelastet,2,1,0,Begrenzt,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+05170,51.445547477624,6.639752465771,05,47441,Moers,https://www.st-josef-moers.de,NRW,0,0,Ausgelastet,0,4,4,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,4
+14522,50.920546649356,13.350871324474,14,9599,Freiberg,http://www.kkh-freiberg.de,SN,0,0,Verfügbar,4,1,7,Verfügbar,12,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,16
+06611,51.311906311999,9.454094264656,06,34121,Kassel,http://www.drk-nh.de,HE,4,9,Begrenzt,4,19,9,Verfügbar,12,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,16
+02000,53.594013956273,10.07461309433,02,22049,Hamburg,,HH,0,0,Verfügbar,0,12,0,Verfügbar,12,1,0,Begrenzt,1,3,0,0,0,0,13
+08116,48.737131873677,9.326441483572,08,73730,Esslingen am Neckar,http://www.klinikum-esslingen.de,BW,0,0,Begrenzt,2,2,0,Verfügbar,4,0,0,Verfügbar,1,4,0,0,0,0,7
+09774,48.237224764414,10.365919098217,09,86381,Krumbach,https://www.kkhgzkru.de/fachabteilungen-kru/anaesthesie/team,BY,0,6,Ausgelastet,0,2,2,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,2
+14511,50.840603646608,12.962685406192,14,9130,Chemnitz ,http://www.bethanien-chemnitz.de,SN,2,10,Verfügbar,4,3,10,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,8
+14522,50.981105845762,12.984504606575,14,9648,Mittweida,http://www.lmkgmbh.de/LMK/,SN,4,0,Verfügbar,0,4,4,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+07111,50.355980883861,7.564584195597,07,56073,Koblenz,http://kk-km.de,RP,16,8,Verfügbar,16,16,12,Verfügbar,26,1,0,Verfügbar,1,10,11,1,2,1,43
+06533,50.485700411875,8.252862811241,06,35781,Weilburg,http://www.krankenhaus-weilburg.de,HE,2,1,Verfügbar,2,3,1,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+10042,49.457251697956,6.633046781571,10,66663,Merzig ,https://mzg.shg-kliniken.de/index.php?id=1463,SL,2,3,Verfügbar,2,6,1,Verfügbar,0,0,0,Ausgelastet,0,0,0,0,0,0,2
+04011,53.064512794576,8.940360546112,04,28325,Bremen,http://www.gesundheitnord.de/,HB,3,4,Begrenzt,0,2,5,Begrenzt,0,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,0
+09185,48.572270325445,11.264355933213,09,86529,Schrobenhausen,https://www.kkh-sob.de/leistungsspektrum/fachabteilungen/anaesthesiologie-operative-intensivmedizin/uebernahme-von-covid-intensivpatienten/,BY,1,1,Verfügbar,9,2,4,Begrenzt,3,0,0,Kein ECMO Betrieb,0,0,2,0,1,0,12
+13003,54.085558886271,12.101712405665,13,18057,Rostock,https://iiintensiv.med.uni-rostock.de,MV,0,0,Verfügbar,0,3,0,Verfügbar,4,1,0,Verfügbar,0,10,0,0,0,0,4
+10041,49.221065672421,6.996766018751,10,66119,Saarbrücken ,http://klinikum-saarbruecken.de,SL,1,3,Verfügbar,4,7,20,Verfügbar,52,1,0,Verfügbar,1,25,4,3,4,1,57
+09776,47.611723599429,9.881648004039,09,88161,Lindenberg,https://www.rotkreuzklinik-lindenberg.de,BY,0,3,Verfügbar,2,2,1,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,1,1,0,0,5
+08111,48.783142647431,9.170659946976,08,70174,Stuttgart,http://sana.de,BW,1,0,Verfügbar,4,8,0,Verfügbar,1,3,0,Verfügbar,0,20,0,0,0,0,5
+03159,51.669421222672,10.343406915599,03,37412,Herzberg,https://www.helios-gesundheit.de/kliniken/herzberg-osterode/unser-angebot/unsere-fachbereiche/anaesthesie-und-intensivmedizin/,NI,2,0,Verfügbar,6,2,0,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,12
+06414,50.076387329685,8.254051923686,06,65189,Wiesbaden,http://www.joho.de,HE,0,8,Verfügbar,4,2,12,Begrenzt,8,1,0,Begrenzt,0,2,2,0,1,0,12
+08326,48.065172915773,8.499393045886,08,78052,Villingen-Schwenningen,www.sbk-vs.de,BW,10,0,Verfügbar,17,14,0,Verfügbar,20,1,0,Verfügbar,1,1,5,0,0,1,38
+05954,51.411240450433,7.399306207903,05,58313,Herdecke,m.marsch@gemeinschaftskrankenhaus.de,NRW,6,0,Verfügbar,20,9,0,Verfügbar,10,0,0,Ausgelastet,0,0,1,0,0,0,30
+01062,53.812444400356,10.363880753484,01,23843,Bad Oldsloe,https://www.asklepios.com/bad-oldesloe/,SH,0,4,Begrenzt,2,2,1,Begrenzt,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+14524,50.7481879614,12.635738611352,14,9350,Lichtenstein/ Sa.,https://li.drk-khs.de/,SN,2,4,Begrenzt,6,2,6,Begrenzt,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,12
+09180,47.671709227685,11.216090440685,09,82418,Murnau,http://www.bgu-murnau.de,BY,4,0,Verfügbar,0,27,0,Verfügbar,0,1,0,Verfügbar,0,10,1,0,0,0,0
+08421,48.42440919851,9.945088148052,08,89081,Ulm,https://www.rku.de,BW,5,8,Begrenzt,13,4,4,Verfügbar,10,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,23
+01054,54.925322230073,8.31349825864,01,25980,Sylt/ OT Westerland,https://www.asklepios.com/sylt/akut/experten/anaesthesie/,SH,1,0,Verfügbar,0,5,0,Verfügbar,5,0,0,Ausgelastet,0,0,0,0,0,0,5
+03451,53.258816264447,7.918362200244,03,26655,Westerstede,http://www.ammerland-klinik.de,NI,0,0,Ausgelastet,7,7,0,Verfügbar,11,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,18
+11000,52.424282933774,13.348081827098,11,12249,Berlin,http://www.marienkrankenhaus-berlin.de,BE,2,0,Verfügbar,1,3,0,Verfügbar,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,2
+13073,54.419653232211,13.428819590868,13,18528,Bergen,https://www.sana.de/ruegen,MV,0,3,Ausgelastet,0,12,5,Verfügbar,12,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,12
+05916,51.510657213551,7.175529241595,05,44651,Herne,http://www.evk-herne.de,NRW,2,1,Verfügbar,2,5,3,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,7
+01062,53.660951156943,10.280925393072,01,22927,Großhansdorf,http://lungenclinic.de,SH,0,0,Ausgelastet,4,0,10,Begrenzt,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,8
+12072,52.099865670543,13.179556488958,12,14943,Luckenwalde,http://kmg-kliniken.de,BB,0,0,Begrenzt,0,6,4,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+08136,48.848839142222,10.084305524761,08,73430,Aalen,https://www.ostalbklinikum.de/medizin/innere-medizin-ii/kardiologie,BW,3,0,Verfügbar,0,6,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,1,0,0,0
+03257,52.264749649632,9.105277776653,03,31683,Obernkirchen,http://www.ev-klinikum-schaumburg.de,NI,0,0,Begrenzt,4,0,0,Begrenzt,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,10
+05315,50.941368283966,7.009345471843,05,51103,Köln,http://www.evkk.de,NRW,2,5,Verfügbar,2,1,11,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,4
+08426,48.096537126169,9.773589849538,08,88400,Biberach,http://www.kliniken-bc.de,BW,5,6,Begrenzt,0,5,10,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,6,0,6,0,0
+05562,51.592054068032,7.1242877841,05,45699,Herten,http://www.st-elisabeth-hospital.de,NRW,1,3,Verfügbar,2,2,5,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+05111,51.243214833464,6.855116629522,05,40625,Düsseldorf,http://www.sana.de/duesseldorf-gerresheim,NRW,0,0,Begrenzt,4,6,6,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,4,0,0,2,10
+09162,48.122446592812,11.488039076312,09,81375,München,http://www.augustinum-kliniken.de,BY,2,2,Verfügbar,2,2,2,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,0,1,0,0,7
+07317,49.192660744077,7.61732304105,07,66955,Pirmasens,https://www.kh-pirmasens.de,RP,4,0,Verfügbar,4,6,6,Verfügbar,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+12073,53.119523164732,13.505943775308,12,17268,Templin,https://www.sana.de/templin,BB,1,1,Begrenzt,0,0,4,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+06531,50.525030068332,8.806200742656,06,35423,Lich,https://www.asklepios.com/lich/,HE,5,6,Verfügbar,8,6,5,Verfügbar,8,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,16
+05114,51.352860684367,6.648099660906,05,47829,Krefeld,http://www.malteser-kliniken-rhein-ruhr.de/,NRW,2,2,Verfügbar,3,3,1,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+14511,50.820971422274,12.825703382623,14,9117,Chemnitz,,SN,2,0,Verfügbar,2,7,0,Verfügbar,4,0,0,Ausgelastet,0,0,0,0,0,0,6
+05974,51.574740833218,8.112001597865,05,59494,Soest,http://www.hospitalverbund.de,NRW,5,0,Verfügbar,5,5,0,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,11
+05170,51.460971097824,6.633981049044,05,47441,Moers,http://www.bethanien-moers.de,NRW,6,14,Verfügbar,8,13,9,Verfügbar,14,0,0,Kein ECMO Betrieb,0,0,5,2,0,0,22
+05111,51.300317890771,6.749400258032,05,40489,Düsseldorf,https://www.florence-nightingale-krankenhaus.de/de/leistungsspektrum/kliniken/klinik-fuer-kinderheilkunde/klinikleistungen/neonatologie-und-kinderintensivmedizin.html,NRW,3,15,Verfügbar,0,1,10,Begrenzt,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+06535,50.630089032294,9.391265630657,06,36341,Lauterbach,http://www.eichhof-online.de,HE,9,0,Verfügbar,1,5,6,Verfügbar,2,0,0,Ausgelastet,0,0,1,2,1,0,3
+13072,53.776842364813,12.571374526592,13,17166,Teterow,http://www.drk-kh-teterow.de,MV,0,0,Ausgelastet,0,6,0,Begrenzt,1,0,0,Ausgelastet,0,0,0,0,0,0,1
+06437,49.74472806966,9.005372303682,06,64732,Bad König,m.guthier@asklepios.com,HE,0,0,Ausgelastet,0,2,0,Verfügbar,2,0,0,Ausgelastet,0,0,0,0,0,0,2
+09772,48.175828972883,10.74609017377,09,86830,Schwabmünchen,https://www.wertachkliniken.de,BY,4,0,Verfügbar,2,5,1,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+09162,48.165004874192,11.505552292001,09,80638,München,http://www.dritter-orden.de,BY,0,0,Ausgelastet,0,4,16,Begrenzt,9,0,0,Kein ECMO Betrieb,0,0,12,1,4,0,9
+06632,51.004766329728,9.737370371786,06,36199,Rotenburg an der Fulda,www.hkz-rotenburg.de,HE,0,0,Ausgelastet,0,0,0,Verfügbar,7,0,0,Begrenzt,2,21,0,0,0,0,9
+12071,51.56491295504,14.37382292741,12,3130,Spremberg,https://krankenhaus-spremberg.de,BB,1,2,Verfügbar,1,3,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,1
+05170,51.49218573995,6.51632380479,05,47475,Kamp-Lintfort,http://www.st-bernhard-hospital.de,NRW,7,0,Verfügbar,6,2,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,6
+08231,48.897418963392,8.67268520592,08,75179,Pforzheim,http://www.siloah.de,BW,14,0,Verfügbar,10,30,0,Verfügbar,10,0,0,Ausgelastet,0,0,3,0,2,0,20
+15002,51.493879487772,11.960052231898,15,6114,Halle,https://www.diakoniewerk-halle.de/,ST,0,0,Begrenzt,0,3,5,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+08237,48.477463125123,8.405019387599,08,72250,Freudenstadt,http://www.klf-web.de,BW,4,0,Verfügbar,0,10,4,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,3,0,0,0,4
+09565,49.332652542007,11.01252150529,09,91126,Schwabach,http://www.khsc.de,BY,3,4,Verfügbar,3,4,0,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,5,0,0,0,7
+03153,51.882819847991,10.216296814942,03,38723,Seesen,https://www.asklepios.com/seesen/,NI,0,0,Begrenzt,0,1,0,Begrenzt,4,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,4
+09773,48.575521066276,10.478583946824,09,89407,Dillingen an der Donau,https://www.khdw.de,BY,0,0,Verfügbar,0,1,7,Verfügbar,1,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,1
+08326,48.065172915773,8.499393045886,08,78052,Villingen-Schwenningen,http://www.sbk-vs.de,BW,2,2,Verfügbar,0,2,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+05562,51.744779878647,7.193693697436,05,45721,Haltern am See,http://www.kkrn.de,NRW,6,0,Verfügbar,6,6,0,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,12
+11000,52.440261837019,13.595804750903,11,12559,Berlin,http://www.drk-kliniken-berlin.de/anaesthesie-koepenick,BE,3,8,Verfügbar,0,7,7,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+03462,53.572063928995,7.788419902308,03,26409,Wittmund,http://www.kh-wtm.de,NI,5,1,Verfügbar,0,5,2,Verfügbar,0,0,0,Ausgelastet,0,0,0,0,0,0,0
+07231,50.000546727589,6.892509050667,07,54516,Wittlich,http://www.verbund-krankenhaus.de,RP,2,0,Verfügbar,0,7,4,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+01060,53.749384805502,10.008263826403,01,24558,Henstedt-Ulzburg,http://www.paracelsus-kliniken.de/akut/henstedt-ulzburg/,SH,2,0,Verfügbar,2,3,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,2
+12073,53.052767404681,14.275908780051,12,16303,Schwedt,https://www.asklepios.com/schwedt/experten/anaesthesie/,BB,8,0,Begrenzt,0,10,1,Begrenzt,18,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,18
+15085,51.795329141617,11.163533091594,15,3946,Quedlinburg,http://www.harzklinikum.com,ST,1,7,Verfügbar,0,11,4,Verfügbar,10,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,10
+11000,52.481244738319,13.317197799879,11,10713,Berlin,www.sankt-gertrauden.de,BE,3,0,Verfügbar,5,0,0,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+02000,53.55931382895,10.031658589865,02,22087,Hamburg,http://marienkrankenhaus.org,HH,3,7,Verfügbar,3,3,17,Verfügbar,4,1,0,Verfügbar,1,15,4,0,4,0,8
+09176,48.889926102548,11.19255137437,09,85072,Eichstätt,http://www.klinikallianz.com,BY,3,1,Verfügbar,0,3,1,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,3
+14612,51.058086530837,13.77770733835,14,1307,Dresden,https://www.sana.de/herzzentrum-dresden/medizin-pflege/innere-medizin-und-kardiologie/stationen-und-bereiche,SN,0,8,Ausgelastet,4,6,14,Verfügbar,4,2,0,Verfügbar,1,12,0,0,0,0,9
+13003,54.07175069965,12.107268333402,13,18055,Rostock,https://www.kliniksued-rostock.de/kliniken-abteilungen/kliniken/klinik-fuer-anaesthesiologie-und-intensivmedizin.html,MV,2,0,Verfügbar,2,8,14,Verfügbar,10,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,12
+09464,50.302750436122,11.915282785917,09,95032,Hof,https://www.sana.de/hof,BY,0,0,Ausgelastet,0,6,16,Begrenzt,8,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,8
+09261,48.523488606062,12.14907485245,09,84036,Landshut,https://www.lakumed.de/fachgebiete/krankenhaus-landshut-achdorf/,BY,0,9,Ausgelastet,2,4,7,Verfügbar,1,0,0,Kein ECMO Betrieb,0,0,2,0,2,1,3
+08335,47.671743941733,9.187581896831,08,78464,Konstanz,http://www.glkn.de,BW,2,8,Verfügbar,10,9,3,Verfügbar,12,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,22
+16051,50.947252843259,11.085595071299,16,99097,Erfurt,,TH,0,0,Ausgelastet,0,10,0,Begrenzt,5,0,0,Ausgelastet,0,0,0,0,0,0,5
+14713,51.383359115198,12.380169153148,14,1936,Königsbrück,http://seenlandklinikum.de,SN,10,0,Verfügbar,0,8,6,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+11000,52.526881250384,13.508368358016,11,10365,Berlin,http://www.keh-berlin.de,BE,0,0,Ausgelastet,0,0,0,Ausgelastet,0,0,0,Ausgelastet,0,0,0,0,0,0,0
+02000,53.560321551722,10.016164755507,02,20099,Hamburg,https://www.asklepios.com/hamburg/sankt-georg/experten/anaesthesie/,HH,10,0,Verfügbar,10,3,0,Verfügbar,10,3,0,Verfügbar,3,150,2,1,0,0,23
+15082,51.746566790074,11.972611034034,15,6366,Köthen,https://www.helios-gesundheit.de/kliniken/koethen/unser-angebot/unsere-fachbereiche/intensivmedizin/,ST,2,0,Verfügbar,0,10,2,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+08111,48.781751663568,9.163940906656,08,70176,Stuttgart,http://diakonie-klinikum.de/,BW,0,0,Ausgelastet,0,0,8,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,4,2,3,0,0
+15003,52.104112688489,11.616078212853,15,39120,Magdeburg,http://www.med.uni-magdeburg.de,ST,2,0,Verfügbar,2,8,0,Begrenzt,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+05113,51.389826096284,7.00573603157,05,45239,Essen,https://kem-med.com/,NRW,0,0,Begrenzt,0,0,0,Begrenzt,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+03357,53.104505059312,9.411837101179,03,27356,Rotenburg (Wümme),http://www.diako-online.de,NI,0,0,Verfügbar,0,6,18,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,0
+05162,51.191045128469,6.670398205511,05,41464,Neuss,https://lukasneuss.de/,NRW,2,0,Verfügbar,0,1,0,Begrenzt,0,0,0,Ausgelastet,0,0,0,0,0,0,0
+14729,51.134329159685,12.504938006368,14,4552,Borna,https://www.sana.de/leipzigerland,SN,14,5,Verfügbar,9,12,3,Verfügbar,9,0,0,Kein ECMO Betrieb,0,1,0,0,0,0,18
+12053,52.301202545139,14.483436226828,12,15236,Frankfurt/ Oder,https://www.klinikumffo.de,BB,0,0,Ausgelastet,0,4,11,Verfügbar,8,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,8
+03256,52.635514407833,9.223802768811,03,31582,Nienburg,https://www.helios-gesundheit.de/kliniken/mittelweser/,NI,3,11,Begrenzt,3,18,1,Verfügbar,15,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,18
+15084,51.193821231332,11.956809282237,15,6667,Weissenfels,http://www.asklepios.com/weissenfels,ST,3,7,Verfügbar,5,3,13,Begrenzt,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,8
+01054,54.482390849555,9.051059603707,01,25813,Husum,https://www.klinikum-nf.de,SH,2,0,Verfügbar,2,7,0,Verfügbar,9,0,0,Ausgelastet,0,0,0,0,0,0,11
+09663,49.794488943104,9.952984034999,09,97074,Würzburg,http://www.kwm-klinikum.de,BY,0,3,Begrenzt,3,8,2,Verfügbar,8,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,11
+06413,50.094192075512,8.756854444764,06,63069,Offenbach,https://www.klinikum-offenbach.de/anaesthesiologie-intensivmedizin-und-schmerztherapie/,HE,7,3,Verfügbar,10,13,7,Verfügbar,20,0,0,Begrenzt,0,0,0,0,0,0,30
+14612,51.058086530837,13.77770733835,14,1307,Dresden,http://www.herzzentrum-dresden.com,SN,0,0,Ausgelastet,0,11,0,Verfügbar,10,0,0,Verfügbar,1,5,0,0,0,0,11
+07143,50.45252519932,7.784991019771,07,56428,Dernbach,https://www.krankenhaus-dernbach.de/,RP,0,0,Ausgelastet,0,6,4,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,3,0,0,0,6
+05314,50.712826227597,7.131837129527,05,53113,Bonn,www.johanniter-kliniken.de,NRW,4,0,Verfügbar,0,2,0,Verfügbar,0,0,0,Ausgelastet,0,0,0,0,0,0,0
+05111,51.152610624786,6.870933508035,05,40593,Düsseldorf,https://www.sana.de/duesseldorf-benrath/medizin-pflege/anaesthesiologie,NRW,0,0,Ausgelastet,0,1,9,Begrenzt,0,0,0,Ausgelastet,0,0,0,1,0,0,0
+12067,52.141413124726,14.627082681309,12,15890,Eisenhüttenstadt,http://khehst.de,BB,3,17,Verfügbar,30,7,2,Verfügbar,12,0,0,Ausgelastet,0,0,2,0,0,0,42
+08136,48.81991267254,9.787352800304,08,73557,Mutlangen,http://www.stauferklinikum.de,BW,4,0,Begrenzt,2,4,0,Begrenzt,2,0,0,Ausgelastet,0,0,1,1,1,0,4
+05111,51.231458183679,6.727645182727,05,40549,Düsseldorf,https://www.schoen-klinik.de/duesseldorf,NRW,5,1,Verfügbar,0,3,1,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+11000,52.514033630819,13.494809389049,11,10365,Berlin,http://sana.de/berlin,BE,1,7,Verfügbar,1,5,16,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,2,0,1,1,6
+12063,52.600538808641,12.875710487497,12,14641,Nauen,https://www.havelland-kliniken.de/Fach-Kliniken/klinik-anaesthesie-intensivmedizin.html,BB,0,0,Ausgelastet,0,2,6,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,1,0,0,2
+11000,52.53491889392,13.369843125311,11,10115,Berlin,https://berlin.bwkrankenhaus.de/startseite.html,BE,1,7,Verfügbar,0,3,9,Verfügbar,0,1,0,Verfügbar,0,6,0,0,0,0,0
+14625,51.123693142487,13.930238020471,14,1454,Radeberg,https://www.asklepios.com/radeberg/experten/anaesthesie/intensivtherapie/,SN,1,0,Verfügbar,1,1,0,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,3
+07141,50.305147190391,7.608741563331,07,56112,Lahnstein,http://www.krankenhaus-lahnstein.de,RP,0,0,Ausgelastet,0,1,0,Begrenzt,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+02000,53.571185658973,9.965228157898,02,20259,Hamburg,http://www.d-k-h.de,HH,3,0,Verfügbar,3,1,0,Begrenzt,3,0,0,Kein ECMO Betrieb,0,0,2,0,2,0,6
+05358,50.822419271206,6.466680407557,05,52353,Düren,http://www.marien-hospital-dueren.de,NRW,4,0,Begrenzt,4,4,6,Begrenzt,3,0,0,Kein ECMO Betrieb,0,2,2,1,1,0,7
+05166,51.25120526988,6.382835626537,05,41747,Viersen,https://www.akh-viersen.de/,NRW,4,0,Verfügbar,4,2,9,Verfügbar,4,1,0,Verfügbar,1,8,1,1,1,0,9
+11000,52.481244738319,13.317197799879,11,10713,Berlin,http://www.sankt-gertrauden.de,BE,0,0,Verfügbar,0,6,2,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+05382,50.775112638873,7.181260156458,05,53757,Sankt Augustin,http://www.asklepios.com,NRW,3,3,Verfügbar,4,3,9,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,8
+08226,49.378075351197,8.570155084117,08,68723,Schwetzingen,https://www.grn.de/schwetzingen/klinik/anaesthesie-und-intensivmedizin/schwerpunkte/intensivmedizin,BW,4,0,Verfügbar,4,3,10,Begrenzt,4,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,8
+11000,52.438175472559,13.458396685182,11,12351,Berlin,https://www.vivantes.de/fuer-sie-vor-ort/klinikum-neukoelln/fachbereiche/kliniken/innere-medizin-kardiologie-angiologie-nephrologie-und-konservative-intensivmedizin/,BE,0,0,Begrenzt,0,0,0,Verfügbar,0,0,0,Ausgelastet,0,0,5,0,5,0,0
+03404,52.277394337352,8.00327610963,03,49076,Osnabrück,http://www.klinikum-os.de,NI,8,0,Verfügbar,14,7,0,Verfügbar,12,2,0,Verfügbar,2,10,5,0,2,0,28
+05314,50.682166967009,7.128063797918,05,53177,Bonn,heinz.busse@bn.johanniter-kliniken.de,NRW,4,0,Ausgelastet,0,10,0,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+09564,49.412839747136,11.149226188136,09,90471,Nürnberg,https://www.klinikum-nuernberg.de/DE/ueber_uns/Fachabteilungen_KN/kliniken/medizin8/index.html,BY,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Verfügbar,0,20,2,1,1,0,0
+08212,48.972140735068,8.409467697029,08,76199,Karlsruhe,https://www.vidia-kliniken.de/anaesthesie-diak/,BW,3,0,Begrenzt,0,11,0,Begrenzt,2,0,0,Ausgelastet,0,0,0,0,0,0,2
+12063,52.606971189853,12.347828913457,12,14712,Rathenow,https://www.havelland-kliniken.de/Fach-Kliniken/klinik-anaesthesie-intensivmedizin.html,BB,0,2,Ausgelastet,0,3,2,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,3
+05562,51.652308893282,7.344830811007,05,45711,Datteln,http://www.vincenz-datteln.de,NRW,0,0,Ausgelastet,0,7,7,Verfügbar,8,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,8
+03252,52.107513388766,9.352171897954,03,31785,Hameln,https://www.sana.de/hameln,NI,0,8,Begrenzt,1,8,5,Begrenzt,7,0,0,Kein ECMO Betrieb,0,0,2,0,2,0,8
+11000,52.631861499326,13.505310807377,11,13125,Berlin,http://www.pgdiakonie.de/evangelische-lungenklinik-berlin/,BE,0,0,Verfügbar,0,3,3,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+14612,51.089995839126,13.70900201804,14,1129,Dresden,www.klinikum-dresden.de,SN,4,0,Verfügbar,4,16,0,Begrenzt,7,0,0,Ausgelastet,0,0,0,0,0,0,11
+09375,48.999016124676,12.399249851687,09,93086,Wörth an der Donau,http://kreisklinik-woerth.de/,BY,2,4,Verfügbar,5,2,0,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,8
+09362,49.0070151794,12.118438124689,09,93053,Regensburg,http://www.caritasstjosef.de,BY,3,3,Begrenzt,7,3,9,Begrenzt,6,1,0,Verfügbar,1,5,0,0,0,0,14
+07235,49.602610133012,6.537867307597,07,54439,Saarburg,http://www.kreiskrankenhaus-saarburg.de,RP,2,2,Verfügbar,4,6,0,Verfügbar,10,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,14
+09173,47.757119081793,11.55101943602,09,83646,Bad Tölz,https://www.asklepios.com/bad-toelz/,BY,2,2,Verfügbar,0,1,9,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+05570,51.766903288376,7.885046347972,05,59227,Ahlen,www.sfh-ahlen.de,NRW,1,0,Verfügbar,0,1,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+10042,49.508793040579,6.740011364227,10,66679,Losheim am See,http://www.marienhausklinik.de/startseite,SL,2,0,Verfügbar,2,2,0,Verfügbar,1,0,0,Ausgelastet,0,0,0,0,0,0,3
+07131,50.540898885544,7.127738043662,07,53474,Bad Neuenahr-Ahrweiler,https://www.marienhaus-klinikum-ahr.de,RP,2,0,Verfügbar,1,2,0,Verfügbar,2,0,0,Ausgelastet,0,0,2,0,1,0,3
+12073,53.013137300723,13.989123344618,12,16278,Angermünde,https://www.glg-gesundheit.de/krankenhaeuser/glg-krankenhaus-angermuende/,BB,1,1,Verfügbar,2,4,0,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+14625,51.095021846439,13.997342705743,14,1477,Arnsdorf,www.skh-arnsdorf.sachsen.de,SN,4,0,Ausgelastet,0,4,0,Begrenzt,2,0,0,Ausgelastet,0,0,0,0,0,0,2
+05158,51.250740236167,6.97076404098,05,40822,Mettmann,https://www.evk-mettmann.de/de/fachbereiche-einrichtungen/unsere-fachabteilungen/interdisziplinaere-intensivmedizin/im-ueberblick.html,NRW,2,1,Verfügbar,3,5,10,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,9
+13003,54.101674427486,12.13137066361,13,18147,Rostock,https://www.med.uni-rostock.de/,MV,1,0,Begrenzt,0,3,0,Begrenzt,3,0,0,Ausgelastet,0,0,0,0,0,0,3
+05916,51.528862559831,7.225762188418,05,44625,Herne,https://www.marienhospital-herne.de,NRW,3,1,Verfügbar,1,5,15,Verfügbar,3,2,0,Verfügbar,2,10,0,0,0,0,6
+07137,50.428970325021,7.397550433866,07,56626,Andernach,www.rhein-mosel-fachklinik-andernach.de,RP,0,0,Verfügbar,0,6,0,Verfügbar,6,0,0,Ausgelastet,0,0,0,0,0,0,6
+09561,49.326093965328,10.54033242166,09,91522,Ansbach,http://www.rangauklinik.de,BY,0,0,Ausgelastet,0,0,0,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,4,0,0,0,0
+16053,50.885268754734,11.621468782359,16,7747,Jena,http://www.uniklinikum-jena.de,TH,5,32,Begrenzt,0,16,56,Verfügbar,8,6,0,Begrenzt,6,0,4,0,0,1,14
+06437,49.651827831428,9.000306844646,06,64711,Erbach,karsten.ritter@web.de,HE,6,0,Verfügbar,4,12,0,Verfügbar,8,0,0,Ausgelastet,0,0,1,0,1,0,12
+12065,52.6914777339,13.298514604503,12,16547,Birkenwerder,https://www.asklepios.com/birkenwerder/,BB,6,0,Begrenzt,0,2,0,Begrenzt,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+08128,49.760650665997,9.497476019897,08,97877,Wertheim,http://www.rotkreuzklinik-wertheim.de,BW,3,7,Verfügbar,2,3,2,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+09773,48.565653126867,10.679133653575,09,86637,Wertingen,http://www.khdw.de,BY,5,5,Verfügbar,5,3,3,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,2,0,1,0,9
+10045,49.308912016795,7.345732033236,10,66421,Homburg,http://www.uks.eu/neurologie,SL,0,0,Begrenzt,2,0,0,Begrenzt,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+09776,47.563579550914,9.683587414102,09,88131,Lindau,http://asklepios.com/lindau,BY,0,2,Verfügbar,2,2,2,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,5
+08425,48.408743363767,9.789927720958,08,89143,Blaubeuren,,BW,2,0,Verfügbar,0,4,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+01003,53.835847270404,10.708594903235,01,23538,Lübeck,http://uksh.de,SH,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Verfügbar,0,25,1,0,1,0,0
+09372,49.225634567712,12.659462213451,09,93413,Cham,http://www.sana.de/cham,BY,2,4,Verfügbar,3,5,6,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,8
+09162,48.132668345376,11.56221556666,09,80336,München,,BY,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+02000,53.554266187226,9.901287245266,02,22763,Hamburg,https://www.asklepios.com/hamburg/altona/,HH,3,9,Verfügbar,2,9,19,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,0,1,0,0,5
+03241,52.359367509688,9.72413259743,03,30459,Hannover,thomas.fuehner@krh.eu,NI,2,0,Verfügbar,4,2,0,Verfügbar,2,2,0,Verfügbar,2,0,2,2,0,0,8
+01059,54.52306787691,9.569834232461,01,24837,Schleswig,https://www.helios-gesundheit.de/kliniken/schleswig/unser-angebot/fachbereiche-der-klinik/anaesthesie-und-intensivmedzin/,SH,0,0,Verfügbar,0,0,8,Verfügbar,23,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,23
+03461,53.324051347266,8.482316493464,03,26919,Brake,joerg.rehlinghaus@hotmail.de,NI,2,0,Begrenzt,2,2,0,Begrenzt,2,0,0,Ausgelastet,0,0,0,0,0,0,4
+15003,52.104112688489,11.616078212853,15,39120,Magdeburg,,ST,0,0,Ausgelastet,0,12,0,Verfügbar,3,1,0,Verfügbar,1,5,0,0,0,0,4
+08425,48.280372716349,9.718173265392,08,89584,Ehingen,https://www.gesundheitszentrum-ehingen.de/de/Kreiskrankenhaus-und-Gesundheitszentrum/Medizinische-Kompetenzen/Anaesthesie,BW,4,0,Verfügbar,8,4,0,Verfügbar,8,0,0,Ausgelastet,0,0,0,0,0,0,16
+12052,51.74397854379,14.318937836531,12,3048,Cottbus,http://www.sana.de/herzzentrum-cottbus,BB,0,0,Ausgelastet,10,5,16,Verfügbar,5,2,0,Verfügbar,2,40,0,0,0,0,17
+05124,51.260170938981,7.143887758239,05,42105,Wuppertal,http://www.petrus-krankenhaus-wuppertal.de/de/medizin/kliniken/klinik-fuer-anaesthesie-intensiv-und-schmerztherapie/,NRW,0,0,Verfügbar,0,11,0,Verfügbar,18,0,0,Ausgelastet,0,5,2,0,0,0,18
+12061,52.303641604439,13.626816738433,12,15711,Königs Wusterhausen,https://www.klinikum-ds.de/,BB,3,7,Begrenzt,5,6,3,Verfügbar,10,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,15
+11000,52.478649289539,13.372827565454,11,12101,Berlin,http://www.sjk.de,BE,4,2,Verfügbar,1,4,6,Verfügbar,1,0,0,Kein ECMO Betrieb,0,0,6,0,2,0,2
+09673,50.323552817426,10.235710926354,09,97616,Bad Neustadt,https://www.campus-nes.de/medizin-pflege/unsere-kliniken/anaesthesie-intensivmedizin.html,BY,5,0,Verfügbar,5,3,0,Verfügbar,3,2,0,Verfügbar,2,0,2,0,1,0,10
+12051,52.4138414325,12.545166850123,12,14770,Brandenburg an der Havel,https://www.klinikum-brandenburg.de/,BB,2,0,Verfügbar,2,2,0,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+05120,51.161622284323,7.188714981112,05,42859,Remscheid,https://www.sana.de/remscheid,NRW,2,7,Verfügbar,2,7,9,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+15002,51.478082474591,11.969155919251,15,6110,Halle,http://www.krankenhaus-halle-saale.de,ST,4,0,Verfügbar,4,16,0,Verfügbar,16,0,0,Kein ECMO Betrieb,0,0,6,0,1,0,20
+02000,53.470879874845,9.93764555451,02,21075,Hamburg,https://www.asklepios.com/hamburg/harburg/experten/anaesthesie/intensivmedizin/,HH,4,0,Verfügbar,0,0,0,Ausgelastet,0,0,0,Ausgelastet,0,30,0,0,0,0,0
+05374,50.985778797605,7.378701209891,05,57166,Engelskirchen,http://www.k-k-o.de,NRW,1,1,Begrenzt,1,3,5,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,1,1,0,0,1
+11000,52.503591063132,13.364198362742,11,10785,Berlin,https://www.pgdiakonie.de/evangelische-elisabeth-klinik/,BE,3,0,Begrenzt,0,3,7,Begrenzt,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+01004,54.065914474962,9.992158770528,01,24534,Neumünster ,http://www.fek.de,SH,6,0,Verfügbar,4,8,0,Verfügbar,14,0,0,Kein ECMO Betrieb,0,0,2,0,0,0,18
+11000,52.542234057016,13.347827553716,11,13353,Berlin,http://www.chirurgie.charite.de,BE,1,9,Verfügbar,2,1,9,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+09277,48.413349264103,12.760907650027,09,84307,Eggenfelden,http://www.rottalinnkliniken.de,BY,4,0,Ausgelastet,0,7,6,Ausgelastet,13,0,0,Kein ECMO Betrieb,0,0,2,0,2,0,13
+05170,51.660077377416,6.654883503979,05,46485,Wesel,http://www.evkwesel.de,NRW,0,0,Begrenzt,0,2,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,0
+15002,51.503530312452,11.877161622015,15,6120,Halle,harald.fritz@martha-maria.de,ST,6,0,Begrenzt,3,4,0,Verfügbar,6,0,0,Ausgelastet,0,0,0,0,0,0,9
+12065,52.810865208217,13.038772702184,12,16766,Kremmen,www.sana.de/sommerfeld,BB,1,0,Ausgelastet,0,0,0,Ausgelastet,0,0,0,Ausgelastet,0,0,0,0,0,0,0
+07133,49.84654639954,7.861477375063,07,55543,Bad Kreuznach,http://www.marienwoerth.de,RP,4,0,Verfügbar,4,3,0,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,2,0,0,0,7
+01057,54.238802838404,10.276860790327,01,24211,Preetz,http://www.klinik-preetz.de/,SH,0,4,Verfügbar,0,4,4,Verfügbar,0,0,0,Ausgelastet,0,0,1,0,1,0,0
+09761,48.384278099312,10.838583201162,09,86156,Augsburg,http://www.uk-augsburg.de,BY,8,0,Verfügbar,4,18,0,Verfügbar,9,6,0,Verfügbar,4,66,8,1,6,0,17
+15002,51.460257513815,11.984916687143,15,6112,Halle (Saale),https://www.bergmannstrost.de/behandlungsspektrum/anaesthesie-intensiv-und-notfallmedizin/,ST,4,14,Verfügbar,6,8,35,Verfügbar,11,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,17
+01056,53.752510201933,9.681757450235,01,25337,Elmshorn,https://www.sana.de/regiokliniken,SH,4,1,Begrenzt,5,4,9,Verfügbar,13,0,0,Kein ECMO Betrieb,0,0,8,2,3,0,18
+05978,51.536822691397,7.685192272083,05,549423,Unna,http://katharinen-hospital.de,NRW,8,0,Verfügbar,8,1,11,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,10
+05762,51.78536599817,9.365723597871,05,37671,Höxter,www.khwe.de,NRW,6,0,Verfügbar,6,14,0,Verfügbar,6,1,0,Verfügbar,1,2,0,0,2,0,13
+02000,53.582461557932,9.77698874467,02,22529,Hamburg,https://www.asklepios.com/hamburg/westklinikum/,HH,10,0,Verfügbar,6,6,0,Verfügbar,4,0,0,Ausgelastet,0,0,1,0,1,0,10
+13076,53.429704447332,11.854413338006,13,19370, Parchim,https://www.asklepios.com/parchim/experten/anaesthesie-und-intensivmedizin/,MV,4,0,Verfügbar,4,6,0,Verfügbar,5,0,0,Ausgelastet,0,0,1,0,0,0,9
+14521,50.473859853852,12.708371628542,14,8359,Breitenbrunn,http://www.erlabrunn.de,SN,5,4,Begrenzt,3,3,2,Begrenzt,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+12060,52.827784585009,13.790811538893,12,16225,Eberswalde,www.glg-mbh.de,BB,3,0,Verfügbar,6,4,0,Verfügbar,6,0,0,Ausgelastet,0,0,1,0,0,0,12
+14713,51.383359115198,12.380169153148,14,4129,Leipzig,http://www.sanktgeorg.de,SN,0,0,Ausgelastet,0,10,24,Begrenzt,7,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,7
+05762,51.487498909503,9.140362143517,05,34114,Warburg,https://www.helios-gesundheit.de/kliniken/warburg/,NRW,1,5,Verfügbar,0,3,3,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+16077,50.97166360943,12.439656257629,16,4600,Altenburg,http://www.klinikum-altenburgerland.de,TH,3,3,Verfügbar,3,13,9,Verfügbar,13,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,16
+05916,51.534453885174,7.230587482518,05,44625,Herne,http://www.evk-herne.de,NRW,2,1,Verfügbar,0,2,6,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,0
+11000,52.554889150784,13.451850056681,11,13186,Berlin,http://www.park-klinik.com/,BE,5,3,Verfügbar,4,5,2,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+13071,53.541900008233,12.687936008042,13,17192,Waren (Müritz),https://www.johannesstift-diakonie.de/medizinische-versorgung/klinik-amsee/,MV,0,0,Verfügbar,23,0,0,Verfügbar,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,24
+11000,52.444185357118,13.240225366317,11,14163,Berlin,http://www.waldfriede.de,BE,1,3,Verfügbar,1,5,1,Verfügbar,1,0,0,Kein ECMO Betrieb,0,0,0,1,0,0,2
+05170,51.655656995976,6.611606061442,05,46483,Wesel,https://prohomine.de/marien-hospital-wesel/,NRW,3,1,Verfügbar,0,8,2,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,1,1,0,0,0
+07313,49.205934285286,8.103765808046,07,76829,Landau in der Pfalz,https://klinikum-ld-suew.de/,RP,0,2,Verfügbar,0,3,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,2,0,0,0,0
+06431,49.628413580172,8.62520313276,06,64646,Heppenheim,https://www.kkh-bergstrasse.de,HE,0,0,Begrenzt,0,4,11,Begrenzt,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+09162,48.126669312158,11.549293111275,09,80336,München,https://www.maria-theresia-klinik.de/fachbereiche/anaesthestieintensivmedizin.html,BY,1,4,Verfügbar,2,0,1,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,2
+14713,51.308331669107,12.436151683314,14,4289,Leipzig,http://www.helios-gesundheit.de/kliniken/leipzig-park-klinikum,SN,1,3,Begrenzt,0,2,8,Begrenzt,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+14713,51.331383154482,12.386209113038,14,4103,Leipzig,https://www.uniklinikum-leipzig.de/einrichtungen/kinderklinik,SN,0,0,Verfügbar,0,7,15,Verfügbar,10,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,10
+09262,48.5646449268,13.445413827831,09,94032,Passau,http://www.klinikum-passau.de,BY,2,2,Verfügbar,4,7,11,Begrenzt,18,3,0,Begrenzt,3,40,0,0,0,0,25
+01055,54.091061997458,10.828683596892,01,23730,Neustadt,https://www.schoen-klinik.de,SH,6,2,Verfügbar,8,5,5,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,13
+09185,48.730784458311,11.176768183741,09,86633,Neuburg a.d. Donau,https://www.sankt-elisabeth-klinik.de/,BY,3,1,Verfügbar,4,4,4,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,8
+03460,52.521027497434,8.194305516968,03,49401,Damme,http://www.krankenhaus-damme.de,NI,2,3,Verfügbar,3,3,7,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+09662,50.043851391755,10.225560843928,09,97421,Schweinfurt,http://www.josef.de,BY,3,1,Verfügbar,3,2,8,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,5,0,3,0,5
+05962,51.213421488723,7.886490616947,05,58840,Plettenberg,http://www.krankenhaus-plettenberg.de,NRW,3,3,Verfügbar,4,3,1,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,7
+03460,52.664677896575,8.241091489726,03,49393,Lohne,http://franziskushospital-lohne.de,NI,1,2,Verfügbar,1,2,1,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+07334,49.086095403462,8.200444757922,07,76870,Kandel,http://www.asklepios.com/kandel,RP,4,6,Verfügbar,8,5,2,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,2,0,2,0,13
+12054,52.39920968442,13.044046998057,12,14471,Potsdam,https://www.alexianer-potsdam.de/einrichtungen/alexianer-st-josefs-krankenhaus/,BB,1,3,Verfügbar,0,9,7,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+08111,48.803529450519,9.212520298368,08,70372,Stuttgart,https://www.sana.de/rkk-stuttgart,BW,0,0,Ausgelastet,0,0,18,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,1,0
+12061,51.944170635813,13.875671267542,12,15907,Lübben,https://www.klinikum-ds.de/,BB,0,2,Begrenzt,2,4,2,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+07232,49.971704025862,6.526986121771,07,54634,Bitburg,http://www.marienhaus-klinikum-eifel.de,RP,5,5,Verfügbar,3,6,2,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,2,0,0,0,9
+03355,53.240545120251,10.395935296947,03,21335,Lüneburg,http://klinikum-lueneburg.de,NI,5,3,Verfügbar,9,6,1,Verfügbar,7,0,0,Kein ECMO Betrieb,0,0,0,1,0,0,16
+03159,51.554867818936,9.943659067285,03,37075,Göttingen,https://www.ekweende.de,NI,0,0,Verfügbar,0,3,12,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+13071,53.902698241062,13.041572767388,13,17109,Demmin,http://www.KKKH-Demmin.de,MV,0,0,Verfügbar,0,0,0,Begrenzt,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+16052,50.868588042919,12.052145719463,16,7548,Gera,https://www.waldklinikumgera.de,TH,2,0,Begrenzt,2,4,0,Begrenzt,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+05974,51.551900877761,7.906319081767,05,59457,Werl,http://www.mariannen-hospital.de,NRW,1,0,Verfügbar,0,5,1,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+05562,51.662106222311,7.123744368537,05,45770,Marl,http://www.klinikum-vest.de,NRW,4,2,Verfügbar,6,7,6,Verfügbar,13,0,0,Kein ECMO Betrieb,0,0,3,1,1,0,19
+07135,50.023588586532,7.16760706895,07,56856,Zell,http://www.klinikum-mittelmosel.de,RP,0,0,Verfügbar,2,0,0,Begrenzt,5,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,7
+11000,52.463038638404,13.345513236582,11,12157,Berlin,http://www.vivantes.de,BE,0,0,Verfügbar,0,8,14,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+11000,52.624685022797,13.295363545385,11,13467,Berlin,http://www.caritas-klinik-dominikus.de,BE,2,0,Verfügbar,2,6,2,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,2
+05562,51.620319720707,7.175755083545,05,45657,Recklinghausen,http://klinikum-vest.de,NRW,4,16,Verfügbar,8,8,23,Verfügbar,18,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,26
+11000,52.589849052234,13.308975112432,11,13509,Berlin,http://www.vivantes.de,BE,0,0,Verfügbar,0,6,16,Verfügbar,28,0,0,Kein ECMO Betrieb,0,0,4,0,3,0,28
+09662,50.051936208683,10.243571877463,09,97422,Schweinfurt,http://www.leopoldina.de,BY,1,4,Verfügbar,3,6,25,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,2,0,2,0,7
+11000,52.524480767485,13.438961398661,11,10249,Berlin,http://www.vivantes.de,BE,0,0,Verfügbar,0,4,53,Verfügbar,7,2,0,Verfügbar,0,0,3,0,3,0,7
+11000,52.550156762079,13.206896755114,11,13585,Berlin,http://www.vivantes.de,BE,0,0,Verfügbar,0,7,31,Verfügbar,7,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,7
+09774,48.457438951419,10.293619376153,09,89312,Günzburg,https://www.kkhgzkru.de/guenzburg,BY,2,4,Verfügbar,2,5,1,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,7
+14628,50.982949872332,14.266479420685,14,1829,Sebnitz,http://www.asklepios.com/sebnitz,SN,2,1,Begrenzt,2,4,2,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+08215,48.904304210237,8.502052187887,08,76307,Karlsbad-Langensteinbach,http://klinikum-karlsbad.de,BW,6,3,Verfügbar,6,7,1,Verfügbar,7,0,0,Kein ECMO Betrieb,0,0,1,1,1,0,13
+12070,53.074801173802,11.873124360973,12,19348,Perleberg,https://www.krankenhaus-prignitz.de,BB,5,0,Verfügbar,5,1,8,Begrenzt,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+13075,53.489375976101,13.984293651738,13,17309,Pasewalk,https://www.asklepios.com/pasewalk/,MV,6,1,Verfügbar,6,6,7,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,12
+02000,53.674729747362,10.029191494004,02,22417,Hamburg,https://www.asklepios.com/hamburg/nord/heidberg/experten/ains/,HH,0,0,Ausgelastet,0,5,28,Begrenzt,10,1,0,Verfügbar,1,0,0,0,0,0,11
+14524,50.74193616942,12.366416394743,14,8412,Werdau,http://www.pleissental-klinik.de,SN,4,0,Verfügbar,4,2,4,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,2,0,2,0,6
+14628,51.046812185075,14.290974318965,14,1844,Neustadt (Sachsen),https://www.asklepios.com/hohwald/,SN,1,0,Verfügbar,2,0,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,2
+14730,51.274474451085,12.941995382244,14,4779,Wermsdorf,https://www.sanktgeorg.de/medizinische-bereiche/kliniken-abteilungen/neurologie-und-neurologische-intensivmedizin.html,SN,4,3,Begrenzt,4,1,4,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+05970,50.879455893095,8.030419528468,05,57072,Siegen,http://www.mariengesellschaft.de,NRW,3,6,Begrenzt,2,7,2,Verfügbar,7,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,9
+06440,50.356723578628,8.72989135979,06,61231,Bad Nauheim,https://www.gesundheitszentrum-wetterau.de,HE,0,4,Begrenzt,4,0,8,Ausgelastet,8,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,12
+09362,49.01692335715,12.064848124965,09,93049,Regensburg,https://www.barmherzige-regensburg.de/,BY,3,3,Verfügbar,3,8,10,Verfügbar,10,1,0,Verfügbar,1,12,4,0,3,1,14
+14522,50.882904775938,12.792461693271,14,9232,Hartmannsdorf,https://diakomed.de/,SN,2,6,Verfügbar,2,1,2,Verfügbar,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,3
+05974,51.684975604102,8.343058414757,05,59555,Lippstadt,http://www.ev-krankenhaus.de,NRW,1,0,Verfügbar,0,11,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+15088,51.366282965409,11.994037270579,15,6217,Merseburg,http://www.klinikum-saalekreis.de,ST,6,4,Verfügbar,5,16,11,Verfügbar,5,1,0,Verfügbar,0,0,1,0,1,0,10
+12068,52.948243551441,12.388838052684,12,16866,Kyritz,http://kmg-kliniken.de,BB,1,2,Begrenzt,1,3,5,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,3
+14713,51.30760564054,12.436903238231,14,4289,Leipzig,https://www.helios-gesundheit.de/kliniken/leipzig-herzzentrum/,SN,42,47,Verfügbar,20,51,38,Verfügbar,30,8,2,Verfügbar,6,0,0,0,0,0,56
+14730,51.291734100587,13.114279031688,14,4758,Oschatz,https://www.collm-klinik-oschatz.de//,SN,1,1,Verfügbar,0,7,3,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,3
+11000,52.631861499326,13.505310807377,11,13125,Berlin,http://www.pgdiakonie.de/evangelische-lungenklinik-berlin/,BE,3,7,Begrenzt,4,0,11,Ausgelastet,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+05913,51.519954398832,7.533110618624,05,44309,Dortmund,https://www.klinikum-westfalen.de/Inhalt/Kliniken_Zentren_Bereiche_Kooperationen/Zentren/Ecmo-Zentrum/index.php,NRW,4,8,Begrenzt,5,3,15,Verfügbar,4,2,0,Verfügbar,2,45,0,0,0,0,11
+15003,52.086288647157,11.638070583376,15,39120,Magdeburg,https://www.median-kliniken.de/de/median-klinik-nrz-magdeburg/,ST,0,0,Ausgelastet,0,0,14,Ausgelastet,7,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,7
+12054,52.401382990772,13.065048694643,12,14467,Potsdam,http://www.klinikumevb.de,BB,2,14,Begrenzt,6,8,26,Verfügbar,10,0,0,Kein ECMO Betrieb,0,0,2,0,2,0,16
+06635,51.117245594667,9.114189147622,06,34537,Bad Wildungen,https://www.asklepios.com/bad-wildungen/stadtklinik/,HE,4,6,Verfügbar,3,6,1,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,9
+13074,53.884770901332,11.438175201547,13,23966,Wismar,http://www.sana-hanse-klinikum-wismar.de,MV,6,4,Verfügbar,6,2,0,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,8
+02000,53.551159545356,9.913026809845,02,22763,Hamburg,http://www.kinderkrankenhaus.net,HH,4,1,Verfügbar,1,2,5,Verfügbar,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,2
+05315,50.992215873468,6.923839330698,05,50737,Köln,http://www.hgk-koeln.de/start/,NRW,0,0,Verfügbar,0,0,0,Begrenzt,0,0,0,Kein ECMO Betrieb,0,0,3,0,2,0,0
+07334,49.219963982877,8.365733206256,07,76726,Germersheim,http://www.asklepios.com/germersheim,RP,7,3,Verfügbar,7,5,5,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,12
+08116,48.647647546769,9.204562492669,08,70794,Filderstadt,http://filderklinik.de,BW,1,4,Verfügbar,2,5,0,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,2,0,0,6
+10041,49.233049841788,7.003756561317,10,66111,Saarbrücken,https://www.kreuznacherdiakonie.de/krankenhaeuser/ev-stadtkrankenhaus-saarbruecken/,SL,2,4,Verfügbar,4,5,1,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,9
+05515,51.908610285858,7.634223461282,05,48165,Münster,http://www.hjk-muenster.de,NRW,9,5,Verfügbar,8,3,6,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,13
+08415,48.483743343529,9.21819368004,08,72764,Reutlingen,https://www.kreiskliniken-reutlingen.de,BW,15,9,Verfügbar,15,22,8,Verfügbar,18,1,0,Verfügbar,1,5,3,0,3,1,34
+05562,51.652448679853,7.083754777941,05,45768,Marl,http://www.kkrn.de,NRW,1,2,Verfügbar,3,4,3,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+12073,53.334064923664,13.86869430542,12,17291,Prenzlau,https://www.glg-gesundheit.de/krankenhaeuser/glg-kreiskrankenhaus-prenzlau/behandlungsspektrum/anaesthesiologie-intensiv-und-schmerztherapie/,BB,3,1,Verfügbar,4,1,6,Begrenzt,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+09162,48.130358133326,11.554821252757,09,80337,München,https://www.klinikum.uni-muenchen.de/Kinderklinik-und-Kinderpoliklinik-im-Dr-von-Haunerschen-Kinderspital/de/,BY,2,10,Verfügbar,0,2,10,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+06414,50.072435808281,8.226556599116,06,65197,Wiesbaden,http://asklepios.com,HE,0,0,Verfügbar,15,5,5,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,20
+11000,52.518886203069,13.277061760409,11,14050,Berlin,http://drk-kliniken-Berlin.de,BE,4,2,Verfügbar,2,2,12,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,2,0,2,0,6
+07319,49.649785612067,8.320514273473,07,67550,Worms,http://www.klinikum-worms.de,RP,9,9,Verfügbar,4,2,10,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,4,0,1,0,6
+05762,51.741993251764,9.01045219277,05,33014,Bad Driburg,http://khwe.de,NRW,1,3,Begrenzt,1,1,2,Begrenzt,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,2
+03254,52.151614552443,9.975515127117,03,31135,Hildesheim,http://www.helios-gesundheit.de/kliniken/hildesheim/,NI,0,0,Ausgelastet,0,5,7,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+14626,51.144222574099,14.939101695818,14,2827,Görlitz,http://www.malteser-krankenhaus-stcarolus.de,SN,4,1,Verfügbar,1,3,1,Verfügbar,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,2
+09463,50.247062538779,10.972732543978,09,96450,Coburg,http://klinikum-coburg.de,BY,12,12,Verfügbar,3,12,12,Verfügbar,3,1,0,Begrenzt,0,0,3,0,3,0,6
+15089,51.996042224611,11.716983318493,15,39218,Schönebeck,https://www.ameos.eu/standorte/ameos-ost/schoenebeck/,ST,5,3,Verfügbar,4,5,3,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,10
+05711,52.041682889225,8.541192054781,05,33611,Bielefeld,https://evkb.de/kliniken-zentren/anaesthesiologie/anaesthesiologie-intensiv-und-notfallmedizin-transfusionsmedizin-und-schmerztherapie/ueber-uns/,NRW,1,3,Begrenzt,0,4,12,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+02000,53.605628446777,9.990679800494,02,22297,Hamburg,http://www.ik-h.de,HH,2,2,Verfügbar,2,2,6,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,4
+05111,51.242299980493,6.790982075036,05,40477,Düsseldorf,http://https//www.vinzenz-duesseldorf.de/,NRW,5,0,Verfügbar,6,5,4,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,11
+06534,50.81526897788,8.805859994882,06,35043,Marburg,https://www.ukgm.de,HE,0,0,Verfügbar,0,15,0,Verfügbar,0,4,0,Verfügbar,0,0,0,0,0,0,0
+08117,48.690485873165,9.65062236799,08,73035,Göppingen,http://www.alb-fils-kliniken.de,BW,0,0,Verfügbar,0,16,16,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,4,0,2,1,0
+01061,53.941746464684,9.503403425151,01,25524,Itzehoe,http://www.klinikum-itzehoe.de,SH,0,4,Verfügbar,1,13,15,Verfügbar,14,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,15
+11000,52.441800385763,13.320401430065,11,12200,Berlin,https://kardio-cbf.charite.de/,BE,1,5,Verfügbar,3,1,7,Begrenzt,2,2,0,Verfügbar,2,40,0,0,0,0,7
+09376,49.461630993553,12.412333828229,09,92526,Oberviechtach,http://www.asklepios.com/oberviechtach,BY,2,2,Verfügbar,0,0,0,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+13071,53.522303086373,12.685997843382,13,17192,Waren,https://www.mueritz-klinikum.de,MV,3,2,Verfügbar,2,3,2,Verfügbar,2,0,0,Kein ECMO Betrieb,0,2,0,0,0,0,4
+08121,49.153217008565,9.19058221577,08,74078,Heilbronn,https://www.slk-kliniken.de/ueber-uns/standorte/klinikum-am-gesundbrunnen/,BW,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Verfügbar,0,30,5,0,2,0,0
+15091,51.877967995862,12.477286577159,15,6869,Coswig,https://www.herzzentrum-coswig.de/,ST,4,8,Verfügbar,0,4,14,Verfügbar,0,3,0,Verfügbar,0,20,0,0,0,0,0
+09763,47.732855621457,10.302372336273,09,87439,Kempten,https://www.kv-keoa.de,BY,4,0,Begrenzt,0,4,16,Verfügbar,12,0,0,Kein ECMO Betrieb,0,0,1,0,1,1,12
+02000,53.674729747362,10.029191494004,02,22417,Hamburg,https://www.asklepios.com/hamburg/nord/heidberg/experten/neonatologie-paediatrische-intensivmedizin/,HH,0,3,Verfügbar,2,0,1,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+08128,49.490775510161,9.763119578329,08,97980,Bad Mergentheim,https://www.ckbm.de/ckbm/index.php,BW,6,8,Verfügbar,0,6,8,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,6,0,1,0,0
+11000,52.542234057016,13.347827553716,11,13353,Berlin,http://www.charite-ppi.de/,BE,0,0,Verfügbar,0,0,9,Ausgelastet,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,1
+03351,52.628857876836,10.085253920406,03,29223,Celle,https://www.akh-celle.de/aerzte-fachpersonal/kliniken-und-zentren/kinder-und-jugendmedizin/,NI,1,0,Verfügbar,1,0,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,1
+08436,47.924434205718,9.76083535591,08,88339,Bad Waldsee,http://www.oberschwabenklinik.de,BW,1,5,Verfügbar,1,0,0,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,0,1,0,0,1
+11000,52.589849052234,13.308975112432,11,13509,Berlin,http://www.vivantes.de,BE,0,0,Verfügbar,0,5,5,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,2,0,2,0,5
+08111,48.815082316815,9.186542808993,08,70376,Stuttgart,https://www.rbk.de/standorte/robert-bosch-krankenhaus/abteilungen/kardiologie/leistungsspektrum/internistische-intensivmedizin.html,BW,0,0,Verfügbar,0,0,0,Verfügbar,0,1,0,Begrenzt,0,0,23,0,2,1,0
+08116,48.741633665497,9.254379630056,08,73760,Ostfildern,https://www.medius-kliniken.de/,BW,0,4,Begrenzt,0,0,7,Begrenzt,5,0,0,Kein ECMO Betrieb,0,0,4,0,3,0,5
+14524,50.72244155485,12.471148610148,14,8060,Zwickau,https://www.paraklinik.de/zwickau.html,SN,0,0,Begrenzt,0,3,5,Begrenzt,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,2
+08116,48.652068749627,9.442178785785,08,73230,Kirchheim unter Teck,https://www.medius-kliniken.de/,BW,0,5,Begrenzt,0,3,16,Verfügbar,11,0,0,Kein ECMO Betrieb,0,0,10,0,8,0,11
+05158,51.350371418841,7.01174873112,05,42549,Velbert,https://www.helios-gesundheit.de/kliniken/niederberg/unser-angebot/unsere-mitarbeiter/profil/person/ralf-michael-schumacher/,NRW,7,3,Verfügbar,7,5,11,Begrenzt,3,0,0,Kein ECMO Betrieb,0,0,2,0,2,1,10
+09575,49.58202623012,10.621789151237,09,91413,Neustadt a. d. Aisch,http://www.kliniken-nea.de,BY,1,4,Begrenzt,0,1,9,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,0
+05711,52.013456454331,8.525701117214,05,33617,Bielefeld,https://evkb.de/kliniken-zentren/anaesthesiologie/anaesthesiologie-intensiv-und-notfallmedizin-transfusionsmedizin-und-schmerztherapie/ueber-uns/,NRW,11,11,Verfügbar,0,24,12,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+05114,51.319885882105,6.565841674346,05,47805,Krefeld,http://www.helios-gesundheit.de/kliniken/krefeld,NRW,10,18,Verfügbar,10,5,30,Verfügbar,5,3,0,Verfügbar,3,30,0,1,0,0,18
+05562,51.657104657625,6.956027984652,05,46282,Dorsten,https://www.kkrn.de,NRW,0,0,Verfügbar,0,2,7,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,2,0,1,0,0
+03456,52.442743762618,7.065397202969,03,48527,Nordhorn,http://www.euregio-klinik.de,NI,3,7,Verfügbar,4,4,12,Verfügbar,8,0,0,Kein ECMO Betrieb,0,0,2,0,1,0,12
+05154,51.832762637954,6.240157663806,05,46446,Emmerich,https://prohomine.de/st-willibrord-spital-emmerich/kliniken-fachbereiche/anaesthesie-und-intensivmedizin/,NRW,1,0,Begrenzt,1,7,4,Begrenzt,7,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,8
+06432,49.753427539044,8.638485431802,06,64342,Seeheim-Jugenheim,https://www.kreiskliniken-darmstadt-dieburg.de/medizin-pflege/kreisklinik-jugenheim/zentrum-fuer-akute-und-postakute-intensivmedizin/,HE,1,3,Verfügbar,0,12,11,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,3,0,3,0,0
+05122,51.137942585009,7.01258504394,05,42699,Solingen ,http://www.klinik-bethanien.de,NRW,0,0,Ausgelastet,0,7,27,Verfügbar,16,1,0,Verfügbar,1,14,2,7,1,1,17
+08436,47.692956868907,9.844494031402,08,88239,Wangen im Allgäu,http://www.oberschwabenklinik.de/unsere-haeuser/westallgaeu-klinikum-in-wangen.html,BW,1,5,Begrenzt,3,4,4,Verfügbar,8,0,0,Kein ECMO Betrieb,0,0,2,0,1,0,11
+06438,50.041686138228,8.964987516338,06,63500,Seligenstadt,https://www.asklepios.com/seligenstadt/,HE,2,5,Begrenzt,2,0,0,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,2
+09675,49.743730898713,10.139102518542,09,97318,Kitzingen ,http://www.k-kl.de,BY,0,5,Begrenzt,3,5,1,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,3
+05962,51.379446846858,7.690690398249,05,58638,Iserlohn,http://www.kkimk.de,NRW,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+05711,52.014345123923,8.54419934748,05,33604,Bielefeld,http://www.klinikumbielefeld.de,NRW,0,0,Begrenzt,0,12,36,Verfügbar,17,1,0,Begrenzt,0,0,1,0,0,0,17
+05374,51.113210128766,7.38522863393,05,51688,Wipperfürth,https://www.helios-gesundheit.de/kliniken/wipperfuerth/,NRW,3,0,Verfügbar,0,4,2,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,1,2,0,0,0
+09278,48.909688323637,12.697077512676,09,94327,Bogen,https://www.kreiskliniken-bogen-mallersdorf.de/klinik-bogen.html,BY,12,3,Verfügbar,12,8,0,Verfügbar,8,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,20
+16071,50.859854352109,11.339337408526,16,99444,Blankenhain,https://www.helios-gesundheit.de/kliniken/blankenhain/unser-angebot/unsere-fachbereiche/anaesthesie-intensivmedizin/,TH,6,0,Verfügbar,0,6,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+05116,51.158093140952,6.420085608943,05,41239,Mönchengladbach,http://www.sk-mg.de,NRW,0,0,Verfügbar,0,4,21,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,4,0,3,0,5
+06531,50.592300146582,8.649139004592,06,35398,Gießen,http://www.ekm-gi.de,HE,5,0,Verfügbar,3,3,8,Verfügbar,4,1,0,Verfügbar,0,5,0,0,0,0,7
+01055,54.132942256723,10.601059377177,01,23701,Eutin,http://www.sana-oh.de,SH,10,4,Verfügbar,14,3,7,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,20
+05315,50.910195081296,6.966396331754,05,50968,Köln,https://www.antonius-koeln.de,NRW,2,0,Begrenzt,0,3,7,Verfügbar,5,0,0,Kein ECMO Betrieb,0,2,6,5,2,0,5
+06412,50.095428562176,8.661681175363,06,60590,Frankfurt am Main,https://www.kgu.de/einrichtungen/kliniken/anaesthesiologie-intensivmedizin-und-schmerztherapie/,HE,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Verfügbar,0,0,4,1,1,0,0
+06411,49.877471904238,8.66481560467,06,64287,Darmstadt,http://www.kinderkliniken.de,HE,2,0,Verfügbar,0,5,0,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+05166,51.309347754467,6.271489067003,05,41334,Nettetal,http://www.krankenhaus-nettetal.de,NRW,1,3,Begrenzt,0,8,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,2,0,0,0,0
+02000,53.641470602664,10.151569090972,02,22359,Hamburg,http://www.amalie.de,HH,6,6,Verfügbar,4,2,8,Verfügbar,1,0,0,Kein ECMO Betrieb,0,0,5,3,2,0,5
+11000,52.542234057016,13.347827553716,11,13353,Berlin,https://chirurgie.charite.de,BE,0,10,Ausgelastet,0,0,10,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+14521,50.735086900659,13.078994035786,14,9405,Zschopau,http://kkh-mek.de,SN,7,0,Verfügbar,11,2,6,Begrenzt,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,17
+05570,51.752705853631,8.038717746604,05,59269,Beckum,http://www.krankenhaus-beckum.de,NRW,4,2,Verfügbar,6,12,0,Verfügbar,10,0,0,Kein ECMO Betrieb,0,0,2,5,0,0,16
+07132,50.683290326913,7.630609452749,07,57610,Altenkirchen ,http://drk-kh-altenkirchen.de,RP,2,1,Verfügbar,2,1,2,Begrenzt,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+01051,54.199694819113,9.080427056679,01,25746,Heide,http://westkuestenklinikum.de,SH,1,10,Ausgelastet,1,10,10,Verfügbar,10,2,0,Begrenzt,0,20,1,0,0,0,11
+14524,50.722951034013,12.434322523832,14,8060,Zwickau,https://www.heinrich-braun-klinikum.de/,SN,20,6,Verfügbar,20,10,30,Verfügbar,10,1,0,Begrenzt,0,0,1,0,0,0,30
+06634,50.922115738919,9.25571751588,06,34613,Schwalmstadt,http://www.asklepios.de,HE,18,8,Verfügbar,0,6,4,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,2,0,0,0,0
+05358,50.808026333869,6.496521625668,05,52351,Düren,https://www.krankenhaus-dueren.de/index.php/medizinische-leistungen-haupt/kliniken-und-institute/interdisziplinaere-intensivmedizin,NRW,0,0,Ausgelastet,0,1,19,Ausgelastet,1,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,1
+08117,48.701290667183,9.644454896434,08,73035,Göppingen,http://christophsbad.de,BW,3,4,Verfügbar,4,0,0,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+03154,52.232069153103,10.999751186237,03,38350,Helmstedt,http://helios-gesundheit.de/helmstedt,NI,4,1,Verfügbar,0,9,11,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+05358,50.925637543601,6.363383710368,05,52428,Jülich,http://www.krankenhaus-juelich.de,NRW,1,1,Begrenzt,1,1,4,Begrenzt,1,0,0,Kein ECMO Betrieb,0,0,2,2,1,0,2
+06634,51.137185253334,9.539943695077,06,34212,Melsungen,http://www.asklepios.com,HE,2,2,Verfügbar,0,2,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+09162,48.144849615797,11.454206295312,09,81241,München,https://www.helios-gesundheit.de/kliniken/muenchen-west/,BY,0,0,Ausgelastet,0,2,10,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,3,0,2,0,2
+03154,52.232069153103,10.999751186237,03,38350,Helmstedt,https://www.helios-gesundheit.de/kliniken/helmstedt/,NI,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,5,0,0,0,0
+09373,49.285523487235,11.451848794554,09,92318,Neumarkt i.d.OPf.,https://www.klinikum-neumarkt.de,BY,0,10,Ausgelastet,0,3,22,Begrenzt,8,0,0,Kein ECMO Betrieb,0,0,2,0,2,0,8
+12070,53.148539865618,12.169218778545,12,16928,Pritzwalk,https://kmg-kliniken.de/kmg-klinikum-pritzwalk/fachabteilungen-zentren/anaesthesiologie-und-intensivmedizin/,BB,6,1,Verfügbar,0,5,1,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+09575,49.58202623012,10.621789151237,09,91413,Neustadt/Aisch,http://kliniken-nea.de,BY,1,4,Verfügbar,0,4,6,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,0
+09564,49.456952202572,11.066573649637,09,90419,Nürnberg,http://www.klinik-hallerwiese.de,BY,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+01055,54.290437034751,10.88027787202,01,23758,Oldenburg,https://www.sana-oh.de/oldenburg/,SH,0,4,Verfügbar,0,4,8,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+08118,48.786731908746,9.074553608862,08,70839,Gerlingen,http://www.rbk.de/standorte/klinik-schillerhoehe.html,BW,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,0,0,0,0
+11000,52.542234057016,13.347827553716,11,13353,Berlin ,http://dhzb.de,BE,0,0,Ausgelastet,0,0,0,Begrenzt,0,0,0,Begrenzt,0,0,0,0,0,0,0
+08111,48.789273693351,9.203697305707,08,70190,Stuttgart,http://https://www.karl-olga-krankenhaus.de,BW,0,0,Ausgelastet,0,3,7,Begrenzt,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,3
+14713,51.34312397146,12.320682585223,14,4177,Leipzig,https://www.diako-leipzig.de/index.php?id=1152,SN,0,0,Verfügbar,0,7,9,Verfügbar,7,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,7
+03360,53.085718606891,10.604394436014,03,29549,Bad Bevensen,https://www.hgz-bb.de,NI,4,0,Verfügbar,0,4,0,Verfügbar,4,4,0,Verfügbar,2,100,0,0,0,0,6
+13075,53.970694183658,13.609632611242,13,17495,Karlsburg,http://www.klinikum-karlsburg.de,MV,8,0,Verfügbar,8,8,1,Verfügbar,8,4,0,Verfügbar,4,0,0,0,0,0,20
+05315,50.931087953294,6.923667099327,05,50931,Köln,https://www.malteser-krankenhaus-koeln.de/start.html,NRW,1,0,Verfügbar,2,8,1,Verfügbar,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,3
+05515,51.960632086638,7.648671448214,05,48145,Münster,https://www.sfh-muenster.de/startseite/,NRW,6,3,Verfügbar,0,10,8,Verfügbar,0,1,0,Verfügbar,0,15,3,0,3,0,0
+11000,52.523669697726,13.378229856426,11,10115,Berlin,http://nephrologie-intensivmedizin.charite.de/,BE,6,0,Verfügbar,6,6,0,Verfügbar,6,3,0,Verfügbar,3,30,0,0,0,0,15
+09190,47.83741268819,11.144314741823,09,82362,Weilheim ,http://www.kh-gmbh-ws.de,BY,5,3,Verfügbar,5,2,6,Verfügbar,8,0,0,Kein ECMO Betrieb,0,0,2,0,1,1,13
+07137,50.44037168914,7.404745995982,07,56626,Andernach,http://www.stiftshospital-andernach.de,RP,3,5,Verfügbar,0,1,6,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,0
+11000,52.555278906928,13.370569467479,11,13347,Berlin,http://www.jkb-online.lde,BE,3,1,Verfügbar,4,5,5,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,9
+07312,49.442308209042,7.756798267365,07,67655,Kaiserslautern,https://www.westpfalz-klinikum.de/,RP,6,0,Verfügbar,0,10,0,Verfügbar,0,5,0,Verfügbar,0,0,7,0,4,0,0
+02000,53.503688744911,9.985962733626,02,21107,Hamburg,http://gross-sand.de,HH,4,0,Verfügbar,4,1,5,Verfügbar,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+06412,50.136002538494,8.710909581378,06,60389,Frankfurt,http://www.sankt-katharinen-ffm.de,HE,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+16055,50.961440439847,11.322625583428,16,99425,Weimar,http://www.klinikum-weimar.de,TH,2,8,Verfügbar,0,11,1,Verfügbar,13,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,13
+05166,51.36301421363,6.411147737163,05,47906,Kempen,http://www.krankenhaus-kempen.de,NRW,8,6,Verfügbar,6,6,2,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,12
+07143,50.656886809616,7.830873906596,07,57627,Hachenburg,http://www.drk-kh-hachenburg.de,RP,1,4,Verfügbar,1,1,0,Verfügbar,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,2
+04011,53.075136342809,8.837436676058,04,28177,Bremen,https://www.gesundheitnord.de/krankenhaeuserundzentren/kbm/klinikum-bremen-mitte/paediatrischeintensivmedizin.html,HB,0,0,Verfügbar,0,2,10,Begrenzt,2,1,0,Verfügbar,1,5,0,0,0,0,3
+07315,49.992949180831,8.259165929903,07,55131,Mainz,https://www.unimedizin-mainz.de/index.html,RP,2,14,Verfügbar,4,22,64,Verfügbar,20,2,1,Verfügbar,3,96,2,0,2,0,27
+15082,51.960538935624,12.09354137759,15,39261,Zerbst/Anhalt,https://www.helios-gesundheit.de/kliniken/zerbst/unser-angebot/unsere-fachbereiche/anaesthesie/,ST,6,0,Verfügbar,0,6,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+05562,51.546553557541,7.315626919253,05,44575,Castrop-Rauxel,http://www.rochus-hospital.de,NRW,3,1,Verfügbar,3,3,1,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,2,0,1,0,6
+03101,52.233299562044,10.52669620527,03,38124,Braunschweig,https://www.heh-bs.de/,NI,6,0,Verfügbar,0,4,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,3,0,0,0,0
+07314,49.458123742438,8.408190697219,07,67067,Ludwigshafen am Rhein ,https://www.st-marienkrankenhaus.de/,RP,1,3,Verfügbar,4,8,3,Verfügbar,11,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,15
+05112,51.453313274264,6.710300087962,05,47198,Duisburg,https://www.malteser-kliniken-rhein-ruhr.de/aktuell.html,NRW,2,2,Verfügbar,0,1,7,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+05162,51.213667703464,6.65874829881,05,41462,Neuss,http://www.johanna-etienne-krankenhaus.de,NRW,6,2,Verfügbar,6,5,11,Verfügbar,9,0,0,Kein ECMO Betrieb,0,0,2,2,0,0,15
+05315,50.962863088277,6.966712832418,05,50735,Köln,http://www.kliniken-koeln.de,NRW,0,1,Verfügbar,1,2,7,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+03357,53.471387569831,9.135576009685,03,27432,Bremervörde,http://www.ostemed.de/,NI,2,2,Verfügbar,0,4,2,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+08311,47.983256035404,7.840717613681,08,79100,Freiburg,http://rkk-klinikum.de/,BW,2,5,Verfügbar,4,1,2,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,10
+05116,51.224390160017,6.470275640422,05,41066,Mönchengladbach,https://www.kh-neuwerk.de/,NRW,2,2,Verfügbar,2,1,5,Begrenzt,1,0,0,Kein ECMO Betrieb,0,0,5,0,5,0,3
+07314,49.490855655148,8.423893690306,07,67063,Ludwigshafen,http://www.klilu.de,RP,0,0,Verfügbar,10,10,38,Verfügbar,16,3,0,Begrenzt,0,0,4,0,0,0,26
+06532,50.745418303174,8.284552261512,06,35683,Dillenburg,https://www.lahn-dill-kliniken.de,HE,0,6,Begrenzt,2,0,6,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+03252,52.208127711121,9.473372340235,03,31848,Bad Münder,http://www.dsk-bm.de,NI,4,0,Verfügbar,4,3,0,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,7
+01060,53.903603364398,9.893347263369,01,24576,Bad Bramstedt,https://www.klinikumbadbramstedt.de/,SH,7,3,Verfügbar,10,0,0,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,10
+09563,49.449804255207,10.997906685007,09,90763,Fürth,https://www.schoen-klinik.de/kliniken-und-zentren,BY,2,4,Verfügbar,4,4,0,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,8
+07235,49.657546805244,6.948454767457,07,54411,Hermeskeil,https://www.krankenhaus-hermeskeil.de/startseite,RP,1,2,Verfügbar,3,3,2,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,9
+12069,52.08128459006,12.875867664798,12,14929,Treuenbrietzen,https://www.johanniter.de/einrichtungen/krankenhaus/treuenbrietzen/,BB,1,9,Begrenzt,4,2,12,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,8
+08136,48.957404202104,10.132435083324,08,73479,Ellwangen,http://www.klinik-ellwangen.de,BW,2,2,Verfügbar,0,0,4,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,0
+02000,53.470879874845,9.93764555451,02,21075,Hamburg,https://www.helios-gesundheit.de/kliniken/helios-mariahilf-klinik-hamburg/unser-angebot/unsere-mitarbeiter/profil/person/philipp-alexander-brand-mahm/,HH,12,0,Verfügbar,12,6,0,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,18
+05758,52.126395097108,8.700473427789,05,32049,Herford,https://www.klinikum-herford.de/medizin/kliniken/kardiologie-konservative-intensivmedizin?rel=departmentfinder,NRW,5,14,Verfügbar,6,6,16,Verfügbar,6,2,0,Verfügbar,2,13,2,0,0,0,14
+06635,51.062222506323,8.792190223928,06,35066,Frankenberg,https://www.krankenhaus-frankenberg.de/start.html,HE,2,5,Verfügbar,3,8,4,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,4,0,0,0,9
+16074,50.964353044222,11.888960122997,16,7607,Eisenberg,https://www.waldkliniken-eisenberg.de,TH,7,0,Begrenzt,0,6,2,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+05315,50.892672968533,7.051347255838,05,51149,Köln,http://www.khporz.de,NRW,6,6,Verfügbar,0,6,6,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,0
+08436,47.698589217916,9.83571624769,08,88239,Wangen,http://www.fachkliniken-wangen.de,BW,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,0
+08436,47.787945360369,9.621534937132,08,88212,Ravensburg,http://www.oberschwabenklinik.de,BW,0,16,Verfügbar,1,6,18,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,6
+08225,49.611468956365,9.470789050938,08,74736,Hardheim,https://www.khv-ha-wa.de,BW,6,0,Verfügbar,8,0,0,Begrenzt,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,8
+15081,52.85646921537,11.145434886266,15,29410,Salzwedel,https://www.altmark-klinikum.de/krankenhaus-salzwedel/klinik-fuer-innere-medizin-und-intensivmedizin/,ST,1,5,Begrenzt,2,3,3,Begrenzt,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+06435,50.13537292573,8.912375610716,06,63450,Hanau,http://vinzenz-hanau.de,HE,2,0,Verfügbar,6,3,7,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,10
+05358,50.770354595772,6.487881124003,05,52351,Düren,http://www.snkt-augustinus-krankenhaus.de,NRW,2,3,Verfügbar,3,5,6,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,7
+12052,51.743884735622,14.322839498454,12,3046,Cottbus,https://www.ctk.de/klinikum/kliniken-zentren/kliniken/anaesthesiologie-intensivtherapie-palliativmedizin.html,BB,5,12,Verfügbar,12,12,10,Verfügbar,12,1,1,Verfügbar,1,0,0,0,0,0,25
+14626,51.005066756339,14.569731540978,14,2730,Ebersbach-Neugersdorf,http://k-ob.de,SN,0,1,Verfügbar,0,6,1,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+04011,53.03598773022,8.818875789675,04,28277,Bremen,http://www.gesundheitnord.de/krankenhaeuserundzentren/ldw/klinikum-bremen-ldw/anaesthesie-intensiv-und-notfall.html,HB,5,0,Verfügbar,0,4,0,Verfügbar,0,2,0,Begrenzt,0,15,1,0,0,0,0
+10044,49.313775044676,6.744250450283,10,66740,Saarlouis,http://www.drk-kliniken-saar.de,SL,3,5,Verfügbar,6,9,3,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,10
+05117,51.425864418806,6.887203842393,05,45468,Mülheim an der Ruhr,https://www.contilia.de/einrichtungen/st-marien-hospital-muelheim-an-der-ruhr.html,NRW,1,8,Verfügbar,3,8,1,Verfügbar,8,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,11
+05315,50.947320438694,6.962529659304,05,50668,Köln,http://www.st-marien-hospital.de,NRW,0,0,Verfügbar,0,3,6,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,2,0,1,0,0
+08111,48.772118488409,9.187977790898,08,70184,Stuttgart,https://www.bethesda-stuttgart.de,BW,1,0,Verfügbar,1,0,0,Begrenzt,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,1
+14713,51.308331669107,12.436151683314,14,4289,Leipzig,https://www.helios-gesundheit.de/kliniken/leipzig-park-klinikum/unser-angebot/unsere-fachbereiche/anaesthesie/,SN,2,2,Verfügbar,6,2,8,Verfügbar,10,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,16
+05162,51.072726201174,6.808673322184,05,41540,Dormagen,http://do.rkn-kliniken.de/,NRW,1,6,Verfügbar,1,14,3,Verfügbar,13,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,14
+09275,48.429734482689,13.184188127452,09,94086,Bad Griesbach,http://passauerwolf.de,BY,2,18,Verfügbar,10,0,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,10
+05754,51.833002974089,8.330376863578,05,33378,Rheda - Wiedenbrück,https://www.sankt-vinzenz.de,NRW,1,1,Verfügbar,2,2,2,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,4
+05774,51.710481901077,8.75954398512,05,33098,Paderborn,https://www.st-louise.de/,NRW,0,0,Verfügbar,0,1,0,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,2
+05112,51.396954869071,6.783368825945,05,47055,Duisburg,https://www.sana.de/duisburg,NRW,2,8,Begrenzt,6,4,8,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,12
+09189,47.873837340771,12.632477474108,09,83278,Traunstein,http://kliniken-suedostbayern.de,BY,6,6,Verfügbar,0,12,18,Verfügbar,0,2,0,Verfügbar,0,20,0,0,0,0,0
+13075,54.051750192808,13.764006095007,13,17438,Wolgast,http://kreiskrankenhaus-wolgast.de,MV,2,1,Begrenzt,1,1,3,Begrenzt,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,2
+03457,53.22912269612,7.445466756853,03,26789,Leer,https://www.borromaeus-hospital-leer.de,NI,2,5,Verfügbar,2,2,5,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+11000,52.494626963901,13.409019953042,11,10967,Berlin,http://www.vivantes.de,BE,0,0,Verfügbar,0,8,16,Verfügbar,8,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,8
+13073,54.236468365404,12.444333627836,13,18311,Ribnitz-Damgarten,http://bodden-kliniken.de,MV,4,2,Verfügbar,4,2,4,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+05334,50.772767229216,6.229546201484,05,52222,Stolberg,http://www.bethlehem.de,NRW,4,2,Verfügbar,4,3,5,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,2,0,1,0,7
+13075,54.088500891852,13.404547154887,13,17475,Greifswald,http://www.medizin.uni-greifswald.de,MV,5,25,Verfügbar,5,12,48,Verfügbar,12,1,2,Verfügbar,1,50,4,0,0,0,18
+08235,48.749668671254,8.549775123629,08,75323,Bad Wildbad,http://www.sana.de/bad-wildbad,BW,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+06633,51.423125734185,9.477583408388,06,34376,Immenhausen,http://www.lungenfachklinik-immenhausen.de,HE,0,0,Verfügbar,0,6,6,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+06635,51.109438157874,9.085568368419,06,34537,Bad Wildungen,http://www.werner-wicker-klinik.de,HE,4,4,Verfügbar,8,10,6,Verfügbar,10,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,18
+10045,49.308912016795,7.345732033236,10,66424,Homburg,https://www.uniklinikum-saarland.de/de/einrichtungen/kliniken_institute/anaesthesiologie/,SL,1,9,Begrenzt,0,12,4,Begrenzt,10,3,0,Verfügbar,5,10,0,0,0,0,15
+12064,52.589038352606,13.900924967566,12,15344,Strausberg,http://www.krankenhaus-mol.de,BB,6,0,Verfügbar,2,9,5,Verfügbar,8,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,10
+05513,51.495339621896,7.101417616004,05,45886,Gelsenkirchen,http://marienhospital.eu/marienhospital-gelsenkirchen/,NRW,8,3,Verfügbar,5,18,8,Verfügbar,10,0,0,Kein ECMO Betrieb,0,0,0,1,0,0,15
+05112,51.364504496386,6.754266858134,05,47259,Duisburg,https://www.malteser-kliniken-rhein-ruhr.de,NRW,2,2,Begrenzt,0,5,12,Verfügbar,0,0,0,Kein ECMO Betrieb,0,1,1,2,1,0,0
+06533,50.424314854233,8.390130043063,06,35789,Weilmünster,http://vitos-weil-lahn.de,HE,5,0,Verfügbar,5,4,15,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,9
+05170,51.643185223281,6.452771007998,05,46509,Xanten,http://sankt-josef-hospital.de,NRW,0,0,Verfügbar,0,3,0,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+07318,49.315695817169,8.421648941003,07,67346,Speyer,http://www.vincentius-speyer.de,RP,8,2,Verfügbar,8,5,7,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,12
+14730,51.460225761574,12.621658623202,14,4838,Eilenburg,https://www.klinik-delitzsch.de/kliniken/eilenburg,SN,3,0,Verfügbar,2,3,2,Begrenzt,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+05570,51.960420529706,8.002352893336,05,48231,Warendorf,http://www.jhwaf.de,NRW,8,2,Verfügbar,12,2,4,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,4,0,0,0,16
+02000,53.606101108168,10.035914182663,02,22307,Hamburg,https://www.asklepios.com/hamburg/barmbek/,HH,0,0,Verfügbar,0,36,18,Verfügbar,20,0,0,Kein ECMO Betrieb,0,0,4,0,1,1,20
+06412,50.106522133041,8.683677435019,06,60594,Frankfurt,https://www.krankenhaus-sachsenhausen.de,MV,1,0,Verfügbar,1,3,1,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,3
+14626,51.161540703266,14.969681301154,14,2828,Görlitz,https://www.klinikum-goerlitz.de,SN,11,14,Begrenzt,12,7,17,Begrenzt,10,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,22
+05966,51.027457170596,7.846918344694,05,57462,Olpe,http://www.hospitalgesellschaft.de,NRW,0,0,Verfügbar,0,13,13,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,0
+12064,52.453583789123,13.772192783654,12,15562,Rüdersdorf bei Berlin,https://immanuelalbertinen.de,BB,10,2,Verfügbar,14,6,2,Verfügbar,17,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,31
+05911,51.493922507533,7.228267908031,05,44791,Bochum,http://www.klinikum-bochum.de,NRW,1,7,Begrenzt,2,1,9,Begrenzt,2,0,0,Kein ECMO Betrieb,0,16,2,0,1,0,4
+05112,51.380675639817,6.785428762469,05,47249,Duisburg,http://www.bg-klinikum-duisburg.de,NRW,1,3,Begrenzt,0,11,11,Verfügbar,0,1,0,Verfügbar,1,1,0,0,0,0,1
+02000,53.577923798759,10.054193972756,02,22081,Hamburg,https://www.schoen-klinik.de,HH,9,7,Verfügbar,10,3,5,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,14
+10043,49.401578306916,7.167375326189,10,66564,Ottweiler,http://www.marienhausklinik-ottweiler.de,SL,5,2,Verfügbar,3,1,2,Begrenzt,1,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,4
+03353,53.319583629297,9.949818491968,03,21266,Jesteburg,https://www.waldklinik-jesteburg.de/,NI,1,11,Begrenzt,1,0,0,Ausgelastet,0,0,0,Ausgelastet,0,0,0,0,0,0,1
+07111,50.355980883861,7.564584195597,07,56073,Koblenz,http://www.gk.de,RP,2,0,Verfügbar,0,2,2,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+08226,49.251958261548,8.890484064809,08,74889,Sinsheim,http://grn.de,BW,3,3,Begrenzt,4,6,6,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,2,0,0,0,10
+06412,50.130737378619,8.686793088782,06,60318,Frankfurt,https://www.buergerhospital-ffm.de/medizin-pflege/pneumologie-kardiologie-und-beatmungsmedizin-mit-sektion-gastroenterologie,HE,10,9,Ausgelastet,1,11,6,Begrenzt,5,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,6
+09184,48.117000993997,11.743576884278,09,85540,Haar,http://www.kbo-iak.de,BY,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+03359,53.461574793851,9.675736963782,03,21614,Buxtehude,http://www.elbekliniken.de,NI,0,0,Verfügbar,0,1,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+06412,50.145647564691,8.709681129567,06,60389,Frankfurt am Main,http://www.bgu-frankfurt.de,HE,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,10,0,0,0,0,0
+03356,53.23344318708,8.793386220932,03,27711,Osterholz-Scharmbeck,http://c.papstein@kkhohz.de,NI,2,4,Ausgelastet,2,2,2,Ausgelastet,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+05316,51.068081221672,7.004953622818,05,51379,Leverkusen,http://www.kplus.de,NRW,1,5,Begrenzt,3,1,4,Begrenzt,11,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,14
+11000,52.542234057016,13.347827553716,11,13353,Berlin,http://dhzb.de,BE,0,0,Ausgelastet,0,0,8,Ausgelastet,0,0,0,Begrenzt,0,0,0,0,0,0,0
+06413,50.09483837005,8.784871816652,06,63071,Offenbach a. Main,http://www.ketteler-krankenhaus.org,HE,9,34,Begrenzt,9,0,9,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,3,3,0,1,9
+05915,51.679442701881,7.81817632912,05,59065,HAmm,http://www.marienhospital-hamm.de,NRW,3,4,Begrenzt,0,8,16,Begrenzt,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+09162,48.15414180853,11.532668871805,09,80634,München,https://www.rotkreuzklinikum-muenchen.de/,BY,5,5,Verfügbar,5,2,8,Begrenzt,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,7
+09563,49.484503758062,10.974964678292,09,90766,Fuerth,http://www.klinikum-fuerth.de,BY,2,3,Verfügbar,2,8,14,Verfügbar,8,1,0,Kein ECMO Betrieb,1,6,2,0,1,0,11
+08325,48.165042443185,8.612275958094,08,78628,Rottweil,http://www.helios-gesundheit.de/rottweil,BW,3,0,Verfügbar,0,2,4,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+08421,48.424756284497,9.948150694354,08,89081,Ulm,https://ulm.bwkrankenhaus.de/startseite.html,BW,0,0,Verfügbar,0,10,6,Verfügbar,10,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,10
+06432,49.867388623281,8.936789989602,06,64823,Groß-Umstadt,https://www.kreiskliniken-darmstadt-dieburg.de/,HE,0,8,Verfügbar,0,5,3,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+01053,53.431633289927,10.385399043544,01,21502,Geesthacht,https://www.johanniter.de/einrichtungen/krankenhaus/geesthacht/,SH,2,0,Verfügbar,1,3,3,Begrenzt,1,0,0,Kein ECMO Betrieb,0,0,2,0,0,0,2
+05958,51.193310232526,8.5381085872,05,59955,Winterberg,https://www.gesundheitszentrum-winterberg.de/,NRW,4,1,Verfügbar,5,4,1,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,0,1,0,0,10
+05362,50.883974250065,6.887293696436,05,50354,Hürth,https://www.sana.de/huerth,NRW,3,1,Begrenzt,0,0,7,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,3,0,0,0,0
+01062,53.510301099579,10.241016000591,01,21465,Reinbek,https://www.krankenhaus-reinbek.de,SH,6,4,Verfügbar,5,3,9,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,8
+05711,52.013456454331,8.525701117214,05,33617,Bielefeld,https://evkb.de,NRW,6,1,Verfügbar,5,9,6,Begrenzt,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,8
+15085,51.713116912312,11.231196641857,15,6493,Ballenstedt,http://www.lk-b.de,ST,0,0,Begrenzt,0,3,5,Verfügbar,1,0,0,Kein ECMO Betrieb,0,0,3,2,0,0,1
+15001,51.815733630652,12.197617471202,15,6847,Dessau-Roßlau,http://www.klinikum-dessau.de,ST,4,4,Begrenzt,8,6,22,Ausgelastet,28,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,36
+08221,49.423502451834,8.684420675031,08,69121,Heidelberg,https://www.krankenhaus-salem.de,BW,5,1,Verfügbar,4,4,0,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,8
+01002,54.322906927805,10.117073642969,01,24116,Kiel,https://www.krankenhaus-kiel.de/kliniken,SH,3,3,Verfügbar,2,4,10,Begrenzt,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,3
+05116,51.158093140952,6.420085608943,05,41239,Mönchengladbach,http://www.sk-mg.de,NRW,2,6,Verfügbar,2,2,0,Begrenzt,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+08119,48.797742186794,9.528851151499,08,73614,Schorndorf,http://www.rems-murr-kliniken.de,BW,8,4,Verfügbar,4,10,5,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,4,0,2,0,9
+09462,49.96700357452,11.584785819086,09,95445,Bayreuth,https://klinikum-bayreuth.de/einrichtungen/kliniken/neurologie,BY,0,0,Verfügbar,10,5,11,Verfügbar,15,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,25
+09472,49.757486727457,11.527570277444,09,91257,Pegnitz,https://www.sana.de/pegnitz,BY,0,0,Verfügbar,0,2,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+09771,48.462508195562,11.13964936138,09,86551,Aichach,http://www.klipa.de,BY,0,4,Ausgelastet,8,4,0,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,7,2,0,0,14
+05362,50.997881605295,6.576904606804,05,50181,Bedburg,https://www.st-hubertusstift.de/,NRW,1,1,Verfügbar,1,4,0,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+09679,49.660271915527,10.088237123564,09,97199,Ochsenfurt,http://www.main-klinik.de,BY,2,4,Verfügbar,3,4,2,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,7
+01053,53.689610571125,10.779469728404,01,23909,Ratzeburg,https://www.drk-krankenhaus.de/home/,SH,4,3,Verfügbar,1,0,3,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,1
+09676,49.811506031558,9.166757011499,09,63906,Erlenbach a Main,https://www.helios-gesundheit.de/kliniken/erlenbach/,BY,4,2,Verfügbar,0,2,4,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,4
+05170,51.559244496028,6.72608087305,05,46535,Dinslaken,https://www.st-vinzenz-hospital.de,NRW,6,0,Verfügbar,6,0,6,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+09188,48.007069191041,11.33519339568,09,82131,Starnberg,http://www.klinikum-starnberg.de,BY,2,7,Begrenzt,2,3,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,2
+06534,50.81526897788,8.805859994882,06,35043,Marburg,https://www.ukgm.de/ugm_2/deu/umr_ana/index.html,HE,0,0,Verfügbar,0,5,0,Verfügbar,11,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,11
+05315,50.9252131828,6.956298351288,05,50678,Köln,https://www.severinskloesterchen.de/,NRW,0,0,Verfügbar,0,3,14,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,1,1,1,0,3
+09187,47.948462479834,12.187999606149,09,83569,Vogtareuth,http://www.schoen-klinik.de,BY,0,0,Ausgelastet,0,6,8,Verfügbar,9,1,0,Begrenzt,1,5,0,0,0,0,10
+09185,48.730784458311,11.176768183741,09,86633,Neuburg,https://www.sankt-elisabeth-klinik.de/,BY,2,0,Verfügbar,2,1,1,Verfügbar,1,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,3
+09180,47.483929564176,11.127636015399,09,82467,Garmisch-Partenkirchen,http://klinikum-gap.de,BY,15,0,Verfügbar,15,12,17,Verfügbar,12,0,0,Kein ECMO Betrieb,0,0,1,1,1,0,27
+08226,49.46337696797,8.990470513697,08,69412,Eberbach,http://www.grn.de,BW,0,5,Ausgelastet,1,0,3,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,1
+05111,51.196351936376,6.789506149416,05,40225,Düsseldorf,http://www.uniklinik-duesseldorf.de,NRW,19,36,Verfügbar,12,15,74,Verfügbar,12,5,5,Verfügbar,0,175,6,0,4,0,24
+05314,50.707350281652,7.031852826476,05,53123,Bonn,https://www.malteser-krankenhaus-bonn.de/startseite.html,NRW,3,6,Verfügbar,3,7,10,Verfügbar,7,0,0,Kein ECMO Betrieb,0,0,6,0,2,1,10
+09564,49.482298504852,11.135901188823,09,90491,Nürnberg,https://www.martha-maria.de/krankenhaus-nuernberg.php,BY,1,0,Verfügbar,0,4,6,Verfügbar,10,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,10
+03405,53.545289698041,8.082759618792,03,26389,Wilhelmshaven,http://www.klinikum-whv.de,NI,6,0,Verfügbar,6,8,16,Verfügbar,8,1,0,Verfügbar,1,25,0,0,0,0,15
+12061,51.853799621812,13.703354358477,12,15926,Luckau,https://www.diakonissenhaus.de/gesundheit/evangelisches-krankenhaus-luckau/,BB,0,0,Verfügbar,2,0,0,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+05915,51.708239818582,7.841748386613,05,59073,Hamm,http://www.barbaraklinik.de,NRW,1,3,Verfügbar,2,17,12,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,7,1,1,1,6
+05113,51.391509018616,7.085933268054,05,45257,Essen,https://www.contilia.de/index.php?id=146,NRW,0,0,Verfügbar,0,5,0,Verfügbar,5,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+06414,50.072435808281,8.226556599116,06,65199,Wiesbaden,https://www.helios-gesundheit.de/kliniken/wiesbaden-hsk/,HE,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Verfügbar,3,35,1,0,1,1,3
+15001,51.837731533843,12.2268642783,15,6846,Dessau-Roßlau,http://dkd-dessau.de,ST,0,0,Verfügbar,8,3,3,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,11
+05974,51.684975604102,8.343058414757,05,59555,Lippstadt,http://www.ev-krankenhaus.de/,NRW,6,5,Begrenzt,2,4,2,Begrenzt,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+05315,50.923308887945,6.917503255522,05,50937,Köln,https://www.uk-koeln.de,NRW,2,0,Begrenzt,4,2,7,Begrenzt,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,8
+15081,52.522739152243,11.38251378512,15,39638,Gardelegen,http://altmark-klinikum.de,ST,3,1,Verfügbar,0,2,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+07111,50.369985739731,7.541914701396,07,56072,Koblenz,http://koblenz.bwkrankenhaus.de,RP,0,0,Verfügbar,0,0,0,Begrenzt,0,0,0,Begrenzt,0,35,3,0,2,0,0
+05314,50.724600809339,7.114107513316,05,53113,Bonn,http://www.neonatologie-bonn.de,NRW,0,3,Verfügbar,0,2,5,Verfügbar,2,2,0,Verfügbar,2,15,0,0,0,0,4
+05974,51.673275388369,8.338460504992,05,59555,Lippstadt,https://dreifaltigkeits-hospital.de,NRW,0,0,Ausgelastet,0,6,8,Verfügbar,8,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,8
+10043,49.317814087963,7.227321624887,10,66539,Neunkirchen,https://www.marienhausklinik-st-josef-kohlhof.de,SL,0,8,Ausgelastet,18,10,8,Verfügbar,18,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,36
+05774,51.782480174217,8.826894253484,05,33175,Bad Lippspringe,http://www.medizinisches-zentrum.de,NRW,0,0,Verfügbar,0,2,30,Verfügbar,9,3,0,Verfügbar,0,30,0,0,0,0,9
+12051,52.426059107899,12.479138523304,12,14772,Brandenburg a.d. Havel,https://www.asklepios.com/brandenburg/experten/neurologie/,BB,2,0,Verfügbar,0,0,7,Ausgelastet,0,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,0
+03353,53.333455000899,9.873097658092,03,21244,Buchholz,http://www.krankenhaus-buchholz.de/,NI,5,5,Verfügbar,5,1,0,Begrenzt,1,0,0,Kein ECMO Betrieb,0,2,0,0,0,0,6
+05119,51.461968759808,6.854539632732,05,46045,Oberhausen,http://www.helios-gesundheit.de/kliniken/oberhausen/unser-angebot/unsere-fachbereiche-und-zentren/anaesthesie-intensivmedizin-und-schmerztherapie/,NRW,0,4,Ausgelastet,2,1,3,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+05154,51.58404660023,6.249980449775,05,47623,Kevelaer ,http://www.KKLE.de,NRW,0,0,Verfügbar,0,6,4,Verfügbar,7,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,7
+05111,51.212615409228,6.773145943866,05,40237,Düsseldorf,http://www.evk-duesseldorf.de,NRW,3,5,Verfügbar,2,3,11,Begrenzt,2,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+11000,52.431348315318,13.219185590679,11,14129,Berlin,http://www.jsd.de,BE,0,0,Verfügbar,0,3,5,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
+08119,48.870055503957,9.392342805895,08,71364,Winnenden,https://www.rems-murr-kliniken.de,BW,25,15,Verfügbar,22,29,13,Verfügbar,26,1,0,Verfügbar,1,0,0,0,0,0,49
+02000,53.606101108168,10.035914182663,02,22307,Hamburg,http://asklepios.com/barmbek,HH,0,0,Verfügbar,0,10,10,Verfügbar,10,0,0,Kein ECMO Betrieb,0,0,2,1,2,0,10
+05754,51.897660201973,8.383384555586,05,33332,Gütersloh,http://klinikum-guetersloh.de,NRW,3,1,Verfügbar,4,14,4,Verfügbar,23,0,0,Kein ECMO Betrieb,0,0,3,0,27,0,27
+05114,51.325714777822,6.584742799409,05,47805,krefeld,http://www.alexianer-krefeld.de,NRW,2,4,Verfügbar,2,4,2,Verfügbar,2,0,0,Kein ECMO Betrieb,0,0,1,0,1,0,4
+05314,50.71673862348,7.093688177119,05,53115,Bonn,http://www.gfo-kliniken-bonn.de,NRW,2,2,Begrenzt,2,3,5,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,5
+08222,49.489247503462,8.482151806338,08,68163,Mannheim,http://www.theresienkrankenhaus.de,BW,5,7,Begrenzt,0,1,4,Begrenzt,0,0,0,Kein ECMO Betrieb,0,0,0,1,0,0,0
+01060,53.943459393135,10.307963669284,01,23795,Bad Segeberg,https://www.segebergerkliniken.de/,SH,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,15,0,0,0,0,0
+09162,48.134709945684,11.565120398982,09,80331,München,https://www.isarklinikum.de/,BY,0,0,Ausgelastet,0,3,4,Begrenzt,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,4
+05119,51.517305645458,6.844843983617,05,46145,Oberhausen,https://www.kk-ob.de/,NRW,0,0,Verfügbar,0,0,0,Verfügbar,0,0,0,Kein ECMO Betrieb,0,0,1,0,0,0,0
+03254,52.151614552443,9.975515127117,03,31135,Hildesheim,https://www.helios-gesundheit.de/kliniken/hildesheim/,NI,0,0,Verfügbar,0,34,20,Verfügbar,6,0,0,Kein ECMO Betrieb,0,0,3,0,2,0,6
+14612,51.058086530837,13.77770733835,14,1307,Dresden,http://www.uniklinikum-dresden.de,SN,2,12,Verfügbar,6,2,10,Verfügbar,4,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,10
+03459,52.668058053841,7.938766837087,03,49610,Quakenbrück,http://www.ckq-gmbh.de,NI,7,7,Verfügbar,10,4,10,Verfügbar,6,0,0,Kein ECMO Betrieb,0,2,0,0,0,0,16
+09677,49.99611393683,9.572110371664,09,97816,Lohr am Main,http://www.klinikum-msp.de,BY,2,2,Verfügbar,3,3,1,Verfügbar,3,0,0,Kein ECMO Betrieb,0,0,0,0,0,0,6
