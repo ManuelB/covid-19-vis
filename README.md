@@ -49,6 +49,7 @@ With the following links you can explore the data for yourself:
  * Germany Simulation for all Districts Dowload, Unzip and Paste this [file](https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/rki-dashboard/keplergl-simulation.zip).
  * [Mapped data from DIVI Intensivregister](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/divi-intensivregister-scrapper/keplergl.json)
  * [Germany current COVID-19 occupied beds potential beds in next 24 hours ](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/divi-kartenansicht/hospitals-by-federal-state-keplergl.json)
+ * [Germany NW, RP, MV, SN, ST, TH, SH, HH, BR, BB, BE, BW, SR 2020-03-25 50% of ICU beds for COVID-19 with age distribution with DIVI real time capacity](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/simulation/2020-03-26_Landkreise_Intensivbetten_Strong_Mitigation-3-month-keplergl.json)
 
 # YouTube
 
