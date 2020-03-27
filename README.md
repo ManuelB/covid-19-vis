@@ -1,5 +1,8 @@
 # covid-19-vis
-This repository contains data visualizations based on https://github.com/CSSEGISandData/COVID-19 using [kepler.gl](https://github.com/keplergl/kepler.gl)
+This repository contains data visualizations based on RKI and DIVI using [kepler.gl](https://github.com/keplergl/kepler.gl)
+
+Newest Simulation:
+[Germany NW, RP, MV, SN, ST, TH, SH, HH, BR, BB, BE, BW, SR 2020-03-26 50% of ICU beds for COVID-19 with age distribution with DIVI real time capacity](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/simulation/2020-03-27_Landkreise_Intensivbetten_Strong_Mitigation-3-month-keplergl.json)
 
 The covid-19-vis project is a simulation and visualization project that
 predicts when the intense care unit (ICU) bed capacity of a certain region will be
