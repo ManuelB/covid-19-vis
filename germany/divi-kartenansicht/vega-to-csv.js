@@ -6,12 +6,17 @@ let rawdata = fs.readFileSync('vega-config.json');
 let vegaConfig = JSON.parse(rawdata);
 
 let sGemeinden = "";
-let gemeinden = vegaConfig.datasets["data-ee0b5b968b7d39a07b6ff6e094d4e811"];
 
-let oFirstRow = gemeinden[0];
-// print header
-sGemeinden += Object.keys(oFirstRow).join(",") + "\n";
-// print rows
-sGemeinden += gemeinden.map(o => Object.values(o).join(",")).join("\n")
+for (let oDataSetKey in vegaConfig.datasets) {
+    let gemeinden = vegaConfig.datasets[oDataSetKey];
+    if (gemeinden.length > 0 && "gemeindeschluessel" in gemeinden[0]) {
+
+        let oFirstRow = gemeinden[0];
+        // print header
+        sGemeinden += Object.keys(oFirstRow).join(",") + "\n";
+        // print rows
+        sGemeinden += gemeinden.map(o => Object.values(o).map(s => typeof s === "string" ? s.replace(",", "") : s).join(",")).join("\n")
+    }
+}
 
 fs.writeFileSync('DiviKartenansicht.csv', sGemeinden);
