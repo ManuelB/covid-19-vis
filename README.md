@@ -2,7 +2,7 @@
 This repository contains data visualizations based on RKI and DIVI using [kepler.gl](https://github.com/keplergl/kepler.gl)
 
 Newest Simulation:
-[Germany NW, RP, MV, SN, ST, TH, SH, HH, BR, BB, BE, BW, SR 2020-03-27 50% of ICU beds for COVID-19 with age distribution with DIVI real time capacity](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/simulation/2020-03-28_Landkreise_Intensivbetten_Strong_Mitigation-1-month-keplergl.json)
+[Germany NW, RP, MV, SN, ST, TH, SH, HH, BR, BB, BE, BW, SR 2020-03-27 50% of ICU beds for COVID-19 with age distribution with DIVI real time capacity](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/simulation/2020-03-28_Landkreise_Intensivbetten_Strong_Mitigation-1-month-keplergl-cache.json)
 
 The covid-19-vis project is a simulation and visualization project that
 predicts when the intense care unit (ICU) bed capacity of a certain region will be
@@ -54,7 +54,7 @@ With the following links you can explore the data for yourself:
  * [Germany current COVID-19 occupied beds potential beds in next 24 hours ](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/germany/divi-kartenansicht/hospitals-by-federal-state-keplergl.json)
  * [Germany NW, RP, MV, SN, ST, TH, SH, HH, BR, BB, BE, BW, SR 2020-03-25 50% of ICU beds for COVID-19 with age distribution with DIVI real time capacity](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/simulation/2020-03-26_Landkreise_Intensivbetten_Strong_Mitigation-3-month-keplergl.json)
  * [Germany NW, RP, MV, SN, ST, TH, SH, HH, BR, BB, BE, BW, SR 2020-03-26 50% of ICU beds for COVID-19 with age distribution with DIVI real time capacity](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/simulation/2020-03-27_Landkreise_Intensivbetten_Strong_Mitigation-3-month-keplergl.json)
- * [Germany NW, RP, MV, SN, ST, TH, SH, HH, BR, BB, BE, BW, SR 2020-03-27 50% of ICU beds for COVID-19 with age distribution with DIVI real time capacity](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/simulation/2020-03-28_Landkreise_Intensivbetten_Strong_Mitigation-1-month-keplergl.json)
+ * [Germany NW, RP, MV, SN, ST, TH, SH, HH, BR, BB, BE, BW, SR 2020-03-27 50% of ICU beds for COVID-19 with age distribution with DIVI real time capacity](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/simulation/2020-03-28_Landkreise_Intensivbetten_Strong_Mitigation-1-month-keplergl-cache.json)
 
 # YouTube
 
