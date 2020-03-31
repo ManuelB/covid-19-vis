@@ -1,62 +1,62 @@
 Nummer,Kreisebene,Intensivbetten,Krankenhauser,Betten,Bundesland,EWZ,Region,Intensivbetten_Region,EWZ Region
-05111,Düsseldorf,275,13,05017,NW,,,,
-05112,Duisburg,273,8,04634,NW,,,,
-05113,Essen,366,12,05681,NW,,,,
-05114,Krefeld,104,4,02078,NW,,,,
-05116,Mönchengladbach,133,5,02131,NW,,,,
+05111,Düsseldorf,275,13,5017,NW,,,,
+05112,Duisburg,273,8,4634,NW,,,,
+05113,Essen,366,12,5681,NW,,,,
+05114,Krefeld,104,4,2078,NW,,,,
+05116,Mönchengladbach,133,5,2131,NW,,,,
 05117,Mülheim an der Ruhr,47,2,932,NW,,,,
-05119,Oberhausen,89,3,01456,NW,,,,
-05120,Remscheid,64,3,01020,NW,,,,
-05122,Solingen,75,4,01046,NW,,,,
-05124,Wuppertal,102,3,02070,NW,,,,
-05154,Kleve,63,7,01689,NW,,,,
-05158,Mettmann,59,11,02240,NW,,,,
-05162,Rhein-Kreis Neuss,70,7,01983,NW,,,,
-05166,Viersen,45,7,01413,NW,,,,
-05170,Wesel,92,7,02540,NW,,,,
-05100,Reg.-Bez. Düsseldorf,01857,96,35930,NW,,,,
-05314,Bonn,218,9,04149,NW,,,,
-05315,Köln,525,22,07083,NW,,,,
-05316,Leverkusen,68,2,01086,NW,,,,
-05334,Städteregion Aachen,251,9,03842,NW,,,,
-05358,Düren,72,6,01783,NW,,,,
-05362,Rhein-Erft-Kreis,64,8,01433,NW,,,,
-05366,Euskirchen,43,3,01101,NW,,,,
+05119,Oberhausen,89,3,1456,NW,,,,
+05120,Remscheid,64,3,1020,NW,,,,
+05122,Solingen,75,4,1046,NW,,,,
+05124,Wuppertal,102,3,2070,NW,,,,
+05154,Kleve,63,7,1689,NW,,,,
+05158,Mettmann,59,11,2240,NW,,,,
+05162,Rhein-Kreis Neuss,70,7,1983,NW,,,,
+05166,Viersen,45,7,1413,NW,,,,
+05170,Wesel,92,7,2540,NW,,,,
+05100,Reg.-Bez. Düsseldorf,1857,96,35930,NW,,,,
+05314,Bonn,218,9,4149,NW,,,,
+05315,Köln,525,22,7083,NW,,,,
+05316,Leverkusen,68,2,1086,NW,,,,
+05334,Städteregion Aachen,251,9,3842,NW,,,,
+05358,Düren,72,6,1783,NW,,,,
+05362,Rhein-Erft-Kreis,64,8,1433,NW,,,,
+05366,Euskirchen,43,3,1101,NW,,,,
 05370,Heinsberg,37,4,952,NW,,,,
-05374,Oberbergischer Kreis,61,4,01559,NW,,,,
-05378,Rheinisch-Bergischer Kreis,46,5,01151,NW,,,,
-05382,Rhein-Sieg-Kreis,100,7,01455,NW,,,,
-05300,Reg.-Bez. Köln,01485,79,25594,NW,,,,
+05374,Oberbergischer Kreis,61,4,1559,NW,,,,
+05378,Rheinisch-Bergischer Kreis,46,5,1151,NW,,,,
+05382,Rhein-Sieg-Kreis,100,7,1455,NW,,,,
+05300,Reg.-Bez. Köln,1485,79,25594,NW,,,,
 05512,Bottrop,35,2,704,NW,,,,
-05513,Gelsenkirchen,93,5,01775,NW,,,,
-05515,Münster,232,9,03730,NW,,,,
-05554,Borken,57,7,01876,NW,,,,
+05513,Gelsenkirchen,93,5,1775,NW,,,,
+05515,Münster,232,9,3730,NW,,,,
+05554,Borken,57,7,1876,NW,,,,
 05558,Coesfeld,33,3,856,NW,,,,
-05562,Recklinghausen,174,12,04886,NW,,,,
-05566,Steinfurt,84,8,02033,NW,,,,
-05570,Warendorf,44,6,01345,NW,,,,
+05562,Recklinghausen,174,12,4886,NW,,,,
+05566,Steinfurt,84,8,2033,NW,,,,
+05570,Warendorf,44,6,1345,NW,,,,
 05500,Reg.-Bez. Münster,752,52,17205,NW,,,,
-05711,Bielefeld,189,7,03974,NW,,,,
-05754,Gütersloh,36,3,01421,NW,,,,
-05758,Herford,54,3,01092,NW,,,,
-05762,Höxter,50,2,01057,NW,,,,
-05766,Lippe,60,4,01403,NW,,,,
-05770,Minden-Lübbecke,230,8,02373,NW,,,,
-05774,Paderborn,74,5,01747,NW,,,,
+05711,Bielefeld,189,7,3974,NW,,,,
+05754,Gütersloh,36,3,1421,NW,,,,
+05758,Herford,54,3,1092,NW,,,,
+05762,Höxter,50,2,1057,NW,,,,
+05766,Lippe,60,4,1403,NW,,,,
+05770,Minden-Lübbecke,230,8,2373,NW,,,,
+05774,Paderborn,74,5,1747,NW,,,,
 05700,Reg.-Bez. Detmold,693,32,13067,NW,,,,
-05911,Bochum,207,7,03403,NW,,,,
-05913,Dortmund,258,11,03921,NW,,,,
-05914,Hagen,69,4,01589,NW,,,,
-05915,Hamm,81,5,01789,NW,,,,
-05916,Herne,85,5,01656,NW,,,,
-05954,Ennepe-Ruhr-Kreis,90,7,01906,NW,,,,
-05958,Hochsauerlandkreis,75,10,02087,NW,,,,
-05962,Märkischer Kreis,129,11,02848,NW,,,,
+05911,Bochum,207,7,3403,NW,,,,
+05913,Dortmund,258,11,3921,NW,,,,
+05914,Hagen,69,4,1589,NW,,,,
+05915,Hamm,81,5,1789,NW,,,,
+05916,Herne,85,5,1656,NW,,,,
+05954,Ennepe-Ruhr-Kreis,90,7,1906,NW,,,,
+05958,Hochsauerlandkreis,75,10,2087,NW,,,,
+05962,Märkischer Kreis,129,11,2848,NW,,,,
 05966,Olpe,29,2,844,NW,,,,
-05970,Siegen-Wittgenstein,111,5,01988,NW,,,,
-05974,Soest,83,9,02027,NW,,,,
-05978,Unna,144,9,02652,NW,,,,
-05900,Reg.-Bez. Arnsberg,01361,85,26710,NW,,,,
+05970,Siegen-Wittgenstein,111,5,1988,NW,,,,
+05974,Soest,83,9,2027,NW,,,,
+05978,Unna,144,9,2652,NW,,,,
+05900,Reg.-Bez. Arnsberg,1361,85,26710,NW,,,,
 07131,Ahrweiler,13,,,RP,,,,
 07132,Altenkirchen (Westerwald),17,,,RP,,,,
 07331,Alzey-Worms,6,,,RP,,,,
@@ -111,19 +111,19 @@ Nummer,Kreisebene,Intensivbetten,Krankenhauser,Betten,Bundesland,EWZ,Region,Inte
 13074,Nordwestmecklenburg,49,,,MV,,,,
 13075,Vorpommern-Greifswald,243,,,MV,,,,
 13076,Ludwigslust-Parchim,194,,,MV,,,,
-01101,Berlin,01450,,,BE,,Berlin,01450,
-11004,Berlin Charlottenburg-Wilmersdorf,132,,,BE,342332,Berlin,01450,3754418
-11002,Berlin Friedrichshain-Kreuzberg,112,,,BE,289762,Berlin,01450,3754418
-11011,Berlin Lichtenberg,113,,,BE,291452,Berlin,01450,3754418
-11010,Berlin Marzahn-Hellersdorf,104,,,BE,268548,Berlin,01450,3754418
-11001,Berlin Mitte,148,,,BE,384172,Berlin,01450,3754418
-11008,Berlin Neukölln,127,,,BE,329691,Berlin,01450,3754418
-11003,Berlin Pankow,157,,,BE,407765,Berlin,01450,3754418
-11012,Berlin Reinickendorf,102,,,BE,265225,Berlin,01450,3754418
-11005,Berlin Spandau,94,,,BE,243977,Berlin,01450,3754418
-11006,Berlin Steglitz-Zehlendorf,119,,,BE,308697,Berlin,01450,3754418
-11007,Berlin Tempelhof-Schöneberg,136,,,BE,351644,Berlin,01450,3754418
-11009,Berlin Treptow-Köpenick,105,,,BE,271153,Berlin,01450,3754418
+01101,Berlin,1450,,,BE,,Berlin,1450,
+11004,Berlin Charlottenburg-Wilmersdorf,132,,,BE,342332,Berlin,1450,3754418
+11002,Berlin Friedrichshain-Kreuzberg,112,,,BE,289762,Berlin,1450,3754418
+11011,Berlin Lichtenberg,113,,,BE,291452,Berlin,1450,3754418
+11010,Berlin Marzahn-Hellersdorf,104,,,BE,268548,Berlin,1450,3754418
+11001,Berlin Mitte,148,,,BE,384172,Berlin,1450,3754418
+11008,Berlin Neukölln,127,,,BE,329691,Berlin,1450,3754418
+11003,Berlin Pankow,157,,,BE,407765,Berlin,1450,3754418
+11012,Berlin Reinickendorf,102,,,BE,265225,Berlin,1450,3754418
+11005,Berlin Spandau,94,,,BE,243977,Berlin,1450,3754418
+11006,Berlin Steglitz-Zehlendorf,119,,,BE,308697,Berlin,1450,3754418
+11007,Berlin Tempelhof-Schöneberg,136,,,BE,351644,Berlin,1450,3754418
+11009,Berlin Treptow-Köpenick,105,,,BE,271153,Berlin,1450,3754418
 10041,"Saarbrücken, Regionalverband",191,,,SL,,,,
 10042,"Merzig-Wadern, Landkreis",23,,,SL,,,,
 10043,"Neunkirchen, Landkreis",46,,,SL,,,,
@@ -369,3 +369,48 @@ Nummer,Kreisebene,Intensivbetten,Krankenhauser,Betten,Bundesland,EWZ,Region,Inte
 09778,Unterallgäu,30,,,BY,144041,Donau-Iller (BY),100,487825
 09779,Donau-Ries,25,,,BY,133496,Augsburg,167,909782
 09780,Oberallgäu,31,,,BY,155362,Allgäu,99,490147
+03101,Braunschweig,63,,,NI,248292,Braunschweig,289,1135557
+03102,Salzgitter,27,,,NI,104948,Braunschweig,289,1135557
+03103,Wolfsburg,32,,,NI,124151,Braunschweig,289,1135557
+03151,Gifhorn,45,,,NI,175920,Braunschweig,289,1135557
+03153,Goslar,35,,,NI,137014,Braunschweig,289,1135557
+03154,Helmstedt,23,,,NI,91307,Braunschweig,289,1135557
+03155,Northeim,49,,,NI,132765,Göttingen,196,531814
+03157,Peine,34,,,NI,133965,Braunschweig,289,1135557
+03158,Wolfenbüttel,31,,,NI,119960,Braunschweig,289,1135557
+03159,Göttingen,121,,,NI,328074,Göttingen,196,531814
+03241,Region Hannover,379,,,NI,1157624,Hannover,470,1436791
+03251,Diepholz,26,,,NI,216886,Bremen-Umland,65,544802
+03252,Hameln-Pyrmont,66,,,NI,148559,Hildesheim,189,425153
+03254,Hildesheim,123,,,NI,276594,Hildesheim,189,425153
+03255,Holzminden,26,,,NI,70975,Göttingen,196,531814
+03256,Nienburg (Weser),40,,,NI,121386,Hannover,470,1436791
+03257,Schaumburg,52,,,NI,157781,Hannover,470,1436791
+03351,Celle,42,,,NI,178936,Südheide,74,318691
+03352,Cuxhaven,75,,,NI,198213,Bremerhaven,109,286837
+03353,Harburg,61,,,NI,252776,Hamburg-Umland-Süd,150,619333
+03354,Lüchow-Dannenberg,17,,,NI,48424,Lüneburg,115,324368
+03355,Lüneburg,65,,,NI,183372,Lüneburg,115,324368
+03356,Osterholz,14,,,NI,113517,Bremen-Umland,65,544802
+03357,Rotenburg (Wümme),40,,,NI,163455,Hamburg-Umland-Süd,150,619333
+03358,Heidekreis,32,,,NI,139755,Südheide,74,318691
+03359,Stade,49,,,NI,203102,Hamburg-Umland-Süd,150,619333
+03360,Uelzen,33,,,NI,92572,Lüneburg,115,324368
+03361,Verden,16,,,NI,136792,Bremen-Umland,65,544802
+03401,Delmenhorst,9,,,NI,77607,Bremen-Umland,65,544802
+03402,Emden,10,,,NI,50195,Ost-Friesland,125,641472
+03403,Oldenburg (Oldb),55,,,NI,168210,Oldenburg,193,591773
+03404,Osnabrück,79,,,NI,164748,Osnabrück,318,663689
+03405,Wilhelmshaven,15,,,NI,76278,Ost-Friesland,125,641472
+03451,Ammerland,40,,,NI,124071,Oldenburg,193,591773
+03452,Aurich,37,,,NI,189848,Ost-Friesland,125,641472
+03453,Cloppenburg,55,,,NI,169348,Oldenburg,193,591773
+03454,Emsland,93,,,NI,325657,Emsland,132,462168
+03455,Friesland,19,,,NI,98460,Ost-Friesland,125,641472
+03456,Grafschaft Bentheim,39,,,NI,136511,Emsland,132,462168
+03457,Leer,33,,,NI,169809,Ost-Friesland,125,641472
+03458,Oldenburg,42,,,NI,130144,Oldenburg,193,591773
+03459,Osnabrück,171,,,NI,357343,Osnabrück,318,663689
+03460,Vechta,68,,,NI,141598,Osnabrück,318,663689
+03461,Wesermarsch,34,,,NI,88624,Bremerhaven,109,286837
+03462,Wittmund,11,,,NI,56882,Ost-Friesland,125,641472
