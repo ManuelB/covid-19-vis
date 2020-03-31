@@ -1,688 +1,413 @@
-Anzahl ECMO-Fälle pro Jahr,BL,Bundesland,COVID-19 aktuell,COVID-19 beatmet,COVID-19 kumulativ,COVID-19 verstorben,ICU ECMO (belegt),ICU ECMO (frei),ICU ECMO care (Einschätzung),ICU ECMO care in 24 h (Anzahl),ICU high care (Einschätzung),ICU high care (belegt),ICU high care (frei),ICU high care in 24 h (Anzahl),ICU low care (Einschätzung),ICU low care (belegt),ICU low care (frei),ICU low care in 24 h (Anzahl),Ort,PLZ,Webadresse,gemeindeschluessel,lat,lon
-80,BE,11,12,6,0,0,1,6,1,7,1,10,3,6,1,6,12,7,Berlin,15535,https://ards.charite.de,11000,52.542387394849,13.347768545282
-35,NRW,05,0,0,0,0,0,2,1,2,1,3,8,8,1,10,5,10,Essen,45138,https://www.contilia.de/,05113,51.445465262903,7.033164024288
-15,BB,12,1,1,0,0,0,2,1,2,1,12,7,19,2,12,0,14,Bad Saarow,15526,https://www.helios-gesundheit.de/kliniken/bad-saarow/unser-angebot/unsere-fachbereiche/anaesthesiologie-intensivmedizin-und-schmerztherapie/leistung/,12067,52.284712952122,14.063543915945
-121,NRW,05,0,0,0,0,5,3,1,3,1,0,3,3,1,0,4,3,Bonn,53127,http://www.ecmo-bonn.de,05314,50.701534412031,7.102468227649
-60,BY,09,1,0,3,0,0,2,1,4,1,0,10,20,1,0,0,10,Erlangen,91054,https://www.anaesthesie.uk-erlangen.de/,09562,49.600814436059,11.010412752612
-50,SN,14,4,4,0,0,0,6,1,6,1,17,13,20,1,0,0,15,Dresden,1307,https://www.uniklinikum-dresden.de/de/das-klinikum/kliniken-polikliniken-institute/ane,14612,51.058086530837,13.77770733835
-150,HH,02,11,10,4,0,3,9,1,10,1,0,8,20,1,8,4,6,Hamburg,20251,https://www.uke.de/kliniken-institute/kliniken/intensivmedizin/%C3%BCber-die-klinik/index.html,02000,53.589913025365,9.974761963022
-0,HE,06,0,0,0,0,0,4,1,4,1,0,4,6,1,0,4,6,Gießen,35392,https://www.ukgm.de/ugm_2/deu/ugi_ana/index.html,06531,50.576552378551,8.664676129802
-30,RP,07,0,0,0,0,0,3,1,3,2,11,7,6,0,4,1,3,Trier,54292,https://www.bk-trier.de/bkt/medizin-pflege/fachabteilungen/innere-medizin-iii/internistische-intensivmedizin/index.php,07211,49.762079222289,6.640679597863
-30,TH,16,1,1,0,0,0,2,1,2,1,0,38,78,1,0,28,28,Erfurt,99089,https://www.helios-gesundheit.de/kliniken/erfurt/unser-angebot/unsere-fachbereiche/interdisziplinaere-intensivmedizin-intermediate-care/,16051,50.994088107174,11.011598825553
-50,NRW,05,16,16,2,0,2,0,2,6,2,66,15,5,2,18,0,5,Aachen,52074,https://www.ukaachen.de/kliniken-institute/klinik-fuer-operative-intensivmedizin-und-intermediate-care/klinik.html,05334,50.776221763856,6.043888092172
-145,NRW,05,6,0,2,0,0,9,1,9,1,32,10,14,1,8,10,15,Münster,48149,https://www.ukm.de/index.php?id=9203,05515,51.961204012648,7.595886111849
-0,NI,03,4,3,0,0,0,8,1,4,1,4,14,4,1,7,9,0,Göttingen,37075,http://www.ains.med.uni-goettingen.de,03159,51.550535752979,9.942435720004
-20,NRW,05,0,0,0,0,0,0,2,1,2,0,1,1,0,0,0,0,Dortmund,44137,https://www.klinikumdo.de/kliniken-zentren/kliniken-abteilungen-a-l/herzchirurgie/willkommen,05913,51.509104715874,7.455439746363
-60,MV,13,0,0,0,0,0,3,1,4,1,0,4,10,1,0,4,10,Rostock,18057,https://anaesthesie.med.uni-rostock.de/bei-uns-sind-sie-gut-aufgehoben/intensivtherapiestation-its,13003,54.085558886271,12.101712405665
-45,NI,03,6,3,0,0,1,2,1,2,1,6,7,18,1,0,0,0,Osnabrück,49074,https://www.niels-stensen-kliniken.de/marienhospital-osnabrueck/medizin/kliniken/anaesthesiologie.html,03404,52.270038404085,8.053050398794
-40,BY,09,13,12,0,0,1,4,1,4,1,21,4,4,2,0,0,4,München,81377,http://www.klinikum.uni-muenchen.de/Klinik-fuer-Anaesthesiologie/de/index.html,09162,48.111138440404,11.471995174934
-12,HE,06,4,4,1,0,1,0,0,0,1,18,14,4,1,0,7,2,Frankfurt/Main,65929,https://www.klinikumfrankfurt.de/kliniken-und-institute/klinik-fuer-anaesthesie-operative-intensivmedizin-notfallmedizin-schmerztherapie.html,06412,50.107939612682,8.543833494186
-100,NRW,05,10,10,0,0,2,2,1,4,1,13,2,4,1,6,3,5,Köln,51109,https://www.kliniken-koeln.de/Merheim_Lungenklinik_ARDS_ECMO_Startseite.htm?ActiveID=4191,05315,50.938275499264,7.053503966017
-18,NRW,05,1,1,0,0,2,0,0,0,1,7,14,0,1,0,0,0,Bochum,44791,https://www.augusta-kliniken.de/fachgebiete/bochum-mitte/anaesthesiologie-intensivmedizin.html,05911,51.485216294599,7.222674965842
-8,BY,09,1,1,0,2,0,2,1,2,1,8,8,8,1,0,0,0,Immenstadt/Allgäu,87509,http://www.kv-keoa.de,09780,47.562595220997,10.22785735132
-49,BW,08,12,10,0,0,1,3,1,3,1,31,36,16,1,10,7,16,Ludwigsburg,71640,http://www.rkh-kliniken.de,08118,48.89836232473,9.203446626598
-60,BY,09,5,5,0,0,1,9,1,4,1,0,36,4,1,0,4,4,Würzburg,97080,https://www.ukw.de/anaesthesie/schwerpunkte/ardsecmo-zentrum-fuer-akutes-lungenversagen/,09663,49.807103506384,9.958309024564
-10,NI,03,2,2,0,0,0,1,1,1,1,8,2,2,1,3,7,8,Emden,26721,https://www.klinikum-emden.de,03402,53.375643708806,7.212860763057
-30,BY,09,1,0,0,0,0,5,1,5,1,20,6,16,1,0,6,12,München,80639,https://www.barmherzige-muenchen.de,09162,48.155701228804,11.510060548717
-0,HB,04,1,0,0,0,0,1,2,1,1,0,7,3,0,0,0,0,Bremen,28177,,04011,53.075136342809,8.837436676058
-0,SH,01,0,0,0,0,0,1,1,2,1,0,1,2,1,0,0,3,Lübeck,23538,https://www.uksh.de/anaesthesie-luebeck/,01003,53.835847270404,10.708594903235
-0,HH,02,3,3,1,0,1,4,1,4,1,12,4,4,1,0,4,4,Hamburg,21075,http://www.asklepios.de/hamburg/harburg/experten/beatmungszentrum/,02000,53.470879874845,9.93764555451
-8,NRW,05,0,0,0,0,0,1,1,1,1,14,2,2,1,0,2,2,Herford,32049,http://www.airs-klinikum-herford.de,05758,52.126395097108,8.700473427789
-150,HE,06,2,1,1,0,0,9,1,1,1,0,17,5,1,0,0,0,Kassel,34125,https://www.gesundheit-nordhessen.de/klinikum-kassel/zentren/ecmo-zentrum/,06611,51.328164739627,9.509411573345
-0,SN,14,2,2,0,0,0,6,1,4,1,74,49,35,1,0,0,18,Leipzig,4103,https://www.uniklinikum-leipzig.de/einrichtungen/kai,14713,51.331383154482,12.386209113038
-20,BW,08,1,1,0,0,0,1,1,1,1,11,5,3,1,12,0,2,Heidelberg,69126,https://www.thoraxklinik-heidelberg.de/index.php?id=582,08221,49.377395602477,8.689904853698
-7,NRW,05,15,6,7,3,0,4,1,4,1,48,13,2,1,8,13,15,Wuppertal,42283,https://www.helios-gesundheit.de/kliniken/wuppertal/unser-angebot/unsere-fachbereiche/intensivmedizin/,05124,51.273043125594,7.170935153945
-0,SH,01,3,3,0,0,0,2,1,2,1,0,2,1,1,0,5,3,Rendsburg,24768,https://www.imland.de,01058,54.297086924599,9.659486532146
-50,BW,08,4,4,0,0,1,1,1,5,2,28,2,4,2,15,2,5,Mannheim,68167,https://www.umm.de/klinik-fuer-anaesthesiologie-und-operative-intensivmedizin/leistungsspektrum/intensivmedizin/,08222,49.491427119948,8.487168073589
-200,BY,09,7,7,0,0,2,6,1,0,1,64,20,10,1,10,7,5,Regensburg,93053,https://www.ukr.de/,09362,48.987983204496,12.09049057954
-50,BW,08,8,7,0,0,0,5,1,5,1,0,5,5,2,0,1,2,Ulm,89081,https://www.uniklinik-ulm.de/anaesthesiologie/stationen.html,08421,48.422632793116,9.952504992452
-20,NRW,05,0,0,0,0,0,1,1,1,1,0,5,7,1,0,5,7,Bochum,44892,http://anaesthesie.rub.de/index.php,05911,51.464353367673,7.327428102526
-0,NRW,05,7,3,1,1,0,10,1,5,1,0,27,10,1,0,5,10,Essen,45122,,05113,51.436266579469,6.989787407219
-120,SL,10,1,0,0,0,0,8,1,8,1,0,6,14,1,0,6,31,Homburg,66421,,10045,49.308912016795,7.345732033236
-0,BW,08,2,2,1,1,0,1,1,1,1,0,4,6,1,8,3,8,Pforzheim,75175,https://www.helios-gesundheit.de/kliniken/pforzheim/unser-angebot/unsere-fachbereiche/intensivmedizin/,08231,48.88855931467,8.711673259768
-20,NRW,05,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,Bochum,44789,https://bergmannsheil.bg-kliniken.de,05911,51.468139741933,7.212012648615
-0,BE,11,1,1,0,0,0,0,3,0,1,6,4,4,1,3,2,3,Berlin,13187,https://www.caritas-klinik-pankow.de,11000,52.57138797223,13.413936280012
-35,NRW,05,6,6,2,0,2,1,2,1,2,13,1,1,1,7,5,3,Köln,50937,http://ecmo-zentrum.uk-koeln.de,05315,50.923308887945,6.917503255522
-50,NRW,05,5,4,0,0,0,2,1,0,1,0,3,13,1,0,4,20,Mönchengladbach,41063,https://www.herzzentrum-mg.de,05116,51.218465487226,6.419624588634
-25,BE,11,4,3,0,0,0,2,1,2,1,0,8,8,1,0,0,0,Berlin,12683,https://www.ukb.de,11000,52.519049415154,13.566016137584
-25,NI,03,3,3,0,0,0,2,1,3,1,36,17,20,1,3,7,7,Oldenburg,26122,https://www.evangelischeskrankenhaus.de/kliniken-zentren/innere-medizin/,03403,53.142667947088,8.205731391972
-0,NRW,05,0,0,0,2,0,0,3,0,1,0,4,8,1,0,0,0,Eschweiler,52249,https://www.sah-eschweiler.de,05334,50.818603278644,6.264195620997
-0,NI,03,0,0,0,0,0,0,3,0,1,0,10,2,1,0,10,2,Oldenburg,26121,https://www.pius-hospital.de/,03403,53.143626813834,8.21041989333
-10,TH,16,0,0,0,0,0,1,2,1,1,11,12,14,1,0,3,2,Harztor OT Neustadt,99768,https://neustadt.diako-harz.de,16062,51.560000720476,10.839835524657
-15,BY,09,20,15,3,1,0,4,1,2,1,60,7,12,1,0,6,6,München,81675,https://www.mri.tum.de/,09162,48.137004031183,11.598835229825
-0,BW,08,0,0,0,0,0,0,3,0,1,0,3,3,1,0,0,0,Weinheim,69469,https://www.grn.de,08226,49.549707590859,8.645036995395
-0,BW,08,0,0,0,0,0,0,3,0,1,16,3,4,1,1,3,2,Tübingen,72076,http://www.bgu-tuebingen.de,08416,48.533593888862,9.035523176226
-0,BE,11,3,0,0,0,0,2,1,0,1,1,11,0,1,2,4,0,Berlin,14193,https://www.pgdiakonie.de/martin-luther-krankenhaus/kliniken-einrichtungen/klinik-fuer-anaesthesiologie-intensivmedizin-und-schmerztherapie/,11000,52.491268519874,13.292226970179
-0,BB,12,0,0,0,0,0,0,3,0,1,4,4,6,2,6,4,6,Teupitz,15755,http://www.asklepios.com,12061,52.132198842072,13.616511300133
-0,NRW,05,3,1,0,0,0,0,3,0,1,0,7,4,1,0,6,0,Recklinghausen,45659,https://www.proselis.de,05562,51.606482277585,7.191815078259
-0,RP,07,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,0,Meisenheim,55590,https://www.Landeskrankenhaus.de,07133,49.70655896432,7.677172601207
-2,NI,03,2,2,0,1,0,0,3,0,1,1,11,12,1,0,9,19,Vechta,49377,https://www.marienhospital-vechta.de/leistungen/anaesthesie-intensivmedizin.html,03460,52.725877094715,8.286903619701
-2,NI,03,0,0,0,0,0,0,0,0,1,0,2,5,1,0,2,20,Vechta,49377,https://www.marienhospital-vechta.de/leistungen/anaesthesie-intensivmedizin.html,03460,52.725877094715,8.286903619701
-10,BB,12,0,0,0,0,0,2,1,2,1,22,8,12,1,8,6,12,Bernau bei Berlin,16321,https://herzzentrum.immanuel.de,12060,52.683151705411,13.582613663748
-0,NRW,05,0,0,0,0,0,0,3,0,2,6,2,1,2,2,4,2,Siegen,57072,http://www.drk-kinderklinik.de,05970,50.884082549873,8.01902496818
-0,HH,02,0,0,0,0,0,0,3,0,1,0,5,5,1,0,4,4,Hamburg,22149,https://www.kkh-wilhelmstift.de,02000,53.586897568381,10.164517521907
-0,MV,13,0,0,0,0,0,0,3,0,1,0,4,5,2,0,0,0,Hohenfelde,18209,http://www.krankenhaus-doberan.de,13072,54.090704899466,11.905740022594
-0,RP,07,0,0,0,0,0,0,3,0,1,0,2,2,2,2,2,2,Grünstadt,67269,http://krankenhausgruenstadt.de,07332,49.563856902112,8.157812386735
-0,NRW,05,1,1,0,0,0,0,3,0,1,34,1,53,2,9,0,9,Duisburg,47055,https://www.sana.de/duisburg,05112,51.396954869071,6.783368825945
-0,BY,09,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0,0,Sulzbach-Rosenberg,92237,http://www.kh-as.de,09371,49.504915584592,11.729883151129
-0,NI,03,0,0,0,0,0,0,3,0,1,0,3,2,1,0,3,6,Bad Pyrmont,31812,https://www.bathildis.de,03252,51.985350926225,9.273886263354
-0,SL,10,0,0,0,0,0,0,0,0,2,0,2,4,2,0,2,4,Neunkirchen,66538,,10043,49.340971867017,7.183249779046
-0,BW,08,2,2,0,0,0,0,3,0,1,4,4,2,1,4,3,3,Freiburg,79110,https://www.diakoniekrankenhaus-freiburg.de/de,08311,48.023886676398,7.815443426371
-0,NRW,05,0,0,0,0,2,1,1,2,1,8,2,2,1,5,1,6,Ibbenbüren,49477,https://www.klinikum-ibbenbueren.de,05566,52.278697336133,7.71369731423
-0,SN,14,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,Großenhain,1558,http://www.elbland-reha.de/kontakt/impressum,14627,51.287179914401,13.539129138026
-0,NI,03,1,1,0,0,0,0,3,0,1,9,2,21,1,6,6,12,Salzgitter,38226,https://www.helios-gesundheit.de/kliniken/salzgitter/,03102,52.153615720019,10.318831443819
-0,NI,03,1,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,Gifhorn,38518,,03151,52.496605133344,10.548190569498
-0,TH,16,1,1,0,1,0,0,3,0,1,12,6,6,1,7,3,3,Suhl,98527,https://www.zentralklinikum-suhl.de,16054,50.60232774644,10.708873987132
-0,BW,08,2,2,0,1,0,0,3,0,1,4,8,12,2,7,1,8,Heidenheim,89522,https://kliniken-heidenheim.de/klinikum/patienten/behandlungszentren/zentrum-fuer-intensivmedizin/zentrum-fuer-intensivmedizin-Kopie.php,08135,48.672888376689,10.140581488618
-0,BB,12,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,Beelitz-Heilstätten,14547,http://www.fruehreha-beelitz.de/infos-ueber-beatmung/informationen-ueber-beatmung.html,12069,52.267193219049,12.924351230258
-20,MV,13,0,0,0,0,0,2,1,2,1,10,10,12,1,4,6,6,Stralsund,18435,https://www.helios-gesundheit.de/kliniken/stralsund/unser-angebot/unsere-fachbereiche-und-zentren-somatik/intensivmedizin/,13073,54.328989260509,13.079763829692
-0,BY,09,0,0,0,0,0,0,3,0,1,3,2,2,1,3,1,1,Schwarzenbruck,90592,https://www.krankenhaus-rummelsberg.de,09574,49.362132616064,11.263945341143
-0,BE,11,1,1,0,0,0,0,3,0,1,1,5,5,1,1,5,6,Berlin,13589,https://www.pgdiakonie.de/evangelisches-waldkrankenhaus-spandau/kliniken-zentren/anaesthesie-und-interdisziplinaere-intensivmedizin/,11000,52.56240480009,13.157562375036
-0,BY,09,2,1,0,0,0,0,3,0,1,7,3,3,2,6,2,2,Lichtenfels,96215,http://www.regiomed-kliniken.de,09478,50.138324479783,11.08082020286
-0,HE,06,0,0,0,0,0,0,0,0,1,2,4,4,1,0,3,3,Frankfurt,60316,https://www.rotkreuzkliniken.de/intensivstation.html,06412,50.116926902221,8.697997212394
-0,HH,02,5,5,1,0,0,0,3,0,1,15,5,5,2,10,2,2,Hamburg,22043,https://www.asklepios.com/hamburg/wandsbek/experten/anaesthesie/,02000,53.569834053909,10.088993489767
-0,HE,06,0,0,3,0,0,0,3,0,1,8,5,8,1,2,10,8,Kassel,34119,http://www.diako-kassel.de,06611,51.314017098389,9.462657451695
-20,BE,11,1,0,0,0,0,1,1,0,1,16,11,11,1,0,3,3,Berlin,14089,https://www.havelhoehe.de,11000,52.46171655277,13.160881661734
-0,NRW,05,1,1,0,0,0,0,2,1,1,0,8,15,1,0,7,8,Hemer,58675,http://www.lungenklinik-hemer.de,05962,51.392817822432,7.765916168673
-0,HH,02,4,4,2,0,0,0,3,0,0,9,2,2,2,3,2,2,Hamburg,21029,https://klinik-bergedorf.de/,02000,53.486210224153,10.235927581853
-0,NRW,05,1,1,0,1,0,0,3,0,1,2,6,6,1,0,6,0,Ratingen,40878,https://www.sankt-marien-ratingen.de,05158,51.300240747792,6.852114915782
-0,BY,09,0,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,Passau,94032,https://www.kinderklinik-passau.de/,09262,48.566439437969,13.446212589724
-0,NRW,05,6,4,0,0,0,4,1,0,1,83,23,0,1,9,11,0,Dortmund,44137,http://www.klinikumdo.de,05913,51.509104715874,7.455439746363
-0,BY,09,0,0,0,1,0,0,3,0,1,0,14,9,2,0,2,0,Münchberg,95213,http://www.kliniken-hochfranken.de,09475,50.195354613092,11.793603086589
-0,BB,12,1,0,0,0,0,0,3,0,1,18,12,12,2,3,1,3,Neuruppin,16816,http://www.ruppiner-kliniken.de,12068,52.906364286635,12.797664641876
-10,NRW,05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dortmund,44145,http://www.klinikumdo.de,05913,51.534029262211,7.45406457781
-0,BW,08,3,3,0,0,0,0,3,0,1,10,10,46,1,8,0,15,Singen,78224,http://glkn.de,08335,47.75976089215,8.821524471036
-0,NRW,05,0,0,2,0,0,0,3,0,1,1,1,0,1,3,1,0,Radevormwald,42477,https://www.sana.de/radevormwald,05374,51.19860988881,7.351010084185
-80,HE,06,1,1,0,1,0,3,1,3,1,10,3,6,1,0,5,5,Langen,63225,http://www.asklepios.com/Langen,06438,49.998422625475,8.683548688823
-0,SN,14,0,0,0,0,0,0,3,0,1,0,1,2,1,0,1,1,Zittau ,2763,https://klinikum-oberlausitzer-bergland.de/,14626,50.899258108902,14.82097695116
-30,BY,09,7,5,0,1,0,3,1,3,1,7,5,16,1,2,2,16,Bayreuth,95445,https://klinikum-bayreuth.de/einrichtungen/kliniken/anaesthesie-intensivmedizin,09462,49.94384828447,11.534236907992
-0,NRW,05,0,0,0,0,0,0,3,0,1,6,11,13,1,8,2,3,Oberhausen,46047,http://www.eko.de,05119,51.474229698028,6.866135358778
-0,BE,11,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,Berlin,12351,https://www.vivantes.de/fuer-sie-vor-ort/klinikum-neukoelln/fachbereiche/kliniken/anaesthesie-operative-intensivmedizin-und-schmerztherapie/,11000,52.438175472559,13.458396685182
-0,BY,09,10,0,0,1,0,0,3,0,1,6,2,3,1,6,2,2,Gauting,82131,https://www.asklepios.com/gauting/experten/intensivmedizin-und-langzeitbeatmung/,09188,48.06630037314,11.353591203624
-0,TH,16,0,0,0,0,0,0,3,0,2,0,2,2,1,1,5,8,Altenburg,4600,https://klinikum-altenburgerland.de/,16077,50.97166360943,12.439656257629
-0,RP,07,1,0,0,0,0,0,3,0,1,3,9,11,1,5,4,8,Idar-Oberstein,55743,https://io.shg-kliniken.de/,07134,49.716390274005,7.321047918506
-0,MV,13,0,0,0,0,0,0,0,0,1,0,3,4,1,0,8,8,Neustrelitz,17235,http://www.DRK-MST.de,13071,53.380587745061,13.05248388639
-5,BE,11,1,1,0,0,0,1,1,1,1,30,6,4,1,29,5,4,Berlin,13125,https://www.helios-gesundheit.de/kliniken/berlin-buch,11000,52.631418701813,13.511301755971
-0,BW,08,0,0,0,0,0,0,3,0,1,9,8,14,1,9,9,14,Stuttgart,70199,https://www.marienhospital-stuttgart.de,08111,48.761254645194,9.163320243383
-0,BY,09,0,0,0,0,0,0,3,0,1,0,2,2,1,0,3,3,Neuendettelsau,91564,http://www.diakoneo.de,09571,49.293353749032,10.792796444002
-25,ST,15,0,0,0,0,0,12,1,12,1,0,13,12,1,0,13,12,Halle (Saale),6120,http://uk-halle.de,15002,51.501065103479,11.934980928963
-0,SN,14,0,0,0,0,0,0,3,0,1,0,6,6,1,0,1,1,Kamenz,1917,http://www.malteser-krankenhaus-stjohannes.de,14625,51.264083323859,14.123152256143
-0,BY,09,0,0,0,0,0,0,3,0,1,1,3,3,2,3,1,0,Bobingen,86399,https://www.wertachkliniken.de/,09772,48.281611472435,10.822921514609
-120,HE,06,4,3,0,0,0,3,1,3,1,0,3,4,1,0,4,4,Gießen,35392,https://www.ukgm.de/ugm_2/deu/home.html,06531,50.576552378551,8.664676129802
-100,NI,03,1,1,0,0,1,7,1,2,1,1,11,6,1,4,10,6,Oldenburg,26133,https://www.klinikum-oldenburg.de,03403,53.112105072622,8.217821824574
-12,SN,14,1,1,0,0,0,1,1,1,1,3,9,15,1,5,5,5,Coswig,1640,http://fachkrankenhaus-coswig.de,14627,51.131220411481,13.593594074282
-100,BW,08,24,24,2,2,7,12,1,15,1,80,27,50,1,11,15,20,Freiburg,79106,http://www.ecmo-freiburg.de,08311,48.005244748277,7.839340925129
-0,NRW,05,0,0,0,0,0,0,3,0,1,0,4,3,1,3,6,6,Mönchengladbach,41061,https://www.johanniter.de/einrichtungen/krankenhaus/moenchengladbach,05116,51.198902335442,6.42537492512
-25,BW,08,4,4,0,0,0,1,2,1,1,51,26,26,2,15,3,3,Stuttgart,70174,http://www.klinikum-stuttgart.de,08111,48.783202666073,9.173708438857
-0,NI,03,0,0,3,0,0,0,3,0,1,14,8,6,1,2,2,2,Stade,21682,http://www.elbekliniken.de,03359,53.595440432972,9.443376767658
-40,NRW,05,0,0,0,0,0,2,1,2,1,25,7,4,2,22,2,3,Dortmund,44139,https://www.joho-dortmund.de/,05913,51.51152274977,7.457698702829
-0,SH,01,0,0,0,0,0,0,3,0,1,16,9,10,1,13,4,0,Lübeck,23560,https://www.sana.de/luebeck,01003,53.848800488052,10.687592804416
-1,BY,09,2,2,0,0,0,0,2,1,1,5,2,8,1,0,4,4,Burglengenfeld,93133,https://www.asklepios.com/burglengenfeld/,09376,49.203580939665,12.035078582153
-0,HE,06,4,0,0,0,0,0,3,0,1,3,3,3,1,2,4,4,Rüdesheim,65385,http://www.joho-rheingau.de,06439,49.982859678145,7.926482319881
-0,HE,06,3,2,0,0,0,0,3,0,1,0,3,5,1,1,3,2,Bensheim,64625,https://www.hgh-bensheim.de/de/,06431,49.678280370741,8.620446503146
-10,HH,02,1,1,0,0,0,1,1,1,2,35,4,7,1,0,0,0,Hamburg,22457,http://www.albertinen.de,02000,53.631362490632,9.905442953241
-0,BW,08,7,7,0,0,0,0,3,0,1,0,3,0,2,0,1,0,Stuttgart,70199,http://www.vinzenz.de,08111,48.761254645194,9.163320243383
-0,HE,06,0,0,0,0,0,0,3,0,1,0,8,4,1,0,6,4,Korbach,34497,http://www.krankenhaus-korbach.de,06635,51.267262415816,8.870632097121
-10,BE,11,0,0,0,0,0,2,1,2,1,0,5,5,1,0,9,9,Berlin,10245,https://anaesthesie.charite.de/klinik/,11000,52.441800385763,13.320401430065
-0,HB,04,1,0,0,0,0,0,3,0,1,0,1,1,1,0,1,1,Bremen,28209,https://www.sjs-bremen.de/unsere-kompetenzen/anaesthesiologie-und-intensivmedizin/intensivmedizin.html,04011,53.083509886869,8.836106836779
-0,NI,03,0,0,0,0,0,0,3,0,2,0,4,3,1,0,2,2,Rotenburg,27356,http://www.diako-online.de,03357,53.104505059312,9.411837101179
-0,NI,03,1,0,0,0,0,0,3,0,2,9,5,4,1,0,4,6,Goslar,38642,https://www.asklepios.com/goslar/,03153,51.928337031875,10.441874161359
-0,HE,06,0,0,0,0,0,0,3,0,2,0,1,2,0,0,0,2,Biedenkopf,35216,,06534,50.913512149301,8.523131199181
-0,NRW,05,1,0,0,0,0,0,3,0,1,10,2,4,0,0,0,0,Moers,47441,https://www.st-josef-moers.de,05170,51.445547477624,6.639752465771
-0,SN,14,0,0,0,0,0,0,3,0,1,7,1,12,1,0,0,4,Freiberg,9599,http://www.kkh-freiberg.de,14522,50.920546649356,13.350871324474
-0,HE,06,1,1,0,0,0,0,3,0,1,9,19,12,2,9,4,4,Kassel,34121,http://www.drk-nh.de,06611,51.311906311999,9.454094264656
-3,HH,02,0,0,0,0,0,1,2,1,1,0,12,12,1,0,0,0,Hamburg,22049,,02000,53.594013956273,10.07461309433
-4,BW,08,4,4,0,0,0,0,1,1,1,12,8,6,1,12,11,6,Esslingen am Neckar,73730,http://www.klinikum-esslingen.de,08116,48.737131873677,9.326441483572
-0,BY,09,0,0,0,0,0,0,3,0,1,2,2,2,0,6,0,0,Krumbach,86381,https://www.kkhgzkru.de/fachabteilungen-kru/anaesthesie/team,09774,48.237224764414,10.365919098217
-0,SN,14,0,0,0,0,0,0,3,0,1,10,3,4,1,10,2,4,Chemnitz ,9130,http://www.bethanien-chemnitz.de,14511,50.840603646608,12.962685406192
-0,SN,14,0,0,0,0,0,0,3,0,1,2,6,6,1,0,4,0,Mittweida,9648,http://www.lmkgmbh.de/LMK/,14522,50.981105845762,12.984504606575
-10,RP,07,13,3,2,1,0,1,1,1,1,13,15,26,1,8,6,8,Koblenz,56073,http://kk-km.de,07111,50.355980883861,7.564584195597
-0,HE,06,0,0,0,0,0,0,3,0,1,2,2,6,1,2,1,3,Weilburg,35781,http://www.krankenhaus-weilburg.de,06533,50.485700411875,8.252862811241
-0,SL,10,0,0,0,0,0,0,0,0,1,2,5,0,1,7,3,2,Merzig ,66663,https://mzg.shg-kliniken.de/index.php?id=1463,10042,49.457251697956,6.633046781571
-0,HB,04,1,1,0,0,0,0,3,0,2,10,6,2,2,0,0,0,Bremen,28325,http://www.gesundheitnord.de/,04011,53.064512794576,8.940360546112
-0,BY,09,1,1,1,0,0,0,3,0,1,3,2,3,1,0,4,9,Schrobenhausen,86529,https://www.kkh-sob.de/leistungsspektrum/fachabteilungen/anaesthesiologie-operative-intensivmedizin/uebernahme-von-covid-intensivpatienten/,09185,48.572270325445,11.264355933213
-10,MV,13,0,0,0,0,0,1,1,0,1,0,3,4,1,0,0,0,Rostock,18057,https://iiintensiv.med.uni-rostock.de,13003,54.085558886271,12.101712405665
-25,SL,10,11,10,3,1,0,1,1,1,1,27,25,52,1,3,1,4,Saarbrücken ,66119,http://klinikum-saarbruecken.de,10041,49.221065672421,6.996766018751
-0,BY,09,1,1,1,1,0,0,3,0,1,2,1,3,1,0,3,2,Lindenberg,88161,https://www.rotkreuzklinik-lindenberg.de,09776,47.611723599429,9.881648004039
-20,BW,08,0,0,0,0,0,3,1,0,1,0,8,1,1,0,1,4,Stuttgart,70174,http://sana.de,08111,48.783142647431,9.170659946976
-0,NI,03,2,0,0,0,0,0,3,0,1,2,4,6,1,4,2,6,Herzberg,37412,https://www.helios-gesundheit.de/kliniken/herzberg-osterode/unser-angebot/unsere-fachbereiche/anaesthesie-und-intensivmedizin/,03159,51.669421222672,10.343406915599
-2,HE,06,3,2,0,0,0,1,2,0,2,10,6,8,1,6,2,4,Wiesbaden,65189,http://www.joho.de,06414,50.076387329685,8.254051923686
-1,BW,08,5,0,0,1,0,1,1,1,1,0,14,20,1,0,10,17,Villingen-Schwenningen,78052,www.sbk-vs.de,08326,48.065172915773,8.499393045886
-0,NRW,05,0,1,0,0,0,0,3,0,1,6,8,10,1,6,6,20,Herdecke,58313,https://www.gemeinschaftskrankenhaus.de,05954,51.411240450433,7.399306207903
-0,SH,01,1,0,0,0,0,0,3,0,1,1,2,2,0,3,0,1,Bad Oldsloe,23843,https://www.asklepios.com/bad-oldesloe/,01062,53.812444400356,10.363880753484
-0,SN,14,1,0,0,0,0,0,3,0,1,5,3,8,1,3,3,6,Lichtenstein/ Sa.,9350,https://li.drk-khs.de/,14524,50.7481879614,12.635738611352
-10,BY,09,1,0,0,0,0,1,1,0,1,0,26,0,1,0,6,0,Murnau,82418,http://www.bgu-murnau.de,09180,47.671709227685,11.216090440685
-0,BW,08,0,0,0,0,0,0,3,0,1,4,4,10,2,8,5,13,Ulm,89081,https://www.rku.de,08421,48.42440919851,9.945088148052
-0,SH,01,0,0,0,0,0,0,0,0,1,0,5,5,1,0,1,0,Sylt/ OT Westerland,25980,https://www.asklepios.com/sylt/akut/experten/anaesthesie/,01054,54.925322230073,8.31349825864
-0,NI,03,0,0,0,0,0,0,3,0,1,0,11,11,0,0,0,7,Westerstede,26655,http://www.ammerland-klinik.de,03451,53.258816264447,7.918362200244
-0,BE,11,0,0,0,0,0,0,3,0,1,1,2,1,1,4,2,1,Berlin,12249,http://www.marienkrankenhaus-berlin.de,11000,52.424282933774,13.348081827098
-0,MV,13,0,0,0,0,0,0,3,0,1,8,12,12,0,0,0,0,Bergen,18528,https://www.sana.de/ruegen,13073,54.419653232211,13.428819590868
-0,NRW,05,0,0,0,0,0,0,3,0,1,5,3,5,1,0,3,3,Herne,44651,http://www.evk-herne.de,05916,51.510657213551,7.175529241595
-0,SH,01,0,0,0,0,0,0,3,0,2,12,4,6,2,4,0,2,Großhansdorf,22927,http://lungenclinic.de,01062,53.660951156943,10.280925393072
-0,BB,12,0,0,0,0,0,0,3,0,1,5,5,4,2,0,0,0,Luckenwalde,14943,http://kmg-kliniken.de,12072,52.099865670543,13.179556488958
-0,BW,08,0,0,1,0,0,0,3,0,1,0,6,0,1,0,3,0,Aalen,73430,https://www.ostalbklinikum.de/medizin/innere-medizin-ii/kardiologie,08136,48.848839142222,10.084305524761
-0,NI,03,0,0,0,0,0,0,3,0,2,0,0,6,2,0,0,4,Obernkirchen,31683,http://www.ev-klinikum-schaumburg.de,03257,52.264749649632,9.105277776653
-0,NRW,05,1,1,0,0,0,0,3,0,1,9,3,3,1,3,4,2,Köln,51103,http://www.evkk.de,05315,50.941368283966,7.009345471843
-0,BW,08,8,8,0,0,0,0,3,0,2,11,4,0,2,3,3,0,Biberach,88400,http://www.kliniken-bc.de,08426,48.096537126169,9.773589849538
-0,NRW,05,0,0,0,0,0,0,3,0,1,3,4,4,1,0,6,6,Herten,45699,http://www.st-elisabeth-hospital.de,05562,51.592054068032,7.1242877841
-0,NRW,05,0,0,0,2,0,0,3,0,1,7,5,6,2,0,0,4,Düsseldorf,40625,http://www.sana.de/duesseldorf-gerresheim,05111,51.243214833464,6.855116629522
-0,BY,09,0,0,1,0,0,0,3,0,1,3,3,5,1,1,1,2,München,81375,http://www.augustinum-kliniken.de,09162,48.122446592812,11.488039076312
-0,RP,07,0,0,0,0,0,0,3,0,1,8,4,2,1,0,4,4,Pirmasens,66955,https://www.kh-pirmasens.de,07317,49.192660744077,7.61732304105
-0,BB,12,0,0,0,0,0,0,3,0,1,3,2,0,1,1,0,0,Templin,17268,https://www.sana.de/templin,12073,53.119523164732,13.505943775308
-0,HE,06,0,0,0,0,0,0,3,0,1,6,5,7,1,8,3,5,Lich,35423,https://www.asklepios.com/lich/,06531,50.525030068332,8.806200742656
-0,NRW,05,0,0,0,0,0,0,3,0,1,4,4,4,1,4,4,4,Krefeld,47829,http://www.malteser-kliniken-rhein-ruhr.de/,05114,51.352860684367,6.648099660906
-0,SN,14,0,0,0,0,0,0,0,0,1,0,7,4,1,0,2,2,Chemnitz,9117,,14511,50.820971422274,12.825703382623
-0,NRW,05,0,0,0,0,0,0,3,0,1,0,5,6,1,0,5,5,Soest,59494,http://www.hospitalverbund.de,05974,51.574740833218,8.112001597865
-0,NRW,05,7,7,6,0,0,0,3,0,1,13,10,10,1,18,17,17,Moers,47441,http://www.bethanien-moers.de,05170,51.460971097824,6.633981049044
-0,NRW,05,0,0,0,0,0,0,3,0,2,10,1,0,1,15,3,0,Düsseldorf,40489,https://www.florence-nightingale-krankenhaus.de/de/leistungsspektrum/kliniken/klinik-fuer-kinderheilkunde/klinikleistungen/neonatologie-und-kinderintensivmedizin.html,05111,51.300317890771,6.749400258032
-0,HE,06,2,2,2,0,0,0,3,0,1,3,8,3,1,2,7,3,Lauterbach,36341,http://www.eichhof-online.de,06535,50.630089032294,9.391265630657
-0,MV,13,0,0,0,0,0,0,0,0,2,0,6,1,0,0,0,0,Teterow,17166,http://www.drk-kh-teterow.de,13072,53.776842364813,12.571374526592
-0,HE,06,0,0,0,0,0,0,0,0,1,0,2,2,0,0,0,0,Bad König,64732,m.guthier@asklepios.com,06437,49.74472806966,9.005372303682
-0,BY,09,0,0,0,0,0,0,3,0,1,4,2,3,1,0,4,2,Schwabmünchen,86830,https://www.wertachkliniken.de,09772,48.175828972883,10.74609017377
-0,BY,09,12,4,1,0,0,0,3,0,2,16,4,9,0,0,0,0,München,80638,http://www.dritter-orden.de,09162,48.165004874192,11.505552292001
-21,HE,06,0,0,0,0,0,0,2,2,1,0,0,7,0,0,0,0,Rotenburg an der Fulda,36199,http://www.hkz-rotenburg.de,06632,51.004766329728,9.737370371786
-0,BB,12,0,0,0,0,0,0,3,0,1,0,3,0,1,1,2,0,Spremberg,3130,https://krankenhaus-spremberg.de,12071,51.56491295504,14.37382292741
-0,NRW,05,1,1,0,0,0,0,3,0,1,0,6,0,1,0,4,10,Kamp-Lintfort,47475,http://www.st-bernhard-hospital.de,05170,51.49218573995,6.51632380479
-0,BW,08,3,3,0,0,0,0,0,0,1,0,30,10,1,0,14,10,Pforzheim,75179,http://www.siloah.de,08231,48.897418963392,8.67268520592
-0,ST,15,0,0,0,0,0,0,3,0,1,5,3,4,2,0,0,0,Halle,6114,https://www.diakoniewerk-halle.de/,15002,51.493879487772,11.960052231898
-0,BW,08,3,0,0,0,0,0,3,0,1,4,10,4,1,0,4,0,Freudenstadt,72250,http://www.klf-web.de,08237,48.477463125123,8.405019387599
-0,BY,09,5,0,0,0,0,0,3,0,1,0,4,4,1,4,3,3,Schwabach,91126,http://www.khsc.de,09565,49.332652542007,11.01252150529
-0,NI,03,0,0,1,0,0,0,3,0,2,0,1,4,2,0,0,0,Seesen,38723,https://www.asklepios.com/seesen/,03153,51.882819847991,10.216296814942
-0,BY,09,1,1,0,0,0,0,3,0,1,6,2,3,1,0,0,0,Dillingen an der Donau,89407,https://www.khdw.de,09773,48.575521066276,10.478583946824
-0,BW,08,0,0,0,0,0,0,3,0,1,0,2,0,1,2,2,0,Villingen-Schwenningen,78052,http://www.sbk-vs.de,08326,48.065172915773,8.499393045886
-0,NRW,05,0,0,0,0,0,0,3,0,1,0,6,6,1,0,6,6,Haltern am See,45721,http://www.kkrn.de,05562,51.744779878647,7.193693697436
-0,BE,11,1,0,0,0,0,0,3,0,1,10,6,6,1,5,4,0,Berlin,12559,http://www.drk-kliniken-berlin.de/anaesthesie-koepenick,11000,52.440261837019,13.595804750903
-0,NI,03,0,0,0,0,0,0,0,0,1,2,5,0,1,1,5,0,Wittmund,26409,http://www.kh-wtm.de,03462,53.572063928995,7.788419902308
-0,RP,07,0,0,0,0,0,0,3,0,1,2,9,0,1,0,2,0,Wittlich,54516,http://www.verbund-krankenhaus.de,07231,50.000546727589,6.892509050667
-0,SH,01,1,0,0,0,0,0,3,0,1,2,4,3,1,4,1,2,Henstedt-Ulzburg,24558,http://www.paracelsus-kliniken.de/akut/henstedt-ulzburg/,01060,53.749384805502,10.008263826403
-0,BB,12,2,1,0,0,0,0,3,0,2,2,8,18,2,0,8,0,Schwedt,16303,https://www.asklepios.com/schwedt/experten/anaesthesie/,12073,53.052767404681,14.275908780051
-0,ST,15,0,0,0,0,0,0,3,0,1,1,8,6,1,10,4,2,Quedlinburg,3946,http://www.harzklinikum.com,15085,51.795329141617,11.163533091594
-0,BE,11,0,0,0,0,0,0,3,0,0,0,0,0,1,0,3,5,Berlin,10713,http://www.sankt-gertrauden.de,11000,52.481244738319,13.317197799879
-15,HH,02,4,4,0,0,0,1,1,1,1,17,3,4,1,7,3,3,Hamburg,22087,http://marienkrankenhaus.org,02000,53.55931382895,10.031658589865
-0,BY,09,3,2,0,0,0,0,3,0,1,2,3,3,1,1,3,3,Eichstätt,85072,http://www.klinikallianz.com,09176,48.889926102548,11.19255137437
-12,SN,14,0,0,0,0,0,2,1,1,1,16,4,6,0,8,0,4,Dresden,1307,https://www.sana.de/herzzentrum-dresden/medizin-pflege/innere-medizin-und-kardiologie/stationen-und-bereiche,14612,51.058086530837,13.77770733835
-0,MV,13,0,0,0,0,0,0,3,0,1,12,10,12,1,1,1,2,Rostock,18055,https://www.kliniksued-rostock.de/kliniken-abteilungen/kliniken/klinik-fuer-anaesthesiologie-und-intensivmedizin.html,13003,54.07175069965,12.107268333402
-0,BY,09,2,1,0,0,0,0,3,0,2,29,3,8,0,0,0,0,Hof,95032,https://www.sana.de/hof,09464,50.302750436122,11.915282785917
-0,BY,09,3,2,0,1,0,0,3,0,1,7,4,2,1,8,3,1,Landshut,84036,https://www.lakumed.de/fachgebiete/krankenhaus-landshut-achdorf/,09261,48.523488606062,12.14907485245
-0,BW,08,0,0,0,0,0,0,3,0,1,3,8,12,1,8,3,10,Konstanz,78464,http://www.glkn.de,08335,47.671743941733,9.187581896831
-0,TH,16,0,0,0,0,0,0,3,0,1,7,3,5,0,0,0,0,Erfurt,99097,https://www.kkh-erfurt.de/,16051,50.947252843259,11.085595071299
-0,SN,14,1,1,0,0,0,0,3,0,1,7,7,5,2,7,3,0,Königsbrück,1936,http://seenlandklinikum.de,14625,51.179913789671,14.014127432874
-0,BE,11,0,0,1,1,0,0,3,0,1,5,2,7,1,3,3,6,Berlin,10365,http://www.keh-berlin.de,11000,52.526881250384,13.508368358016
-150,HH,02,2,0,1,0,0,3,1,3,1,0,3,10,1,0,10,10,Hamburg,20099,https://www.asklepios.com/hamburg/sankt-georg/experten/anaesthesie/,02000,53.560321551722,10.016164755507
-0,ST,15,0,0,0,0,0,0,3,0,1,2,10,6,1,0,2,0,Köthen,6366,https://www.helios-gesundheit.de/kliniken/koethen/unser-angebot/unsere-fachbereiche/intensivmedizin/,15082,51.746566790074,11.972611034034
-0,BW,08,3,2,2,1,0,0,3,0,0,8,0,0,2,5,0,5,Stuttgart,70176,http://diakonie-klinikum.de/,08111,48.781751663568,9.163940906656
-0,ST,15,0,0,0,0,0,0,3,0,2,0,8,4,1,0,2,2,Magdeburg,39120,http://www.med.uni-magdeburg.de,15003,52.104112688489,11.616078212853
-0,NRW,05,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,Essen,45239,https://kem-med.com/,05113,51.389826096284,7.00573603157
-0,NI,03,1,1,0,0,0,0,3,0,1,12,12,0,1,0,0,0,Rotenburg (Wümme),27356,http://www.diako-online.de,03357,53.104505059312,9.411837101179
-0,NRW,05,0,0,0,0,0,0,0,0,2,0,1,0,1,0,2,0,Neuss,41464,https://lukasneuss.de/,05162,51.191045128469,6.670398205511
-1,SN,14,0,0,0,0,0,0,3,0,1,3,12,9,1,5,14,9,Borna,4552,https://www.sana.de/leipzigerland,14729,51.134329159685,12.504938006368
-0,BB,12,0,0,0,0,0,0,3,0,1,11,4,8,0,0,0,0,Frankfurt/ Oder,15236,https://www.klinikumffo.de,12053,52.301202545139,14.483436226828
-0,NI,03,1,0,0,0,0,0,3,0,1,4,15,16,1,5,9,7,Nienburg,31582,https://www.helios-gesundheit.de/kliniken/mittelweser/,03256,52.635514407833,9.223802768811
-0,ST,15,0,0,0,0,0,0,3,0,1,11,5,5,1,5,5,5,Weissenfels,6667,http://www.asklepios.com/weissenfels,15084,51.193821231332,11.956809282237
-0,SH,01,0,0,0,0,0,0,0,0,1,0,9,16,1,0,8,10,Husum,25813,https://www.klinikum-nf.de,01054,54.482390849555,9.051059603707
-0,BY,09,0,0,0,0,0,0,3,0,1,2,8,8,2,3,0,3,Würzburg,97074,http://www.kwm-klinikum.de,09663,49.794488943104,9.952984034999
-0,HE,06,0,0,0,0,0,0,2,0,1,6,24,30,1,0,0,0,Offenbach,63069,https://www.klinikum-offenbach.de/anaesthesiologie-intensivmedizin-und-schmerztherapie/,06413,50.094192075512,8.756854444764
-5,SN,14,0,0,0,0,0,1,1,1,1,0,9,7,0,0,0,0,Dresden,1307,http://www.herzzentrum-dresden.com,14612,51.058086530837,13.77770733835
-0,RP,07,0,0,0,0,0,0,3,0,1,6,4,0,0,0,0,0,Dernbach,56428,https://www.krankenhaus-dernbach.de/,07143,50.45252519932,7.784991019771
-0,NRW,05,0,0,0,0,0,0,0,0,1,0,2,0,1,0,4,0,Bonn,53113,www.johanniter-kliniken.de,05314,50.712826227597,7.131837129527
-0,NRW,05,0,0,1,0,0,0,0,0,2,7,3,0,0,0,0,0,Düsseldorf,40593,https://www.sana.de/duesseldorf-benrath/medizin-pflege/anaesthesiologie,05111,51.152610624786,6.870933508035
-0,BB,12,0,0,0,0,0,0,0,0,1,4,5,12,1,12,8,30,Eisenhüttenstadt,15890,http://khehst.de,12067,52.141413124726,14.627082681309
-0,BW,08,1,1,1,0,0,0,0,0,2,0,4,3,2,0,4,1,Mutlangen,73557,http://www.stauferklinikum.de,08136,48.81991267254,9.787352800304
-0,NRW,05,0,0,0,0,0,0,3,0,1,2,6,0,1,4,4,0,Düsseldorf,40549,https://www.schoen-klinik.de/duesseldorf,05111,51.231458183679,6.727645182727
-0,BE,11,1,1,0,1,0,0,3,0,1,14,7,7,1,7,1,1,Berlin,10365,http://sana.de/berlin,11000,52.514033630819,13.494809389049
-0,BB,12,0,0,1,0,0,0,3,0,2,10,0,2,2,4,0,0,Nauen,14641,https://www.havelland-kliniken.de/Fach-Kliniken/klinik-anaesthesie-intensivmedizin.html,12063,52.600538808641,12.875710487497
-6,BE,11,0,0,0,0,0,1,1,0,1,9,3,0,1,7,1,0,Berlin,10115,https://berlin.bwkrankenhaus.de/startseite.html,11000,52.53491889392,13.369843125311
-0,SN,14,1,0,0,0,0,0,3,0,1,0,1,1,0,0,0,0,Radeberg,1454,https://www.asklepios.com/radeberg/experten/anaesthesie/intensivtherapie/,14625,51.123693142487,13.930238020471
-0,RP,07,0,0,0,0,0,0,3,0,2,1,1,0,2,2,2,0,Lahnstein,56112,http://www.krankenhaus-lahnstein.de,07141,50.305147190391,7.608741563331
-0,HH,02,1,1,1,0,0,0,3,0,1,6,3,3,1,5,5,2,Hamburg,20259,http://www.d-k-h.de,02000,53.571185658973,9.965228157898
-2,NRW,05,1,1,2,0,0,0,3,0,2,5,4,6,2,1,3,3,Düren,52353,http://www.marien-hospital-dueren.de,05358,50.822419271206,6.466680407557
-8,NRW,05,1,1,1,0,0,1,1,1,1,10,2,4,1,0,2,4,Viersen,41747,https://www.akh-viersen.de/,05166,51.25120526988,6.382835626537
-0,BE,11,2,2,0,0,0,0,3,0,1,2,4,6,1,0,0,0,Berlin,10713,http://www.sankt-gertrauden.de,11000,52.481244738319,13.317197799879
-0,NRW,05,0,0,0,0,0,0,3,0,1,8,3,4,1,4,3,4,Sankt Augustin,53757,http://www.asklepios.com/sankt-augustin/,05382,50.775112638873,7.181260156458
-0,BW,08,1,1,0,0,0,0,3,0,2,10,3,4,1,0,4,4,Schwetzingen,68723,https://www.grn.de/schwetzingen/klinik/anaesthesie-und-intensivmedizin/schwerpunkte/intensivmedizin,08226,49.378075351197,8.570155084117
-0,BE,11,6,4,0,1,0,0,0,0,1,0,0,0,1,0,0,0,Berlin,12351,https://www.vivantes.de/fuer-sie-vor-ort/klinikum-neukoelln/fachbereiche/kliniken/innere-medizin-kardiologie-angiologie-nephrologie-und-konservative-intensivmedizin/,11000,52.438175472559,13.458396685182
-10,NI,03,5,2,0,0,0,2,1,2,1,0,7,12,1,0,8,14,Osnabrück,49076,http://www.klinikum-os.de,03404,52.277394337352,8.00327610963
-0,NRW,05,0,0,0,0,0,0,3,0,0,0,10,0,0,0,4,0,Bonn,53177,http://www.bn.johanniter-kliniken.de,05314,50.682166967009,7.128063797918
-20,BY,09,2,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,Nürnberg,90471,https://www.klinikum-nuernberg.de/DE/ueber_uns/Fachabteilungen_KN/kliniken/medizin8/index.html,09564,49.412839747136,11.149226188136
-0,BW,08,0,0,0,0,0,0,0,0,2,0,11,2,2,0,3,0,Karlsruhe,76199,https://www.vidia-kliniken.de/anaesthesie-diak/,08212,48.972140735068,8.409467697029
-0,BB,12,0,0,0,0,0,0,3,0,2,4,1,1,0,2,0,0,Rathenow,14712,https://www.havelland-kliniken.de/Fach-Kliniken/klinik-anaesthesie-intensivmedizin.html,12063,52.606971189853,12.347828913457
-0,NRW,05,1,0,0,0,0,0,3,0,1,5,9,10,0,0,0,0,Datteln,45711,http://www.vincenz-datteln.de,05562,51.652308893282,7.344830811007
-0,NI,03,2,2,0,0,0,0,3,0,1,6,7,7,1,4,4,4,Hameln,31785,https://www.sana.de/hameln,03252,52.107513388766,9.352171897954
-0,BE,11,0,0,0,0,0,0,3,0,1,6,6,6,1,0,0,0,Berlin,13125,http://www.pgdiakonie.de/evangelische-lungenklinik-berlin/,11000,52.631861499326,13.505310807377
-0,SN,14,0,0,0,0,0,0,0,0,2,0,16,7,1,0,4,4,Dresden,1129,http://www.klinikum-dresden.de,14612,51.089995839126,13.70900201804
-0,BY,09,0,0,0,0,0,0,3,0,1,0,3,3,1,4,2,5,Wörth an der Donau,93086,http://kreisklinik-woerth.de/,09375,48.999016124676,12.399249851687
-5,BY,09,1,1,0,0,0,1,1,1,2,11,1,4,2,7,0,4,Regensburg,93053,http://www.caritasstjosef.de,09362,49.0070151794,12.118438124689
-0,RP,07,0,0,0,0,0,0,3,0,1,1,5,10,1,1,3,4,Saarburg,54439,http://www.kreiskrankenhaus-saarburg.de,07235,49.602610133012,6.537867307597
-0,BY,09,0,0,0,0,0,0,3,0,1,9,1,4,1,1,3,0,Bad Tölz,83646,https://www.asklepios.com/bad-toelz/,09173,47.757119081793,11.55101943602
-0,NRW,05,0,0,0,0,0,0,3,0,1,0,1,0,1,0,1,0,Ahlen,59227,http://www.sfh-ahlen.de,05570,51.766903288376,7.885046347972
-0,SL,10,0,0,0,0,0,0,3,0,1,0,2,1,1,0,2,2,Losheim am See,66679,http://www.marienhausklinik.de/startseite,10042,49.508793040579,6.740011364227
-0,RP,07,2,1,0,0,0,0,0,0,1,0,2,2,1,0,2,1,Bad Neuenahr-Ahrweiler,53474,https://www.marienhaus-klinikum-ahr.de,07131,50.540898885544,7.127738043662
-0,BB,12,0,0,0,0,0,0,3,0,1,0,4,4,0,2,2,1,Angermünde,16278,https://www.glg-gesundheit.de/krankenhaeuser/glg-krankenhaus-angermuende/,12073,53.013137300723,13.989123344618
-0,SN,14,0,0,0,0,0,0,0,0,2,0,4,2,0,0,4,0,Arnsdorf,1477,http://www.skh-arnsdorf.sachsen.de,14625,51.095021846439,13.997342705743
-0,NRW,05,1,0,0,0,0,0,3,0,1,8,8,8,1,0,2,2,Mettmann,40822,https://www.evk-mettmann.de/de/fachbereiche-einrichtungen/unsere-fachabteilungen/interdisziplinaere-intensivmedizin/im-ueberblick.html,05158,51.250740236167,6.97076404098
-0,MV,13,0,0,0,0,0,0,0,0,2,0,3,3,2,0,1,0,Rostock,18147,https://www.med.uni-rostock.de/,13003,54.101674427486,12.13137066361
-10,NRW,05,0,0,0,0,0,2,1,2,1,12,8,6,1,2,2,2,Herne,44625,https://www.marienhospital-herne.de,05916,51.528862559831,7.225762188418
-0,RP,07,0,0,0,0,0,0,0,0,1,0,6,6,1,0,0,0,Andernach,56626,http://www.rhein-mosel-fachklinik-andernach.de,07137,50.428970325021,7.397550433866
-0,BY,09,4,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,Ansbach,91522,http://www.rangauklinik.de,09561,49.326093965328,10.54033242166
-0,TH,16,0,0,0,1,0,6,2,6,1,56,16,10,2,29,3,5,Jena,7747,http://www.uniklinikum-jena.de,16053,50.885268754734,11.621468782359
-0,HE,06,1,1,0,0,0,0,0,0,1,0,12,8,1,0,6,4,Erbach,64711,https://www.gz-odw.de/,06437,49.651827831428,9.000306844646
-0,BB,12,0,0,0,0,0,0,3,0,2,0,2,7,2,0,6,0,Birkenwerder,16547,https://www.asklepios.com/birkenwerder/,12065,52.6914777339,13.298514604503
-0,BW,08,0,0,0,0,0,0,3,0,1,2,3,3,1,7,3,2,Wertheim,97877,http://www.rotkreuzklinik-wertheim.de,08128,49.760650665997,9.497476019897
-0,BY,09,1,1,0,0,0,0,3,0,1,3,3,4,1,5,5,4,Wertingen,86637,http://www.khdw.de,09773,48.565653126867,10.679133653575
-0,SL,10,0,0,0,0,0,0,3,0,2,0,0,2,2,0,0,2,Homburg,66421,http://www.uks.eu/neurologie,10045,49.308912016795,7.345732033236
-0,BY,09,2,2,0,0,0,0,3,0,1,2,3,3,1,1,0,3,Lindau,88131,http://asklepios.com/lindau,09776,47.563579550914,9.683587414102
-0,BW,08,0,0,0,0,0,0,3,0,1,0,4,0,1,0,2,0,Blaubeuren,89143,,08425,48.408743363767,9.789927720958
-25,SH,01,2,2,0,0,0,0,1,0,1,0,0,0,1,0,0,0,Lübeck,23538,http://uksh.de,01003,53.835847270404,10.708594903235
-0,BY,09,1,0,0,0,0,0,3,0,1,6,5,5,1,3,3,3,Cham,93413,http://www.sana.de/cham,09372,49.225634567712,12.659462213451
-0,BY,09,0,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,München,80336,,09162,48.132668345376,11.56221556666
-0,HH,02,0,0,1,0,0,0,3,0,1,17,12,3,1,9,2,2,Hamburg,22763,https://www.asklepios.com/hamburg/altona/,02000,53.554266187226,9.901287245266
-0,NI,03,2,0,2,0,0,2,1,2,1,0,2,2,1,0,2,4,Hannover,30459,http://www.krh.eu,03241,52.359367509688,9.72413259743
-0,SH,01,1,0,0,0,0,0,3,0,1,7,0,23,1,0,0,0,Schleswig,24837,https://www.helios-gesundheit.de/kliniken/schleswig/unser-angebot/fachbereiche-der-klinik/anaesthesie-und-intensivmedzin/,01059,54.52306787691,9.569834232461
-0,NI,03,1,1,0,0,0,0,3,0,1,4,4,4,1,4,1,3,Brake,26919,https://krankenhaus-brake.de/,03461,53.324051347266,8.482316493464
-5,ST,15,0,0,0,0,0,1,1,1,1,0,12,3,0,0,0,0,Magdeburg,39120,,15003,52.104112688489,11.616078212853
-0,BW,08,0,0,0,0,0,0,0,0,1,0,4,8,1,0,4,8,Ehingen,89584,https://www.gesundheitszentrum-ehingen.de/de/Kreiskrankenhaus-und-Gesundheitszentrum/Medizinische-Kompetenzen/Anaesthesie,08425,48.280372716349,9.718173265392
-40,BB,12,0,0,0,0,0,2,1,2,1,16,5,5,0,0,0,10,Cottbus,3048,http://www.sana.de/herzzentrum-cottbus,12052,51.74397854379,14.318937836531
-5,NRW,05,0,0,0,0,0,0,1,0,1,0,7,18,1,0,0,0,Wuppertal,42105,http://www.petrus-krankenhaus-wuppertal.de/de/medizin/kliniken/klinik-fuer-anaesthesie-intensiv-und-schmerztherapie/,05124,51.260170938981,7.143887758239
-0,BB,12,2,1,0,0,0,0,3,0,1,7,2,9,2,4,6,8,Königs Wusterhausen,15711,https://www.klinikum-ds.de/,12061,52.303641604439,13.626816738433
-0,BE,11,2,2,1,0,0,0,3,0,1,5,5,0,1,1,5,0,Berlin,12101,http://www.sjk.de,11000,52.478649289539,13.372827565454
-0,BY,09,2,1,0,0,0,2,1,2,1,2,6,5,1,0,5,5,Bad Neustadt,97616,https://www.campus-nes.de/medizin-pflege/unsere-kliniken/anaesthesie-intensivmedizin.html,09673,50.323552817426,10.235710926354
-0,BB,12,0,0,0,0,0,0,3,0,1,0,2,2,1,0,2,2,Brandenburg an der Havel,14770,https://www.klinikum-brandenburg.de/,12051,52.4138414325,12.545166850123
-0,NRW,05,0,0,0,0,0,0,3,0,1,10,6,6,1,9,1,3,Remscheid,42859,https://www.sana.de/remscheid,05120,51.161622284323,7.188714981112
-0,ST,15,6,1,0,0,0,0,3,0,1,0,16,16,1,0,4,4,Halle,6110,http://www.krankenhaus-halle-saale.de,15002,51.478082474591,11.969155919251
-30,HH,02,0,0,0,0,0,0,1,0,1,0,0,0,1,0,4,0,Hamburg,21075,https://www.asklepios.com/hamburg/harburg/experten/anaesthesie/intensivmedizin/,02000,53.470879874845,9.93764555451
-0,NRW,05,1,1,0,0,0,0,3,0,2,5,3,0,0,2,0,1,Engelskirchen,57166,http://www.k-k-o.de,05374,50.985778797605,7.378701209891
-0,BE,11,0,0,0,0,0,0,3,0,2,6,4,6,2,0,4,0,Berlin,10785,https://www.pgdiakonie.de/evangelische-elisabeth-klinik/,11000,52.503591063132,13.364198362742
-0,SH,01,2,2,0,0,0,0,3,0,1,2,10,0,1,1,8,4,Neumünster ,24534,http://www.fek.de,01004,54.065914474962,9.992158770528
-0,BE,11,0,0,0,0,0,0,3,0,0,10,0,1,0,10,0,1,Berlin,13353,http://www.chirurgie.charite.de,11000,52.542234057016,13.347827553716
-0,BY,09,2,2,0,0,0,0,3,0,0,6,7,13,0,0,4,0,Eggenfelden,84307,http://www.rottalinnkliniken.de,09277,48.413349264103,12.760907650027
-0,NRW,05,1,1,0,0,0,0,3,0,1,0,2,0,2,0,0,0,Wesel,46485,http://www.evkwesel.de,05170,51.660077377416,6.654883503979
-0,ST,15,0,0,0,0,0,0,0,0,1,0,4,6,2,0,6,3,Halle,6120,http://www.martha-maria.de,15002,51.503530312452,11.877161622015
-0,BB,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Kremmen,16766,http://www.sana.de/sommerfeld,12065,52.810865208217,13.038772702184
-0,RP,07,1,1,0,0,0,0,3,0,1,0,1,1,1,0,1,3,Bad Kreuznach,55543,http://www.marienwoerth.de,07133,49.84654639954,7.861477375063
-0,SH,01,1,1,0,0,0,0,0,0,1,4,4,0,1,4,0,0,Preetz,24211,http://www.klinik-preetz.de/,01057,54.238802838404,10.276860790327
-66,BY,09,10,9,3,0,0,6,1,4,1,9,33,11,1,2,9,8,Augsburg,86156,http://www.uk-augsburg.de,09761,48.384278099312,10.838583201162
-0,ST,15,0,0,0,0,0,0,3,0,1,31,12,11,1,12,6,6,Halle (Saale),6112,https://www.bergmannstrost.de/behandlungsspektrum/anaesthesie-intensiv-und-notfallmedizin/,15002,51.460257513815,11.984916687143
-0,SH,01,4,4,2,0,0,0,3,0,1,6,9,15,2,0,3,3,Elmshorn,25337,https://www.sana.de/regiokliniken,01056,53.752510201933,9.681757450235
-0,NRW,05,0,0,0,0,0,0,3,0,1,7,5,10,1,0,8,8,Unna,549423,http://katharinen-hospital.de,05978,51.536822691397,7.685192272083
-2,NRW,05,0,2,0,0,0,1,1,1,1,0,14,6,1,0,6,6,Höxter,37671,http://www.khwe.de,05762,51.78536599817,9.365723597871
-0,HH,02,1,1,0,0,0,0,3,0,2,0,6,4,1,0,10,6,Hamburg,22529,https://www.asklepios.com/hamburg/westklinikum/,02000,53.582461557932,9.77698874467
-0,MV,13,1,0,0,0,0,0,0,0,1,0,6,5,1,0,4,4, Parchim,19370,https://www.asklepios.com/parchim/experten/anaesthesie-und-intensivmedizin/,13076,53.429704447332,11.854413338006
-0,SN,14,0,0,0,0,0,0,3,0,2,2,3,2,2,5,4,3,Breitenbrunn,8359,http://www.erlabrunn.de,14521,50.473859853852,12.708371628542
-0,BB,12,1,0,0,0,0,0,0,0,1,0,4,6,1,0,3,6,Eberswalde,16225,http://www.glg-mbh.de,12060,52.827784585009,13.790811538893
-0,SN,14,0,0,0,0,0,0,3,0,2,24,10,7,0,0,0,0,Leipzig,4129,http://www.sanktgeorg.de,14713,51.383359115198,12.380169153148
-0,NRW,05,0,0,0,0,0,0,3,0,1,4,2,0,1,3,2,0,Warburg,34114,https://www.helios-gesundheit.de/kliniken/warburg/,05762,51.487498909503,9.140362143517
-0,TH,16,0,0,0,0,0,0,3,0,1,9,13,13,1,4,4,4,Altenburg,4600,http://www.klinikum-altenburgerland.de,16077,50.97166360943,12.439656257629
-0,NRW,05,1,0,0,0,0,0,3,0,1,6,2,0,1,1,2,0,Herne,44625,http://www.evk-herne.de,05916,51.534453885174,7.230587482518
-0,BE,11,0,0,0,0,0,0,3,0,1,2,5,0,1,3,5,4,Berlin,13186,http://www.park-klinik.com/,11000,52.554889150784,13.451850056681
-0,MV,13,0,0,0,0,0,0,3,0,1,0,0,1,1,2,23,21,Waren (Müritz),17192,https://www.johannesstift-diakonie.de/medizinische-versorgung/klinik-amsee/,13071,53.541900008233,12.687936008042
-0,BE,11,0,0,1,0,0,0,3,0,1,1,5,1,1,4,0,3,Berlin,14163,http://www.waldfriede.de,11000,52.444185357118,13.240225366317
-0,NRW,05,1,1,3,0,0,0,3,0,1,5,5,0,1,3,1,0,Wesel,46483,https://prohomine.de/marien-hospital-wesel/,05170,51.655656995976,6.611606061442
-0,RP,07,2,0,0,0,0,0,3,0,1,0,3,0,1,2,0,0,Landau in der Pfalz,76829,https://klinikum-ld-suew.de/,07313,49.205934285286,8.103765808046
-0,HE,06,0,0,0,0,0,0,3,0,2,11,4,4,2,0,0,0,Heppenheim,64646,https://www.kkh-bergstrasse.de,06431,49.628413580172,8.62520313276
-0,BY,09,0,0,0,0,0,0,3,0,1,1,0,0,1,4,1,2,München,80336,https://www.maria-theresia-klinik.de/fachbereiche/anaesthestieintensivmedizin.html,09162,48.126669312158,11.549293111275
-0,SN,14,0,0,0,0,0,0,3,0,0,10,0,0,2,2,2,0,Leipzig,4289,http://www.helios-gesundheit.de/kliniken/leipzig-park-klinikum,14713,51.308331669107,12.436151683314
-0,SN,14,0,0,0,0,0,0,3,0,1,18,4,10,1,0,0,0,Leipzig,4103,https://www.uniklinikum-leipzig.de/einrichtungen/kinderklinik,14713,51.331383154482,12.386209113038
-40,BY,09,0,0,0,0,0,3,1,3,1,10,8,18,1,2,2,4,Passau,94032,http://www.klinikum-passau.de,09262,48.5646449268,13.445413827831
-0,SH,01,0,0,0,0,0,0,3,0,1,3,7,7,1,4,4,8,Neustadt,23730,https://www.schoen-klinik.de,01055,54.091061997458,10.828683596892
-0,BY,09,0,0,0,0,0,0,3,0,1,4,4,4,1,1,3,4,Neuburg a.d. Donau,86633,https://www.sankt-elisabeth-klinik.de/,09185,48.730784458311,11.176768183741
-0,NI,03,0,0,0,0,0,0,3,0,1,7,3,3,1,3,2,3,Damme,49401,http://www.krankenhaus-damme.de,03460,52.521027497434,8.194305516968
-0,BY,09,5,4,0,0,0,0,3,0,1,8,2,2,1,1,3,3,Schweinfurt,97421,http://www.josef.de,09662,50.043851391755,10.225560843928
-0,NRW,05,0,0,0,0,0,0,3,0,1,1,3,3,1,3,3,4,Plettenberg,58840,http://www.krankenhaus-plettenberg.de,05962,51.213421488723,7.886490616947
-0,NI,03,0,0,0,0,0,0,3,0,1,1,2,2,1,2,1,1,Lohne,49393,http://franziskushospital-lohne.de,03460,52.664677896575,8.241091489726
-0,RP,07,3,2,0,0,0,0,3,0,1,3,4,4,2,8,2,3,Kandel,76870,http://www.asklepios.com/kandel,07334,49.086095403462,8.200444757922
-0,BB,12,0,0,0,0,0,0,3,0,1,8,9,0,0,4,0,0,Potsdam,14471,https://www.alexianer-potsdam.de/einrichtungen/alexianer-st-josefs-krankenhaus/,12054,52.39920968442,13.044046998057
-0,BW,08,0,0,0,1,0,0,3,0,0,18,0,0,0,0,0,0,Stuttgart,70372,https://www.sana.de/rkk-stuttgart,08111,48.803529450519,9.212520298368
-0,BB,12,0,0,0,0,0,0,3,0,1,3,4,5,1,2,0,1,Lübben,15907,https://www.klinikum-ds.de/,12061,51.944170635813,13.875671267542
-0,RP,07,2,0,0,0,0,0,3,0,1,2,0,1,1,9,0,0,Bitburg,54634,http://www.marienhaus-klinikum-eifel.de,07232,49.971704025862,6.526986121771
-0,NI,03,0,0,1,0,0,0,3,0,1,1,6,7,1,0,9,9,Lüneburg,21335,http://klinikum-lueneburg.de,03355,53.240545120251,10.395935296947
-0,NI,03,0,0,0,0,0,0,3,0,1,12,3,5,1,0,0,0,Göttingen,37075,https://www.ekweende.de,03159,51.554867818936,9.943659067285
-0,MV,13,0,0,0,0,0,0,3,0,2,0,0,0,1,0,0,0,Demmin,17109,http://www.kkh-demmin.de/start/index.php?rubric=Startseite&,13071,53.902698241062,13.041572767388
-0,TH,16,0,0,0,0,0,0,3,0,2,0,4,2,2,0,2,2,Gera,7548,https://www.waldklinikumgera.de,16052,50.868588042919,12.052145719463
-0,NRW,05,0,0,0,0,0,0,3,0,1,2,3,0,1,0,1,0,Werl,59457,http://www.mariannen-hospital.de,05974,51.551900877761,7.906319081767
-0,NRW,05,3,1,1,0,0,0,3,0,1,6,7,13,1,2,4,6,Marl,45770,http://www.klinikum-vest.de,05562,51.662106222311,7.123744368537
-0,RP,07,0,0,0,0,0,0,3,0,2,0,0,5,1,0,0,2,Zell,56856,http://www.klinikum-mittelmosel.de,07135,50.023588586532,7.16760706895
-0,BE,11,0,0,0,0,0,0,3,0,1,13,9,10,1,0,0,0,Berlin,12157,http://www.vivantes.de,11000,52.463038638404,13.345513236582
-0,BE,11,0,0,0,0,0,0,3,0,1,2,6,0,1,0,2,2,Berlin,13467,http://www.caritas-klinik-dominikus.de,11000,52.624685022797,13.295363545385
-0,NRW,05,1,0,0,0,0,0,3,0,1,23,8,18,1,16,4,8,Recklinghausen,45657,http://klinikum-vest.de,05562,51.620319720707,7.175755083545
-0,BY,09,4,3,0,0,0,0,3,0,1,26,6,4,1,2,3,1,Schweinfurt,97422,http://www.leopoldina.de,09662,50.051936208683,10.243571877463
-0,BE,11,4,4,3,0,1,0,0,0,1,31,4,4,1,6,6,7,Berlin,10249,http://www.vivantes.de,11000,52.524480767485,13.438961398661
-0,BE,11,0,0,1,1,0,0,3,0,1,30,8,0,1,0,0,0,Berlin,13585,http://www.vivantes.de,11000,52.550156762079,13.206896755114
-0,BY,09,0,0,0,0,0,0,3,0,1,1,5,5,1,3,3,3,Günzburg,89312,https://www.kkhgzkru.de/guenzburg,09774,48.457438951419,10.293619376153
-0,SN,14,0,0,0,0,0,0,3,0,1,2,4,2,0,3,0,2,Sebnitz,1829,http://www.asklepios.com/sebnitz,14628,50.982949872332,14.266479420685
-0,BW,08,2,2,0,0,0,0,3,0,1,4,4,6,1,6,2,5,Karlsbad-Langensteinbach,76307,http://klinikum-karlsbad.de,08215,48.904304210237,8.502052187887
-0,BB,12,0,0,0,0,0,0,3,0,2,8,1,1,1,0,5,5,Perleberg,19348,https://www.krankenhaus-prignitz.de,12070,53.074801173802,11.873124360973
-0,MV,13,0,0,0,0,0,0,3,0,1,7,6,6,1,1,6,6,Pasewalk,17309,https://www.asklepios.com/pasewalk/,13075,53.489375976101,13.984293651738
-0,HH,02,0,0,0,0,0,1,1,1,2,22,2,10,2,8,1,0,Hamburg,22417,https://www.asklepios.com/hamburg/nord/heidberg/experten/ains/,02000,53.674729747362,10.029191494004
-0,SN,14,2,2,0,0,0,0,3,0,1,3,3,3,1,1,3,3,Werdau,8412,http://www.pleissental-klinik.de,14524,50.74193616942,12.366416394743
-0,SN,14,0,0,0,0,0,0,3,0,1,0,0,0,1,0,1,2,Neustadt (Sachsen),1844,https://www.asklepios.com/hohwald/,14628,51.046812185075,14.290974318965
-0,SN,14,0,0,0,0,0,0,3,0,1,4,1,0,2,3,4,4,Wermsdorf,4779,https://www.sanktgeorg.de/medizinische-bereiche/kliniken-abteilungen/neurologie-und-neurologische-intensivmedizin.html,14730,51.274474451085,12.941995382244
-0,NRW,05,0,0,0,0,0,0,3,0,1,5,4,4,1,5,5,5,Siegen,57072,http://www.mariengesellschaft.de,05970,50.879455893095,8.030419528468
-0,HE,06,1,0,0,0,0,0,3,0,0,8,0,8,2,4,0,4,Bad Nauheim,61231,https://www.gesundheitszentrum-wetterau.de,06440,50.356723578628,8.72989135979
-12,BY,09,5,3,0,1,0,1,1,1,1,9,9,10,1,4,2,3,Regensburg,93049,https://www.barmherzige-regensburg.de/,09362,49.01692335715,12.064848124965
-0,SN,14,0,0,0,0,0,0,3,0,1,2,1,1,1,6,2,2,Hartmannsdorf,9232,https://diakomed.de/,14522,50.882904775938,12.792461693271
-0,NRW,05,0,0,0,0,0,0,3,0,1,0,11,0,1,0,1,0,Lippstadt,59555,http://www.ev-krankenhaus.de,05974,51.684975604102,8.343058414757
-0,ST,15,1,1,0,0,0,1,1,0,1,11,16,5,1,3,6,5,Merseburg,6217,http://www.klinikum-saalekreis.de,15088,51.366282965409,11.994037270579
-0,BB,12,0,0,0,0,0,0,3,0,1,3,8,2,1,1,1,0,Kyritz,16866,http://kmg-kliniken.de,12068,52.948243551441,12.388838052684
-0,SN,14,0,0,0,0,3,7,1,6,1,38,51,20,1,49,31,10,Leipzig,4289,https://www.helios-gesundheit.de/kliniken/leipzig-herzzentrum/,14713,51.30760564054,12.436903238231
-0,SN,14,0,0,0,0,0,0,3,0,1,5,5,3,1,0,2,0,Oschatz,4758,https://www.collm-klinik-oschatz.de//,14730,51.291734100587,13.114279031688
-0,BE,11,0,0,0,0,0,0,3,0,0,11,0,1,2,7,3,4,Berlin,13125,http://www.pgdiakonie.de/evangelische-lungenklinik-berlin/,11000,52.631861499326,13.505310807377
-45,NRW,05,0,0,0,0,1,1,1,1,2,17,1,3,0,12,0,2,Dortmund,44309,https://www.klinikum-westfalen.de/Inhalt/Kliniken_Zentren_Bereiche_Kooperationen/Zentren/Ecmo-Zentrum/index.php,05913,51.519954398832,7.533110618624
-0,ST,15,0,0,0,0,0,0,3,0,0,14,0,7,0,0,0,0,Magdeburg,39120,https://www.median-kliniken.de/de/median-klinik-nrz-magdeburg/,15003,52.086288647157,11.638070583376
-0,BB,12,6,5,0,0,0,0,3,0,2,30,4,6,2,14,2,6,Potsdam,14467,http://www.klinikumevb.de,12054,52.401382990772,13.065048694643
-0,HE,06,0,0,0,0,0,0,3,0,1,2,6,1,1,3,1,1,Bad Wildungen,34537,https://www.asklepios.com/bad-wildungen/stadtklinik/,06635,51.117245594667,9.114189147622
-0,MV,13,0,0,0,0,0,0,3,0,1,0,2,2,1,5,5,6,Wismar,23966,http://www.sana-hanse-klinikum-wismar.de,13074,53.884770901332,11.438175201547
-0,HH,02,0,0,0,0,0,0,3,0,1,5,1,1,1,1,4,1,Hamburg,22763,http://www.kinderkrankenhaus.net,02000,53.551159545356,9.913026809845
-0,NRW,05,2,2,0,1,0,0,3,0,2,2,4,0,1,0,2,0,Köln,50737,http://www.hgk-koeln.de/start/,05315,50.992215873468,6.923839330698
-0,RP,07,0,0,0,0,0,0,3,0,1,2,3,5,1,3,5,7,Germersheim,76726,http://www.asklepios.com/germersheim,07334,49.219963982877,8.365733206256
-0,BW,08,0,0,2,0,0,0,3,0,1,0,5,4,1,4,1,2,Filderstadt,70794,http://filderklinik.de,08116,48.647647546769,9.204562492669
-0,SL,10,0,0,0,0,0,0,3,0,1,1,5,5,1,4,2,4,Saarbrücken,66111,https://www.kreuznacherdiakonie.de/krankenhaeuser/ev-stadtkrankenhaus-saarbruecken/,10041,49.233049841788,7.003756561317
-0,NRW,05,0,0,0,0,0,0,3,0,1,6,4,5,1,7,7,5,Münster,48165,http://www.hjk-muenster.de,05515,51.908610285858,7.634223461282
-5,BW,08,5,5,0,1,0,1,1,1,1,10,22,18,1,8,15,15,Reutlingen,72764,https://www.kreiskliniken-reutlingen.de,08415,48.483743343529,9.21819368004
-0,NRW,05,0,0,0,0,0,0,3,0,1,6,1,2,1,3,1,3,Marl,45768,http://www.kkrn.de,05562,51.652448679853,7.083754777941
-0,BB,12,0,0,0,0,0,0,3,0,2,6,1,1,1,1,3,4,Prenzlau,17291,https://www.glg-gesundheit.de/krankenhaeuser/glg-kreiskrankenhaus-prenzlau/behandlungsspektrum/anaesthesiologie-intensiv-und-schmerztherapie/,12073,53.334064923664,13.86869430542
-0,BY,09,0,0,0,0,0,0,3,0,1,10,2,0,1,10,2,0,München,80337,https://www.klinikum.uni-muenchen.de/Kinderklinik-und-Kinderpoliklinik-im-Dr-von-Haunerschen-Kinderspital/de/,09162,48.130358133326,11.554821252757
-0,HE,06,0,0,0,0,0,0,3,0,1,5,5,5,1,0,0,15,Wiesbaden,65197,http://asklepios.com,06414,50.072435808281,8.226556599116
-0,BE,11,1,1,0,0,0,0,3,0,1,12,8,9,1,4,2,2,Berlin,14050,http://drk-kliniken-Berlin.de,11000,52.518886203069,13.277061760409
-0,RP,07,4,1,0,0,0,0,3,0,1,10,2,2,1,9,9,4,Worms,67550,http://www.klinikum-worms.de,07319,49.649785612067,8.320514273473
-0,NRW,05,0,0,0,0,0,0,3,0,2,1,1,1,2,4,1,1,Bad Driburg,33014,http://khwe.de,05762,51.741993251764,9.01045219277
-0,NI,03,0,0,0,0,0,0,3,0,1,7,5,5,0,0,0,0,Hildesheim,31135,http://www.helios-gesundheit.de/kliniken/hildesheim/,03254,52.151614552443,9.975515127117
-0,SN,14,0,0,0,0,0,0,3,0,1,1,3,3,1,2,2,2,Görlitz,2827,http://www.malteser-krankenhaus-stcarolus.de,14626,51.144222574099,14.939101695818
-0,BY,09,3,3,0,0,0,1,2,0,1,12,12,3,1,12,12,3,Coburg,96450,http://klinikum-coburg.de,09463,50.247062538779,10.972732543978
-0,ST,15,1,0,0,0,0,0,3,0,1,2,6,6,1,4,2,2,Schönebeck,39218,https://www.ameos.eu/standorte/ameos-ost/schoenebeck/,15089,51.996042224611,11.716983318493
-0,NRW,05,0,0,0,0,0,0,3,0,1,12,4,0,2,3,1,0,Bielefeld,33611,https://evkb.de/kliniken-zentren/anaesthesiologie/anaesthesiologie-intensiv-und-notfallmedizin-transfusionsmedizin-und-schmerztherapie/ueber-uns/,05711,52.041682889225,8.541192054781
-0,HH,02,1,1,0,0,0,0,3,0,1,6,2,2,1,2,2,2,Hamburg,22297,http://www.ik-h.de,02000,53.605628446777,9.990679800494
-0,NRW,05,1,1,0,0,0,0,3,0,1,4,5,5,1,0,5,6,Düsseldorf,40477,http://https//www.vinzenz-duesseldorf.de/,05111,51.242299980493,6.790982075036
-0,HE,06,0,0,0,0,0,4,1,0,1,0,15,0,1,0,0,0,Marburg,35043,https://www.ukgm.de,06534,50.81526897788,8.805859994882
-0,BW,08,5,2,0,1,0,0,3,0,1,19,13,0,1,0,0,0,Göppingen,73035,http://www.alb-fils-kliniken.de,08117,48.690485873165,9.65062236799
-0,SH,01,0,0,0,0,0,0,3,0,1,16,12,14,1,3,1,1,Itzehoe,25524,http://www.klinikum-itzehoe.de,01061,53.941746464684,9.503403425151
-40,BE,11,0,0,0,0,1,1,2,1,1,6,2,2,2,6,0,3,Berlin,12200,https://kardio-cbf.charite.de/,11000,52.441800385763,13.320401430065
-0,BY,09,0,0,0,0,0,0,3,0,0,0,0,0,1,2,2,0,Oberviechtach,92526,http://www.asklepios.com/oberviechtach,09376,49.461630993553,12.412333828229
-2,MV,13,0,0,0,0,0,0,3,0,1,2,3,2,1,2,3,2,Waren,17192,https://www.mueritz-klinikum.de,13071,53.522303086373,12.685997843382
-30,BW,08,9,8,0,0,0,0,1,0,1,0,0,0,1,0,0,0,Heilbronn,74078,https://www.slk-kliniken.de/ueber-uns/standorte/klinikum-am-gesundbrunnen/,08121,49.153217008565,9.19058221577
-20,ST,15,0,0,0,0,0,3,1,0,1,14,4,0,1,8,4,0,Coswig,6869,https://www.herzzentrum-coswig.de/,15091,51.877967995862,12.477286577159
-0,BY,09,1,1,0,1,0,0,3,0,1,10,4,15,1,0,2,0,Kempten,87439,https://www.kv-keoa.de,09763,47.732855621457,10.302372336273
-0,HH,02,0,0,0,0,0,0,3,0,1,0,0,2,1,3,0,2,Hamburg,22417,https://www.asklepios.com/hamburg/nord/heidberg/experten/neonatologie-paediatrische-intensivmedizin/,02000,53.674729747362,10.029191494004
-0,BW,08,6,1,0,0,0,0,3,0,1,8,6,0,1,8,6,0,Bad Mergentheim,97980,https://www.ckbm.de/ckbm/index.php,08128,49.490775510161,9.763119578329
-0,BE,11,0,0,0,0,0,0,3,0,2,9,1,1,1,0,0,0,Berlin,13353,http://www.charite-ppi.de/,11000,52.542234057016,13.347827553716
-0,NI,03,0,0,0,0,0,0,3,0,1,0,0,0,1,0,1,1,Celle,29223,https://www.akh-celle.de/aerzte-fachpersonal/kliniken-und-zentren/kinder-und-jugendmedizin/,03351,52.628857876836,10.085253920406
-0,BW,08,0,0,2,0,0,0,3,0,0,0,0,0,0,5,0,0,Bad Waldsee,88339,http://www.oberschwabenklinik.de,08436,47.924434205718,9.76083535591
-0,BE,11,3,2,0,0,0,0,3,0,1,3,7,7,1,0,0,0,Berlin,13509,http://www.vivantes.de,11000,52.589849052234,13.308975112432
-0,BW,08,23,2,0,1,0,1,2,0,1,0,0,0,1,0,0,0,Stuttgart,70376,https://www.rbk.de/standorte/robert-bosch-krankenhaus/abteilungen/kardiologie/leistungsspektrum/internistische-intensivmedizin.html,08111,48.815082316815,9.186542808993
-0,BW,08,4,4,0,0,0,0,3,0,0,9,0,0,0,1,0,0,Ostfildern,73760,https://www.medius-kliniken.de/,08116,48.741633665497,9.254379630056
-0,SN,14,0,0,0,0,0,0,3,0,2,5,3,2,2,0,0,0,Zwickau,8060,https://www.paraklinik.de/zwickau.html,14524,50.72244155485,12.471148610148
-0,BW,08,10,9,0,0,0,0,3,0,0,19,0,0,0,9,0,0,Kirchheim unter Teck,73230,https://www.medius-kliniken.de/,08116,48.652068749627,9.442178785785
-0,NRW,05,4,4,0,1,0,0,3,0,2,14,2,2,1,1,9,9,Velbert,42549,https://www.helios-gesundheit.de/kliniken/niederberg/unser-angebot/unsere-mitarbeiter/profil/person/ralf-michael-schumacher/,05158,51.350371418841,7.01174873112
-0,BY,09,1,1,0,0,0,0,3,0,1,8,2,4,1,2,3,5,Neustadt a. d. Aisch,91413,http://www.kliniken-nea.de,09575,49.58202623012,10.621789151237
-0,NRW,05,0,0,0,0,0,0,3,0,1,21,21,0,1,8,9,0,Bielefeld,33617,https://evkb.de/kliniken-zentren/anaesthesiologie/anaesthesiologie-intensiv-und-notfallmedizin-transfusionsmedizin-und-schmerztherapie/ueber-uns/,05711,52.013456454331,8.525701117214
-30,NRW,05,2,2,1,0,0,3,1,3,1,27,10,9,1,17,10,10,Krefeld,47805,http://www.helios-gesundheit.de/kliniken/krefeld,05114,51.319885882105,6.565841674346
-0,NRW,05,1,1,0,0,0,0,3,0,0,6,3,0,1,0,0,0,Dorsten,46282,https://www.kkrn.de,05562,51.657104657625,6.956027984652
-0,NI,03,4,3,0,0,0,0,3,0,1,13,3,8,1,8,2,4,Nordhorn,48527,http://www.euregio-klinik.de,03456,52.442743762618,7.065397202969
-0,NRW,05,0,0,0,0,0,0,3,0,1,3,8,7,1,0,0,1,Emmerich,46446,https://prohomine.de/st-willibrord-spital-emmerich/kliniken-fachbereiche/anaesthesie-und-intensivmedizin/,05154,51.832762637954,6.240157663806
-0,HE,06,3,3,0,0,0,0,3,0,1,11,12,0,1,3,1,0,Seeheim-Jugenheim,64342,https://www.kreiskliniken-darmstadt-dieburg.de/medizin-pflege/kreisklinik-jugenheim/zentrum-fuer-akute-und-postakute-intensivmedizin/,06432,49.753427539044,8.638485431802
-14,NRW,05,4,3,7,1,0,1,1,1,1,24,14,9,0,0,0,0,Solingen ,42699,http://www.klinik-bethanien.de,05122,51.137942585009,7.01258504394
-0,BW,08,5,4,0,0,0,0,3,0,1,6,2,8,1,3,3,3,Wangen im Allgäu,88239,http://www.oberschwabenklinik.de/unsere-haeuser/westallgaeu-klinikum-in-wangen.html,08436,47.692956868907,9.844494031402
-0,HE,06,1,1,0,0,0,0,3,0,0,0,0,0,2,4,7,7,Seligenstadt,63500,https://www.asklepios.com/seligenstadt/,06438,50.041686138228,8.964987516338
-0,BY,09,1,1,0,0,0,0,3,0,1,3,3,0,0,5,0,2,Kitzingen ,97318,http://www.k-kl.de,09675,49.743730898713,10.139102518542
-0,NRW,05,0,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,Iserlohn,58638,http://www.kkimk.de,05962,51.379446846858,7.690690398249
-0,NRW,05,3,2,0,0,0,1,2,0,1,29,10,14,2,0,0,0,Bielefeld,33604,http://www.klinikumbielefeld.de,05711,52.014345123923,8.54419934748
-0,NRW,05,3,0,2,0,0,0,3,0,1,1,5,0,1,1,2,1,Wipperfürth,51688,https://www.helios-gesundheit.de/kliniken/wipperfuerth/,05374,51.113210128766,7.38522863393
-0,BY,09,1,0,0,0,0,0,3,0,1,0,8,8,1,3,12,12,Bogen,94327,https://www.kreiskliniken-bogen-mallersdorf.de/klinik-bogen.html,09278,48.909688323637,12.697077512676
-0,TH,16,0,0,0,0,0,0,3,0,1,0,6,0,1,4,2,0,Blankenhain,99444,https://www.helios-gesundheit.de/kliniken/blankenhain/unser-angebot/unsere-fachbereiche/anaesthesie-intensivmedizin/,16071,50.859854352109,11.339337408526
-0,NRW,05,4,3,1,0,0,0,3,0,1,23,2,3,1,0,0,0,Mönchengladbach,41239,http://www.sk-mg.de,05116,51.158093140952,6.420085608943
-5,HE,06,0,0,0,0,0,1,1,0,1,5,6,4,1,3,4,3,Gießen,35398,http://www.ekm-gi.de,06531,50.592300146582,8.649139004592
-0,SH,01,0,0,0,0,0,0,3,0,1,3,5,8,1,4,6,14,Eutin,23701,http://www.sana-oh.de,01055,54.132942256723,10.601059377177
-2,NRW,05,6,3,5,1,0,0,3,0,1,7,3,5,2,0,2,0,Köln,50968,https://www.antonius-koeln.de,05315,50.910195081296,6.966396331754
-0,HE,06,3,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,Frankfurt am Main,60590,https://www.kgu.de/einrichtungen/kliniken/anaesthesiologie-intensivmedizin-und-schmerztherapie/,06412,50.095428562176,8.661681175363
-0,HE,06,0,0,0,0,0,0,3,0,1,0,5,5,1,0,2,0,Darmstadt,64287,http://www.kinderkliniken.de,06411,49.877471904238,8.66481560467
-0,NRW,05,4,0,0,0,0,0,3,0,1,0,8,0,1,2,2,0,Nettetal,41334,http://www.krankenhaus-nettetal.de,05166,51.309347754467,6.271489067003
-0,HH,02,3,3,3,0,0,0,3,0,1,8,2,1,1,5,7,2,Hamburg,22359,http://www.amalie.de,02000,53.641470602664,10.151569090972
-0,BE,11,0,0,0,0,0,0,3,0,2,10,0,1,0,10,0,0,Berlin,13353,https://chirurgie.charite.de,11000,52.542234057016,13.347827553716
-0,SN,14,0,0,0,0,0,0,3,0,2,6,2,6,1,0,7,11,Zschopau,9405,http://www.kkh-mek.de/,14521,50.735086900659,13.078994035786
-0,NRW,05,0,0,5,0,0,0,3,0,1,0,8,8,1,1,5,6,Beckum,59269,http://www.krankenhaus-beckum.de,05570,51.752705853631,8.038717746604
-0,RP,07,0,0,0,0,0,0,3,0,2,2,1,2,1,1,2,2,Altenkirchen ,57610,http://drk-kh-altenkirchen.de,07132,50.683290326913,7.630609452749
-20,SH,01,1,0,0,0,0,2,2,0,1,10,10,10,0,10,1,1,Heide,25746,http://westkuestenklinikum.de,01051,54.199694819113,9.080427056679
-0,SN,14,1,0,0,0,0,1,2,0,1,30,10,10,1,6,20,20,Zwickau,8060,https://www.heinrich-braun-klinikum.de/,14524,50.722951034013,12.434322523832
-0,HE,06,2,0,0,0,0,0,3,0,1,4,8,0,1,8,18,0,Schwalmstadt,34613,http://www.asklepios.de,06634,50.922115738919,9.25571751588
-0,NRW,05,3,3,0,0,0,0,3,0,1,14,6,6,1,0,0,0,Düren,52351,https://www.krankenhaus-dueren.de/index.php/medizinische-leistungen-haupt/kliniken-und-institute/interdisziplinaere-intensivmedizin,05358,50.808026333869,6.496521625668
-0,BW,08,0,0,0,0,0,0,3,0,0,0,0,0,1,4,3,4,Göppingen,73035,http://christophsbad.de,08117,48.701290667183,9.644454896434
-0,NI,03,0,0,0,0,0,0,3,0,1,11,9,0,1,1,4,0,Helmstedt,38350,http://helios-gesundheit.de/helmstedt,03154,52.232069153103,10.999751186237
-0,NRW,05,2,1,2,0,0,0,3,0,2,3,2,1,2,1,1,1,Jülich,52428,http://www.krankenhaus-juelich.de,05358,50.925637543601,6.363383710368
-0,HE,06,0,0,0,0,0,0,3,0,1,1,1,0,1,1,3,0,Melsungen,34212,http://www.asklepios.com,06634,51.137185253334,9.539943695077
-0,BY,09,3,2,0,0,0,0,3,0,1,10,2,2,0,0,0,0,München,81241,https://www.helios-gesundheit.de/kliniken/muenchen-west/,09162,48.144849615797,11.454206295312
-0,NI,03,8,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,Helmstedt,38350,https://www.helios-gesundheit.de/kliniken/helmstedt/,03154,52.232069153103,10.999751186237
-0,BY,09,2,2,0,0,0,0,3,0,2,16,9,11,0,5,5,6,Neumarkt i.d.OPf.,92318,https://www.klinikum-neumarkt.de,09373,49.285523487235,11.451848794554
-0,BB,12,0,0,0,0,0,0,3,0,1,0,4,4,1,0,4,4,Pritzwalk,16928,https://kmg-kliniken.de/kmg-klinikum-pritzwalk/fachabteilungen-zentren/anaesthesiologie-und-intensivmedizin/,12070,53.148539865618,12.169218778545
-0,BY,09,1,1,0,0,0,0,3,0,1,9,5,0,1,3,2,0,Neustadt/Aisch,91413,http://kliniken-nea.de,09575,49.58202623012,10.621789151237
-0,BY,09,0,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,Nürnberg,90419,http://www.klinik-hallerwiese.de,09564,49.456952202572,11.066573649637
-0,SH,01,0,0,0,0,0,0,3,0,1,7,5,4,1,2,2,0,Oldenburg,23758,https://www.sana-oh.de/oldenburg/,01055,54.290437034751,10.88027787202
-0,BW,08,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,Gerlingen,70839,http://www.rbk.de/standorte/klinik-schillerhoehe.html,08118,48.786731908746,9.074553608862
-0,BE,11,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,Berlin ,13353,http://dhzb.de,11000,52.542234057016,13.347827553716
-0,BW,08,0,0,0,0,0,0,3,0,2,7,3,3,0,0,0,0,Stuttgart,70190,http://www.karl-olga-krankenhaus.de,08111,48.789273693351,9.203697305707
-0,SN,14,0,0,0,0,0,0,3,0,1,12,4,6,1,0,0,0,Leipzig,4177,https://www.diako-leipzig.de/index.php?id=1152,14713,51.34312397146,12.320682585223
-100,NI,03,0,0,0,0,0,4,1,1,1,0,3,4,1,0,4,0,Bad Bevensen,29549,https://www.hgz-bb.de,03360,53.085718606891,10.604394436014
-0,MV,13,0,0,0,0,0,4,1,4,1,0,8,8,1,0,8,8,Karlsburg,17495,http://www.klinikum-karlsburg.de,13075,53.970694183658,13.609632611242
-0,NRW,05,0,0,0,0,0,0,3,0,1,4,3,1,1,1,1,0,Köln,50931,https://www.malteser-krankenhaus-koeln.de/start.html,05315,50.931087953294,6.923667099327
-15,NRW,05,4,3,0,1,0,1,1,0,1,12,6,7,1,5,4,6,Münster,48145,https://www.sfh-muenster.de/startseite/,05515,51.960632086638,7.648671448214
-30,BE,11,0,0,0,0,0,3,1,3,1,0,6,6,1,0,6,6,Berlin,10115,http://nephrologie-intensivmedizin.charite.de/,11000,52.523669697726,13.378229856426
-0,BY,09,2,1,0,1,0,0,3,0,1,6,2,8,1,3,5,5,Weilheim ,82362,http://www.kh-gmbh-ws.de,09190,47.83741268819,11.144314741823
-0,RP,07,1,0,0,0,0,0,3,0,1,6,1,0,1,5,3,0,Andernach,56626,http://www.stiftshospital-andernach.de,07137,50.44037168914,7.404745995982
-0,BE,11,1,0,0,0,0,0,3,0,1,5,5,5,1,1,3,4,Berlin,13347,http://www.jkb-online.lde,11000,52.555278906928,13.370569467479
-0,RP,07,10,5,0,0,0,5,1,0,1,0,16,0,1,0,20,0,Kaiserslautern,67655,https://www.westpfalz-klinikum.de/,07312,49.442308209042,7.756798267365
-0,HH,02,0,0,0,0,0,0,3,0,1,5,1,1,1,0,4,4,Hamburg,21107,http://gross-sand.de,02000,53.503688744911,9.985962733626
-0,HE,06,0,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,Frankfurt,60389,http://www.sankt-katharinen-ffm.de,06412,50.136002538494,8.710909581378
-0,TH,16,0,0,0,0,0,0,3,0,1,1,11,13,1,5,5,0,Weimar,99425,http://www.klinikum-weimar.de,16055,50.961440439847,11.322625583428
-0,NRW,05,0,0,0,0,0,0,3,0,1,2,6,6,1,6,8,6,Kempen,47906,http://www.krankenhaus-kempen.de,05166,51.36301421363,6.411147737163
-0,RP,07,0,0,0,0,0,0,3,0,1,0,1,1,1,4,1,1,Hachenburg,57627,http://www.drk-kh-hachenburg.de,07143,50.656886809616,7.830873906596
-5,HB,04,0,0,0,0,0,1,1,1,2,10,2,2,1,0,0,0,Bremen,28177,https://www.gesundheitnord.de/krankenhaeuserundzentren/kbm/klinikum-bremen-mitte/paediatrischeintensivmedizin.html,04011,53.075136342809,8.837436676058
-96,RP,07,3,3,3,0,2,4,1,5,1,62,23,20,1,16,0,4,Mainz,55131,https://www.unimedizin-mainz.de/index.html,07315,49.992949180831,8.259165929903
-0,ST,15,2,2,0,0,0,0,3,0,1,0,6,0,1,0,6,0,Zerbst/Anhalt,39261,https://www.helios-gesundheit.de/kliniken/zerbst/unser-angebot/unsere-fachbereiche/anaesthesie/,15082,51.960538935624,12.09354137759
-0,NRW,05,2,1,0,0,0,0,3,0,1,1,3,3,1,1,3,3,Castrop-Rauxel,44575,http://www.rochus-hospital.de,05562,51.546553557541,7.315626919253
-0,NI,03,3,0,0,0,0,0,3,0,1,0,4,0,1,0,6,0,Braunschweig,38124,https://www.heh-bs.de/,03101,52.233299562044,10.52669620527
-0,RP,07,1,1,0,0,0,0,3,0,1,4,7,11,2,4,0,4,Ludwigshafen am Rhein ,67067,https://www.st-marienkrankenhaus.de/,07314,49.458123742438,8.408190697219
-0,NRW,05,0,0,0,0,0,0,3,0,1,6,2,6,1,2,2,0,Duisburg,47198,https://www.malteser-kliniken-rhein-ruhr.de/aktuell.html,05112,51.453313274264,6.710300087962
-0,NRW,05,0,0,4,0,0,0,3,0,1,10,6,10,1,6,2,6,Neuss,41462,http://www.johanna-etienne-krankenhaus.de,05162,51.213667703464,6.65874829881
-0,NRW,05,0,0,1,0,0,0,3,0,2,8,0,1,2,2,0,1,Köln,50735,http://www.kliniken-koeln.de,05315,50.962863088277,6.966712832418
-0,NI,03,0,0,0,0,0,0,3,0,1,2,4,0,1,2,2,0,Bremervörde,27432,http://www.ostemed.de/,03357,53.471387569831,9.135576009685
-0,BW,08,1,1,0,0,0,0,3,0,1,2,1,6,1,5,2,4,Freiburg,79100,http://rkk-klinikum.de/,08311,47.983256035404,7.840717613681
-0,NRW,05,5,5,0,0,0,0,3,0,2,5,1,1,1,2,2,2,Mönchengladbach,41066,https://www.kh-neuwerk.de/,05116,51.224390160017,6.470275640422
-0,RP,07,3,3,0,0,0,3,2,0,1,37,11,16,1,0,0,10,Ludwigshafen,67063,http://www.klilu.de,07314,49.490855655148,8.423893690306
-0,HE,06,0,0,0,0,0,0,3,0,1,6,0,3,2,6,0,2,Dillenburg,35683,https://www.lahn-dill-kliniken.de,06532,50.745418303174,8.284552261512
-0,NI,03,0,0,0,0,0,0,3,0,1,0,3,3,1,0,4,4,Bad Münder,31848,http://www.dsk-bm.de,03252,52.208127711121,9.473372340235
-0,SH,01,0,0,0,0,0,0,3,0,0,0,0,0,1,3,7,10,Bad Bramstedt,24576,https://www.klinikumbadbramstedt.de/,01060,53.903603364398,9.893347263369
-0,BY,09,0,0,0,0,0,0,3,0,1,0,4,4,1,4,2,4,Fürth,90763,https://www.schoen-klinik.de/kliniken-und-zentren,09563,49.449804255207,10.997906685007
-0,RP,07,1,0,0,0,0,0,3,0,1,2,3,6,1,2,1,3,Hermeskeil,54411,https://www.krankenhaus-hermeskeil.de/startseite,07235,49.657546805244,6.948454767457
-0,BB,12,0,0,0,0,0,0,3,0,1,12,2,4,2,9,1,4,Treuenbrietzen,14929,https://www.johanniter.de/einrichtungen/krankenhaus/treuenbrietzen/,12069,52.08128459006,12.875867664798
-0,BW,08,1,1,0,0,0,0,3,0,0,4,0,0,1,0,4,0,Ellwangen,73479,http://www.klinik-ellwangen.de,08136,48.957404202104,10.132435083324
-0,HH,02,0,0,0,0,0,0,3,0,1,0,6,6,1,0,12,12,Hamburg,21075,https://www.helios-gesundheit.de/kliniken/helios-mariahilf-klinik-hamburg/unser-angebot/unsere-mitarbeiter/profil/person/philipp-alexander-brand-mahm/,02000,53.470879874845,9.93764555451
-13,NRW,05,2,1,0,0,0,1,1,1,1,18,2,3,1,0,0,3,Herford,32049,https://www.klinikum-herford.de/medizin/kliniken/kardiologie-konservative-intensivmedizin?rel=departmentfinder,05758,52.126395097108,8.700473427789
-0,HE,06,0,0,0,0,0,0,3,0,1,3,9,8,1,6,1,3,Frankenberg,35066,https://www.krankenhaus-frankenberg.de/start.html,06635,51.062222506323,8.792190223928
-0,TH,16,0,0,0,0,0,0,3,0,1,2,6,6,2,0,7,0,Eisenberg,7607,https://www.waldkliniken-eisenberg.de,16074,50.964353044222,11.888960122997
-0,NRW,05,0,0,1,0,0,0,3,0,1,6,6,0,1,6,6,0,Köln,51149,http://www.khporz.de,05315,50.892672968533,7.051347255838
-0,BW,08,1,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,Wangen,88239,http://www.fachkliniken-wangen.de,08436,47.698589217916,9.83571624769
-0,BW,08,1,0,0,0,0,0,3,0,1,17,1,2,1,16,0,1,Ravensburg,88212,http://www.oberschwabenklinik.de,08436,47.787945360369,9.621534937132
-0,BW,08,0,0,0,0,0,0,3,0,2,0,0,0,1,0,6,8,Hardheim,74736,https://www.khv-ha-wa.de,08225,49.611468956365,9.470789050938
-0,ST,15,0,0,0,0,0,0,3,0,1,3,3,3,1,3,3,3,Salzwedel,29410,https://www.altmark-klinikum.de/krankenhaus-salzwedel/klinik-fuer-innere-medizin-und-intensivmedizin/,15081,52.85646921537,11.145434886266
-0,HE,06,1,0,0,0,0,0,3,0,1,7,3,4,1,0,2,6,Hanau,63450,http://vinzenz-hanau.de,06435,50.13537292573,8.912375610716
-0,NRW,05,0,0,0,0,0,0,3,0,1,3,8,0,1,5,0,1,Düren,52351,http://www.snkt-augustinus-krankenhaus.de,05358,50.770354595772,6.487881124003
-0,BB,12,0,0,0,0,1,1,1,1,1,10,12,12,1,12,5,12,Cottbus,3046,https://www.ctk.de/klinikum/kliniken-zentren/kliniken/anaesthesiologie-intensivtherapie-palliativmedizin.html,12052,51.743884735622,14.322839498454
-0,SN,14,0,0,0,0,0,0,3,0,1,3,4,6,1,0,0,0,Ebersbach-Neugersdorf,2730,http://k-ob.de,14626,51.005066756339,14.569731540978
-15,HB,04,1,0,0,0,0,2,2,0,1,1,3,3,1,5,5,0,Bremen,28277,http://www.gesundheitnord.de/krankenhaeuserundzentren/ldw/klinikum-bremen-ldw/anaesthesie-intensiv-und-notfall.html,04011,53.03598773022,8.818875789675
-0,SL,10,2,1,0,0,0,0,3,0,1,3,5,4,1,7,5,6,Saarlouis,66740,http://www.drk-kliniken-saar.de,10044,49.313775044676,6.744250450283
-0,NRW,05,0,0,0,0,0,0,3,0,1,1,8,8,1,8,1,1,Mülheim an der Ruhr,45468,https://www.contilia.de/einrichtungen/st-marien-hospital-muelheim-an-der-ruhr.html,05117,51.425864418806,6.887203842393
-0,BW,08,0,0,0,0,0,0,3,0,2,0,0,0,1,0,1,1,Stuttgart,70184,https://www.bethesda-stuttgart.de,08111,48.772118488409,9.187977790898
-0,SN,14,0,0,0,0,0,0,3,0,1,8,2,10,1,2,2,6,Leipzig,4289,https://www.helios-gesundheit.de/kliniken/leipzig-park-klinikum/unser-angebot/unsere-fachbereiche/anaesthesie/,14713,51.308331669107,12.436151683314
-0,NRW,05,0,0,0,0,0,0,3,0,1,0,17,17,1,6,1,3,Dormagen,41540,http://do.rkn-kliniken.de/,05162,51.072726201174,6.808673322184
-0,BY,09,0,0,0,0,0,0,3,0,1,0,0,0,1,18,2,10,Bad Griesbach,94086,http://passauerwolf.de,09275,48.429734482689,13.184188127452
-0,NRW,05,2,0,0,0,0,0,3,0,1,2,2,2,1,0,2,2,Rheda - Wiedenbrück,33378,https://www.sankt-vinzenz.de,05754,51.833002974089,8.330376863578
-0,NRW,05,0,0,0,0,0,0,3,0,1,0,1,2,1,0,0,0,Paderborn,33098,https://www.st-louise.de/,05774,51.710481901077,8.75954398512
-0,NRW,05,0,0,0,0,0,0,3,0,1,7,5,8,2,7,3,6,Duisburg,47055,https://www.sana.de/duisburg,05112,51.396954869071,6.783368825945
-20,BY,09,0,0,0,0,0,2,1,0,1,18,12,0,1,6,6,0,Traunstein,83278,http://kliniken-suedostbayern.de,09189,47.873837340771,12.632477474108
-0,MV,13,0,0,0,0,0,0,3,0,0,4,0,0,0,3,0,1,Wolgast,17438,http://kreiskrankenhaus-wolgast.de,13075,54.051750192808,13.764006095007
-0,NI,03,0,0,0,0,0,0,3,0,1,4,4,2,1,5,3,2,Leer,26789,https://www.borromaeus-hospital-leer.de,03457,53.22912269612,7.445466756853
-0,BE,11,1,0,0,0,0,0,3,0,1,19,5,0,1,0,0,0,Berlin,10967,http://www.vivantes.de,11000,52.494626963901,13.409019953042
-0,MV,13,0,0,0,0,0,0,3,0,1,3,3,1,1,3,3,1,Ribnitz-Damgarten,18311,http://bodden-kliniken.de,13073,54.236468365404,12.444333627836
-0,NRW,05,2,2,0,0,0,0,3,0,1,8,0,3,1,2,3,3,Stolberg,52222,http://www.bethlehem.de,05334,50.772767229216,6.229546201484
-50,MV,13,0,0,0,0,1,2,1,1,1,44,16,12,1,26,4,5,Greifswald,17475,http://www.medizin.uni-greifswald.de,13075,54.088500891852,13.404547154887
-0,BW,08,0,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,Bad Wildbad,75323,http://www.sana.de/bad-wildbad,08235,48.749668671254,8.549775123629
-0,HE,06,0,0,0,0,0,0,3,0,1,6,6,0,1,0,0,0,Immenhausen,34376,http://www.lungenfachklinik-immenhausen.de,06633,51.423125734185,9.477583408388
-0,HE,06,0,0,0,0,0,0,3,0,1,6,10,10,1,3,5,8,Bad Wildungen,34537,http://www.werner-wicker-klinik.de,06635,51.109438157874,9.085568368419
-10,SL,10,0,0,0,0,0,3,1,5,2,4,12,10,2,9,1,0,Homburg,66424,https://www.uniklinikum-saarland.de/de/einrichtungen/kliniken_institute/anaesthesiologie/,10045,49.308912016795,7.345732033236
-0,BB,12,2,0,0,0,0,0,3,0,1,2,9,8,1,1,6,2,Strausberg,15344,http://www.krankenhaus-mol.de,12064,52.589038352606,13.900924967566
-0,NRW,05,0,0,1,0,0,0,3,0,1,6,18,8,1,4,8,4,Gelsenkirchen,45886,http://marienhospital.eu/marienhospital-gelsenkirchen/,05513,51.495339621896,7.101417616004
-1,NRW,05,2,1,2,0,0,0,0,0,1,14,3,5,1,0,4,4,Duisburg,47259,https://www.malteser-kliniken-rhein-ruhr.de,05112,51.364504496386,6.754266858134
-0,HE,06,0,0,0,0,0,0,3,0,1,13,6,3,1,3,2,2,Weilmünster,35789,http://vitos-weil-lahn.de,06533,50.424314854233,8.390130043063
-0,NRW,05,0,0,0,0,0,0,3,0,1,0,3,4,1,0,0,0,Xanten,46509,http://sankt-josef-hospital.de,05170,51.643185223281,6.452771007998
-0,RP,07,0,0,0,0,0,0,3,0,1,8,6,4,1,0,0,8,Speyer,67346,http://www.vincentius-speyer.de,07318,49.315695817169,8.421648941003
-0,SN,14,0,0,0,0,0,0,3,0,2,2,3,3,1,0,3,2,Eilenburg,4838,https://www.klinik-delitzsch.de/kliniken/eilenburg,14730,51.460225761574,12.621658623202
-0,NRW,05,1,1,1,0,0,0,3,0,2,4,2,3,2,6,4,4,Warendorf,48231,http://www.jhwaf.de,05570,51.960420529706,8.002352893336
-0,HH,02,4,1,0,1,0,0,3,0,1,18,36,20,1,0,0,0,Hamburg,22307,https://www.asklepios.com/hamburg/barmbek/,02000,53.606101108168,10.035914182663
-0,MV,06,2,0,0,0,0,0,3,0,2,3,1,2,0,1,0,0,Frankfurt,60594,https://www.krankenhaus-sachsenhausen.de,06412,50.106522133041,8.683677435019
-0,SN,14,1,0,0,0,0,0,3,0,2,17,7,10,2,14,11,12,Görlitz,2828,https://www.klinikum-goerlitz.de,14626,51.161540703266,14.969681301154
-0,NRW,05,1,1,0,0,0,0,3,0,1,11,11,10,1,0,0,0,Olpe,57462,http://www.hospitalgesellschaft.de,05966,51.027457170596,7.846918344694
-0,BB,12,1,0,0,0,0,0,3,0,1,4,4,17,1,2,10,14,Rüdersdorf bei Berlin,15562,https://immanuelalbertinen.de,12064,52.453583789123,13.772192783654
-16,NRW,05,3,2,0,0,0,0,3,0,0,10,0,2,0,8,0,2,Bochum,44791,http://www.klinikum-bochum.de,05911,51.493922507533,7.228267908031
-1,NRW,05,0,0,0,0,0,1,1,1,1,12,10,4,2,3,1,1,Duisburg,47249,http://www.bg-klinikum-duisburg.de,05112,51.380675639817,6.785428762469
-0,HH,02,0,0,0,0,0,0,3,0,1,4,4,4,1,9,7,10,Hamburg,22081,https://www.schoen-klinik.de,02000,53.577923798759,10.054193972756
-0,SL,10,1,1,0,0,0,0,3,0,2,2,1,1,1,2,3,3,Ottweiler,66564,http://www.marienhausklinik-ottweiler.de,10043,49.401578306916,7.167375326189
-0,NI,03,0,0,0,0,0,0,0,0,0,0,0,0,2,11,1,1,Jesteburg,21266,https://www.waldklinik-jesteburg.de/,03353,53.319583629297,9.949818491968
-0,RP,07,0,0,0,0,0,0,3,0,1,2,2,0,1,0,2,0,Koblenz,56073,http://www.gk.de,07111,50.355980883861,7.564584195597
-0,BW,08,2,0,0,0,0,0,3,0,1,6,6,6,2,3,3,4,Sinsheim,74889,http://grn.de,08226,49.251958261548,8.890484064809
-0,HE,06,1,1,0,0,0,0,3,0,2,6,11,5,0,9,10,1,Frankfurt,60318,https://www.buergerhospital-ffm.de/medizin-pflege/pneumologie-kardiologie-und-beatmungsmedizin-mit-sektion-gastroenterologie,06412,50.130737378619,8.686793088782
-0,BY,09,0,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,Haar,85540,http://www.kbo-iak.de,09184,48.117000993997,11.743576884278
-0,NI,03,1,1,0,0,0,0,3,0,0,0,1,0,0,0,0,0,Buxtehude,21614,http://www.elbekliniken.de,03359,53.461574793851,9.675736963782
-10,HE,06,0,0,0,0,0,1,1,0,1,8,13,6,0,9,0,3,Frankfurt am Main,60389,http://www.bgu-frankfurt.de,06412,50.145647564691,8.709681129567
-0,NI,03,0,0,0,0,0,0,3,0,0,2,2,2,0,4,2,2,Osterholz-Scharmbeck,27711,http://www.kkhohz.de,03356,53.23344318708,8.793386220932
-0,NRW,05,1,0,0,0,0,0,3,0,2,4,1,11,2,5,1,3,Leverkusen,51379,http://www.kplus.de,05316,51.068081221672,7.004953622818
-0,BE,11,0,0,0,0,0,0,2,0,0,8,0,0,0,0,0,0,Berlin,13353,http://dhzb.de,11000,52.542234057016,13.347827553716
-0,HE,06,0,0,7,1,0,0,3,0,1,6,3,3,2,38,6,5,Offenbach a. Main,63071,http://www.ketteler-krankenhaus.org,06413,50.09483837005,8.784871816652
-0,NRW,05,0,0,0,0,0,0,3,0,2,16,8,0,2,4,3,0,HAmm,59065,http://www.marienhospital-hamm.de,05915,51.679442701881,7.81817632912
-0,BY,09,0,0,0,0,0,0,3,0,2,8,2,2,1,5,5,5,München,80634,https://www.rotkreuzklinikum-muenchen.de/,09162,48.15414180853,11.532668871805
-6,BY,09,2,2,1,1,0,1,3,1,1,17,7,8,1,2,2,2,Fuerth,90766,http://www.klinikum-fuerth.de,09563,49.484503758062,10.974964678292
-0,BW,08,0,0,0,0,0,0,3,0,1,4,2,0,1,0,3,0,Rottweil,78628,http://www.helios-gesundheit.de/rottweil,08325,48.165042443185,8.612275958094
-0,BW,08,2,2,0,0,0,0,3,0,1,11,12,12,1,0,0,0,Ulm,89081,https://ulm.bwkrankenhaus.de/startseite.html,08421,48.424756284497,9.948150694354
-0,HE,06,0,0,0,0,0,0,3,0,1,3,5,0,1,8,0,0,Groß-Umstadt,64823,https://www.kreiskliniken-darmstadt-dieburg.de/,06432,49.867388623281,8.936789989602
-0,SH,01,1,0,0,0,0,0,3,0,2,3,3,1,1,0,2,1,Geesthacht,21502,https://www.johanniter.de/einrichtungen/krankenhaus/geesthacht/,01053,53.431633289927,10.385399043544
-0,NRW,05,0,0,1,0,0,0,3,0,1,1,4,5,1,1,4,5,Winterberg,59955,https://www.gesundheitszentrum-winterberg.de/,05958,51.193310232526,8.5381085872
-0,NRW,05,2,0,1,0,0,0,3,0,0,6,1,1,2,1,3,0,Hürth,50354,https://www.sana.de/huerth,05362,50.883974250065,6.887293696436
-0,SH,01,0,0,0,0,0,0,3,0,1,9,3,3,1,6,4,5,Reinbek,21465,https://www.krankenhaus-reinbek.de,01062,53.510301099579,10.241016000591
-0,NRW,05,0,0,0,0,0,0,3,0,2,3,9,6,1,6,6,0,Bielefeld,33617,https://evkb.de,05711,52.013456454331,8.525701117214
-0,ST,15,4,0,2,0,0,0,3,0,1,4,4,1,2,0,0,0,Ballenstedt,6493,http://www.lk-b.de,15085,51.713116912312,11.231196641857
-0,ST,15,1,1,0,0,0,0,3,0,0,22,6,28,2,4,4,8,Dessau-Roßlau,6847,http://www.klinikum-dessau.de,15001,51.815733630652,12.197617471202
-0,BW,08,1,0,0,0,0,0,3,0,1,0,4,5,1,1,3,3,Heidelberg,69121,https://www.krankenhaus-salem.de,08221,49.423502451834,8.684420675031
-0,SH,01,0,0,0,0,0,0,3,0,2,9,5,1,1,4,2,3,Kiel,24116,https://www.krankenhaus-kiel.de/kliniken,01002,54.322906927805,10.117073642969
-0,NRW,05,0,0,0,0,0,0,3,0,2,0,2,2,1,6,2,2,Mönchengladbach,41239,http://www.sk-mg.de,05116,51.158093140952,6.420085608943
-0,BW,08,4,4,3,1,0,0,3,0,2,4,6,5,2,8,0,2,Schorndorf,73614,http://www.rems-murr-kliniken.de,08119,48.797742186794,9.528851151499
-0,BY,09,0,0,0,0,0,0,3,0,1,11,5,15,1,0,0,10,Bayreuth,95445,https://klinikum-bayreuth.de/einrichtungen/kliniken/neurologie,09462,49.96700357452,11.584785819086
-0,BY,09,0,0,0,0,0,0,3,0,1,0,2,0,1,0,0,0,Pegnitz,91257,https://www.sana.de/pegnitz,09472,49.757486727457,11.527570277444
-0,BY,09,7,0,2,0,0,0,3,0,1,0,4,8,0,4,0,8,Aichach,86551,http://www.klipa.de,09771,48.462508195562,11.13964936138
-0,NRW,05,1,0,0,0,0,0,3,0,1,0,1,2,2,5,0,2,Bedburg,50181,https://www.st-hubertusstift.de/,05362,50.997881605295,6.576904606804
-0,BY,09,0,0,0,0,0,0,3,0,1,2,4,4,1,4,2,3,Ochsenfurt,97199,http://www.main-klinik.de,09679,49.660271915527,10.088237123564
-0,SH,01,0,0,0,0,0,0,3,0,0,4,0,0,0,2,0,1,Ratzeburg,23909,https://www.drk-krankenhaus.de/home/,01053,53.689610571125,10.779469728404
-0,BY,09,1,1,0,0,0,0,3,0,1,3,3,4,1,3,1,4,Erlenbach a Main,63906,https://www.helios-gesundheit.de/kliniken/erlenbach/,09676,49.811506031558,9.166757011499
-0,NRW,05,2,0,0,0,0,0,3,0,0,5,1,1,1,5,1,1,Dinslaken,46535,https://www.st-vinzenz-hospital.de,05170,51.559244496028,6.72608087305
-0,BY,09,0,0,0,0,0,0,3,0,1,0,3,0,2,7,2,2,Starnberg,82131,http://www.klinikum-starnberg.de,09188,48.007069191041,11.33519339568
-0,HE,06,0,0,0,0,0,0,3,0,1,0,5,11,1,0,0,0,Marburg,35043,https://www.ukgm.de/ugm_2/deu/umr_ana/index.html,06534,50.81526897788,8.805859994882
-0,NRW,05,1,1,1,0,0,0,3,0,1,21,3,2,1,0,0,0,Köln,50678,https://www.severinskloesterchen.de/,05315,50.9252131828,6.956298351288
-5,BY,09,0,0,0,0,0,1,2,1,1,6,8,8,0,0,0,0,Vogtareuth,83569,http://www.schoen-klinik.de,09187,47.948462479834,12.187999606149
-0,BY,09,0,0,0,0,0,0,3,0,1,1,1,1,1,0,2,2,Neuburg,86633,https://www.sankt-elisabeth-klinik.de/,09185,48.730784458311,11.176768183741
-0,BY,09,2,2,1,0,0,0,3,0,1,12,17,17,1,0,15,15,Garmisch-Partenkirchen,82467,http://klinikum-gap.de,09180,47.483929564176,11.127636015399
-0,BW,08,0,0,0,1,0,0,3,0,0,3,0,0,0,5,0,0,Eberbach,69412,http://www.grn.de,08226,49.46337696797,8.990470513697
-175,NRW,05,7,6,4,0,5,5,1,3,1,74,15,12,1,36,19,12,Düsseldorf,40225,http://www.uniklinik-duesseldorf.de,05111,51.196351936376,6.789506149416
-0,NRW,05,6,2,0,1,0,0,3,0,1,10,7,7,1,6,3,3,Bonn,53123,https://www.malteser-krankenhaus-bonn.de/startseite.html,05314,50.707350281652,7.031852826476
-0,BY,09,0,0,0,0,0,0,3,0,1,8,2,6,1,1,0,0,Nürnberg,90491,https://www.martha-maria.de/krankenhaus-nuernberg.php,09564,49.482298504852,11.135901188823
-25,NI,03,0,0,0,0,0,2,1,2,1,19,5,5,0,8,0,0,Wilhelmshaven,26389,http://www.klinikum-whv.de,03405,53.545289698041,8.082759618792
-0,BB,12,0,0,0,0,0,0,3,0,1,3,4,4,1,0,0,0,Luckau,15926,https://www.diakonissenhaus.de/gesundheit/evangelisches-krankenhaus-luckau/,12061,51.853799621812,13.703354358477
-0,NRW,05,3,2,1,1,0,0,3,0,1,12,19,4,1,2,0,2,Hamm,59073,http://www.barbaraklinik.de,05915,51.708239818582,7.841748386613
-0,NRW,05,0,0,0,0,0,0,3,0,1,0,5,5,1,0,0,0,Essen,45257,https://www.contilia.de/index.php?id=146,05113,51.391509018616,7.085933268054
-35,HE,06,3,3,2,1,0,3,1,3,1,25,5,13,1,17,3,3,Wiesbaden,65199,https://www.helios-gesundheit.de/kliniken/wiesbaden-hsk/,06414,50.072435808281,8.226556599116
-0,ST,15,0,0,0,0,0,0,3,0,1,3,3,3,1,0,0,8,Dessau-Roßlau,6846,http://dkd-dessau.de,15001,51.837731533843,12.2268642783
-0,NRW,05,0,0,0,0,0,0,3,0,2,2,4,2,2,5,6,2,Lippstadt,59555,http://www.ev-krankenhaus.de/,05974,51.684975604102,8.343058414757
-0,NRW,05,0,0,0,0,0,0,3,0,2,7,2,4,2,0,2,4,Köln,50937,https://www.uk-koeln.de,05315,50.923308887945,6.917503255522
-0,ST,15,0,0,0,0,0,0,3,0,1,0,2,0,1,1,3,0,Gardelegen,39638,http://altmark-klinikum.de,15081,52.522739152243,11.38251378512
-35,RP,07,3,2,0,0,0,0,2,0,2,0,0,0,1,0,0,0,Koblenz,56072,http://koblenz.bwkrankenhaus.de,07111,50.369985739731,7.541914701396
-15,NRW,05,0,0,0,0,0,2,1,2,1,5,2,2,1,3,0,0,Bonn,53113,http://www.neonatologie-bonn.de,05314,50.724600809339,7.114107513316
-0,NRW,05,0,0,1,0,0,0,3,0,1,7,7,9,0,0,0,0,Lippstadt,59555,https://dreifaltigkeits-hospital.de,05974,51.673275388369,8.338460504992
-0,SL,10,0,0,0,0,0,0,3,0,1,11,7,18,1,3,5,18,Neunkirchen,66539,https://www.marienhausklinik-st-josef-kohlhof.de,10043,49.317814087963,7.227321624887
-30,NRW,05,0,0,0,0,0,3,1,0,1,17,0,17,1,0,0,0,Bad Lippspringe,33175,http://www.medizinisches-zentrum.de,05774,51.782480174217,8.826894253484
-0,BB,12,0,0,0,0,0,0,3,0,0,7,0,0,1,0,2,0,Brandenburg a.d. Havel,14772,https://www.asklepios.com/brandenburg/experten/neurologie/,12051,52.426059107899,12.479138523304
-2,NI,03,0,0,0,0,0,0,3,0,1,2,4,4,1,4,0,3,Buchholz,21244,http://www.krankenhaus-buchholz.de/,03353,53.333455000899,9.873097658092
-0,NRW,05,0,0,0,0,0,0,3,0,1,3,1,2,0,4,0,2,Oberhausen,46045,http://www.helios-gesundheit.de/kliniken/oberhausen/unser-angebot/unsere-fachbereiche-und-zentren/anaesthesie-intensivmedizin-und-schmerztherapie/,05119,51.461968759808,6.854539632732
-0,NRW,05,0,0,0,0,0,0,3,0,1,5,5,5,1,0,0,0,Kevelaer ,47623,http://www.KKLE.de,05154,51.58404660023,6.249980449775
-0,NRW,05,2,2,0,0,0,0,3,0,2,10,4,4,1,4,4,6,Düsseldorf,40237,http://www.evk-duesseldorf.de,05111,51.212615409228,6.773145943866
-0,BE,11,0,0,0,0,0,0,3,0,2,7,1,5,1,0,0,0,Berlin,14129,http://www.jsd.de,11000,52.431348315318,13.219185590679
-0,BW,08,18,20,5,0,0,1,2,1,0,38,4,1,1,1,15,12,Winnenden,71364,https://www.rems-murr-kliniken.de,08119,48.870055503957,9.392342805895
-0,HH,02,2,2,1,0,0,0,3,0,1,10,10,10,1,0,0,0,Hamburg,22307,http://asklepios.com/barmbek,02000,53.606101108168,10.035914182663
-0,NRW,05,3,27,0,0,0,0,3,0,1,4,14,23,1,1,3,4,Gütersloh,33332,http://klinikum-guetersloh.de,05754,51.897660201973,8.383384555586
-0,NRW,05,1,1,0,0,0,0,3,0,1,4,2,2,1,1,2,2,krefeld,47805,http://www.alexianer-krefeld.de,05114,51.325714777822,6.584742799409
-0,NRW,05,0,0,0,0,0,0,3,0,1,5,3,3,2,2,2,2,Bonn,53115,http://www.gfo-kliniken-bonn.de,05314,50.71673862348,7.093688177119
-0,BW,08,0,0,1,0,0,0,3,0,2,2,3,0,2,5,7,0,Mannheim,68163,http://www.theresienkrankenhaus.de,08222,49.489247503462,8.482151806338
-15,SH,01,0,0,0,0,0,2,1,0,1,33,25,0,1,22,10,0,Bad Segeberg,23795,https://www.segebergerkliniken.de/,01060,53.943459393135,10.307963669284
-0,BY,09,0,0,0,0,0,0,3,0,2,4,3,4,0,0,0,0,München,80331,https://www.isarklinikum.de/,09162,48.134709945684,11.565120398982
-0,NRW,05,1,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,Oberhausen,46145,https://www.kk-ob.de/,05119,51.517305645458,6.844843983617
-0,NI,03,3,2,0,0,0,0,3,0,1,20,34,6,1,0,0,0,Hildesheim,31135,https://www.helios-gesundheit.de/kliniken/hildesheim/,03254,52.151614552443,9.975515127117
-0,SN,14,0,0,0,0,0,0,3,0,1,10,2,4,1,12,2,6,Dresden,1307,http://www.uniklinikum-dresden.de,14612,51.058086530837,13.77770733835
-2,NI,03,0,0,0,0,0,0,3,0,1,10,4,6,1,7,7,10,Quakenbrück,49610,http://www.ckq-gmbh.de,03459,52.668058053841,7.938766837087
-0,BY,09,0,0,0,0,0,0,3,0,1,1,3,3,1,2,2,3,Lohr am Main,97816,http://www.klinikum-msp.de,09677,49.99611393683,9.572110371664
-0,RP,07,7,1,0,0,0,0,3,0,1,3,1,0,1,3,2,0,Simmern,55469,http://www.kreuznacherdiakonie.de/krankenhaeuser/hunsrueck-klinik-simmern/,07140,49.980434681353,7.517382698134
-0,HE,06,0,0,1,0,0,0,3,0,2,0,0,0,1,2,6,4,Lorsch,64653,http://www.schoen-klinik.de/lorsch,06431,49.65232795372,8.562699079448
-0,BW,08,2,2,0,1,0,0,3,0,1,11,9,15,1,7,3,9,Lörrach,79539,https://www.klinloe.de/home.html,08336,47.61440782515,7.659098007716
-0,NRW,05,1,0,5,0,0,0,3,0,2,1,2,15,2,5,2,5,Köln,50931,https://www.evk-koeln.de,05315,50.927604092591,6.925033986536
-0,RP,07,0,0,0,0,0,0,3,0,0,9,0,2,0,0,0,0,Bad Dürkheim,67098,https://www.diakonissen.de/evangelisches-krankenhaus-bad-duerkheim/home/?no_cache=1,07332,49.466536086758,8.178756952302
-0,BB,12,0,0,0,0,0,0,3,0,1,4,6,6,1,0,0,0,Oranienburg,16515,http://www.oberhavel-kliniken.de,12065,52.743077973048,13.242150127871
-0,BW,08,0,0,0,0,0,0,3,0,2,2,3,14,2,6,1,8,Mannheim,68163,http://diako-mannheim.de,08222,49.464373064597,8.471255949153
-0,BY,09,0,0,0,0,0,0,3,0,0,0,0,0,1,0,6,4,Werneck,97440,http://www.orthopaedie-werneck.de,09678,49.980161301004,10.101361960165
-0,NRW,05,0,0,0,0,0,0,3,0,1,6,2,1,1,5,2,0,Köln,50668,http://www.st-marien-hospital.de/,05315,50.947320438694,6.962529659304
-0,BW,08,1,0,0,0,0,0,3,0,2,0,0,0,2,0,0,0,Mannheim,68165,http://www.theresienkrankenhaus.de,08222,49.489247503462,8.482151806338
-0,SN,14,0,0,0,0,0,0,3,0,1,7,3,10,1,4,4,10,Pirna,1796,http://helios-gesundheit.de/kliniken/pirna/,14628,50.95851525232,13.952973389351
-0,BB,12,2,2,0,0,0,0,3,0,2,4,6,7,1,0,0,0,Hennigsdorf,16761,http://www.oberhavel-kliniken.de,12065,52.655552769252,13.190437138064
-0,BW,08,10,9,0,0,0,0,0,0,2,0,0,0,2,0,0,0,Schwäbisch Hall,74523,https://www.diak-klinikum.de/,08127,49.124631741102,9.741652250323
-0,NRW,05,1,1,0,0,0,0,3,0,0,6,0,0,0,8,0,0,Hamm,59063,http://www.evkhamm.de,05915,51.669985145686,7.827075898631
-0,SN,14,0,0,0,0,0,0,3,0,1,7,4,4,1,2,4,3,Leipzig,4277,http://www.ek-leipzig.de,14713,51.30319757913,12.37856197331
-0,NI,03,0,0,0,0,0,0,3,0,1,4,6,0,1,2,9,0,Dannenberg,29451,http://www.capio-elbe-jeetzel-klinik.de,03354,53.082453012108,11.079501092418
-0,NRW,05,0,0,0,0,0,0,3,0,1,0,6,6,1,0,2,2,Bünde,32257,http://www.lukas-krankenhaus.de,05758,52.198265162612,8.593985036011
-0,BY,09,0,0,0,0,0,0,3,0,1,0,3,0,1,0,0,0,Pegnitz,91257,http://sana-pegnitz.de,09472,49.757486727457,11.527570277444
-0,BW,08,0,0,0,0,0,0,3,0,1,2,6,0,1,3,1,0,Heidelberg,69120,https://www.klinikum.uni-heidelberg.de/kopfklinik-zentrum/neurochirurgische-klinik,08221,49.41552091763,8.666354656252
-0,RP,07,0,0,0,0,0,0,3,0,1,1,5,10,0,0,0,0,Bad Ems,56130,https://www.paracelsus-kliniken.de/akut/bad-ems/,07141,50.333869271015,7.724475503001
-0,NRW,05,6,1,0,0,0,0,3,1,1,17,11,20,1,4,4,20,Lüdenscheid,58511,http://www.klinikum-luedenscheid.de,05962,51.207207716955,7.662002027018
-0,RP,07,1,1,0,0,0,0,3,0,2,11,1,6,2,5,3,0,Frankenthal,67227,https://www.skh-ft.de,07311,49.542970869077,8.330806016857
-0,NRW,05,1,1,0,0,0,0,3,0,1,7,9,14,2,7,1,0,Düsseldorf,40489,http://www.florence-nightingale-krankenhaus.de,05111,51.300317890771,6.749400258032
-0,NRW,05,0,0,0,0,0,0,3,0,2,0,4,4,2,3,0,1,Lüdinghausen,59438,http://www.smh-luedinghausen.de,05558,51.769245786699,7.447484314425
-0,NRW,05,0,0,0,0,0,0,3,0,1,9,13,0,1,0,6,11,Unna,59423,https://www.ek-unna.de,05978,51.533209203116,7.677076578075
-7,BW,08,11,6,1,1,0,1,2,0,2,29,16,16,2,17,3,1,Karlsruhe,76133,https://www.klinikum-karlsruhe.de,08212,49.017178424467,8.373053893447
-0,ST,15,1,0,0,0,0,0,3,0,1,8,12,9,1,0,0,0,Lutherstadt Wittenberg,6886,http://www.pgdiakonie.de/evangelisches-krankenhaus-paul-gerhardt-stift/,15091,51.870511171937,12.656023085101
-0,NRW,05,0,0,0,0,0,0,3,0,1,0,0,0,1,2,3,3,Eitorf,53783,http://www.krankenhaus-eitorf.de,05382,50.767635331914,7.452224884182
-0,NRW,05,0,0,0,0,0,0,3,0,2,2,1,0,0,3,0,0,Dortmund,44225,http://www.marien-hospital-dortmund.de,05913,51.478528934646,7.441745191804
-0,SN,14,0,0,0,0,0,0,3,0,1,0,2,2,1,0,0,0,Dresden,1307,https://www.uniklinikum-dresden.de/de/das-klinikum/kliniken-polikliniken-institute/kik,14612,51.058086530837,13.77770733835
-40,BW,08,1,0,0,0,0,2,1,0,1,3,7,5,1,3,7,5,Lahr,77933,https://www.herzzentrum-lahr.de/,08317,48.339887415202,7.890856361664
-0,NRW,05,2,2,0,0,0,0,3,0,0,9,0,0,2,4,1,1,Stolberg/Rhld.,52222,http://www.bethlehem.de,05334,50.772767229216,6.229546201484
-0,NRW,05,0,0,0,0,0,0,3,0,1,0,2,2,1,2,2,0,Oberhausen,46047,http://www.eko.de,05119,51.474229698028,6.866135358778
-0,SH,01,0,0,0,0,0,0,3,0,2,8,1,4,1,15,0,10,Flensburg,24939,https://www.diako-krankenhaus.de/,01001,54.790533539761,9.426069455221
-0,RP,07,0,0,0,0,0,0,3,0,1,1,5,5,1,0,3,3,Bingen,55411,https://heilig-geist-hospital.de,07339,49.968142241709,7.896952807887
-10,SL,10,3,3,3,1,0,1,2,0,2,14,2,2,1,0,3,3,Saarbrücken,66113,http://www.caritasklinikum.de,10041,49.247909394406,6.959429457711
-0,NRW,05,3,3,0,1,0,0,3,0,1,6,8,0,1,4,2,1,Bergisch Gladbach,51429,https://www.gfo-kliniken-rhein-berg.de/startseite.html,05378,50.961933953238,7.175029277932
-0,NRW,05,0,0,0,0,0,0,3,0,1,5,2,0,1,2,2,2,Dortmund,44269,https://www.huettenhospital.de,05913,51.480677983394,7.509634852377
-0,NRW,05,0,0,0,0,0,0,3,0,2,5,1,1,2,1,1,1,Essen,45276,https://kem-med.com/,05113,51.44219026249,7.06172844395
-0,BW,08,0,0,0,0,0,0,3,0,1,4,6,8,1,0,0,0,Freiburg,79106,https://www.uniklinik-freiburg.de/paed-allgemein/stationen/station-salge.html,08311,48.005244748277,7.839340925129
-0,BY,09,3,2,0,0,0,0,3,0,2,3,1,2,2,1,1,2,Vilsbiburg,84137,https://www.lakumed.de/,09274,48.445338693962,12.360019862636
-0,BB,12,0,0,0,0,0,0,3,0,1,0,0,0,1,5,8,8,Potsdam,14482,https://oberlin-klinik.de/,12054,52.393653192452,13.089561939305
-0,NRW,05,1,1,0,0,0,0,3,0,1,10,10,0,0,0,0,0,Bergisch Gladbach,51465,http://www.evk.de,05378,50.990031223958,7.137549161944
-0,NRW,05,0,0,0,0,0,0,3,0,1,0,3,3,1,0,5,5,Herten ,45701,http://www.kkrn.de,05562,51.599935170917,7.085793256792
-0,NI,03,0,0,0,0,0,0,3,0,1,0,5,0,1,0,0,0,Sande,26452,http://sanderbusch.de,03455,53.506764372164,8.009217739236
-0,NI,03,0,0,0,0,0,0,3,0,1,13,8,8,1,0,2,2,Delmenhorst,27753,https://www.jh-del.de/,03401,53.044824908295,8.592882513885
-0,SH,01,0,0,0,0,0,0,3,0,1,7,1,2,1,1,1,0,Kiel,24116,http://www.krankenhaus-kiel.de,01002,54.322906927805,10.117073642969
-0,SH,01,0,0,0,0,0,0,3,0,1,1,9,9,1,0,3,3,Kiel,24106,https://www.lubinus-stiftung.de/,01002,54.353174510392,10.116285771123
-0,SL,10,0,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,St. Wendel,66606,https://www.mkh-wnd.de,10046,49.454133774318,7.178329467806
-0,NRW,05,0,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,Gütersloh,33332,http://sankt-elisabeth-hospital.de,05754,51.882741502413,8.381511944449
-0,RP,07,0,0,0,0,0,0,3,0,1,0,0,0,1,0,0,0,Ludwigshafen,67071,http://www.bgu-ludwigshafen.de,07314,49.485865508321,8.388782501352
-0,NRW,05,2,2,0,0,0,0,3,0,1,11,17,4,1,0,2,4,Paderborn,33098,http://www.vincenz.de,05774,51.718585877982,8.759051799807
-0,NRW,05,1,1,0,0,0,0,3,0,1,6,3,3,1,3,2,4,Düsseldorf,40479,http://www.marien-hospital.de,05111,51.235824766012,6.78536016494
-0,NRW,05,0,0,0,0,0,0,3,0,1,6,2,4,2,8,0,2,Bonn,53111,http://www.klinik-bonn.lvr.de,05314,50.745334121303,7.089146018061
-0,NRW,05,0,0,0,0,0,0,3,0,1,8,2,18,1,0,0,0,Köln,51109,https://www.kliniken-koeln.de/Merheim_Medizinische_Klinik_I_Intensivmedizin.htm,05315,50.938275499264,7.053503966017
-0,BY,09,3,3,0,0,0,0,3,0,0,4,0,0,1,2,2,2,Weißenburg,91781,http://www.klinikum-altmuehlfranken.de,09577,49.034470698733,10.98447418226
-0,BY,09,2,1,0,0,0,0,3,0,2,3,1,0,0,4,4,1,Gunzenhausen,91710,https://www.klinikum-altmuehlfranken.de/home.html,09577,49.107583287499,10.774124622476
-0,NRW,05,0,0,0,0,0,0,3,0,1,9,6,10,0,0,0,0,Hagen,58091,https://www.vamed-gesundheit.de/kliniken/hagen-ambrock/,05914,51.314572022932,7.514856040461
-10,BY,09,1,1,0,0,0,1,1,1,1,5,9,9,1,0,2,2,Bamberg,96049,http://www.sozialstiftung-bamberg.de,09461,49.868406900305,10.89050138
-0,BE,11,0,0,0,0,0,0,3,0,1,12,6,5,1,4,3,4,Berlin,10115,https://www.alexianer-berlin-hedwigkliniken.de/,11000,52.525902143358,13.397046089303
-0,NRW,05,1,1,0,0,0,0,3,0,2,0,0,2,1,0,0,4,Wesseling,50389,http://www.krankenhaus-wesseling.de,05362,50.82211766325,6.98625648025
-0,BY,09,0,0,0,0,0,0,3,0,1,5,5,4,1,2,2,4,Freyung,94078,http://frg-kliniken.de,09272,48.805360146165,13.546157062037
-0,BY,09,0,0,1,0,0,0,3,0,2,9,1,2,1,2,3,4,Augsburg,86154,https://www.josefinum.de/fachbereiche-experten/kinder-jugendmedizin/neontologie-paediatrische-intensivmedizin/,09761,48.385064554485,10.874889850747
+Bundesland,RKI_NameDE,gemeindeschluessel,type,geometry
+Baden-Württemberg,SK Heilbronn,08121,Feature,[object Object]
+Baden-Württemberg,LK Breisgau-Hochschwarzwald,08315,Feature,[object Object]
+Baden-Württemberg,SK Baden-Baden,08211,Feature,[object Object]
+Baden-Württemberg,LK Freudenstadt,08237,Feature,[object Object]
+Baden-Württemberg,SK Mannheim,08222,Feature,[object Object]
+Baden-Württemberg,LK Calw,08235,Feature,[object Object]
+Baden-Württemberg,SK Freiburg i.Breisgau,08311,Feature,[object Object]
+Baden-Württemberg,LK Hohenlohekreis,08126,Feature,[object Object]
+Baden-Württemberg,SK Stuttgart,08111,Feature,[object Object]
+Baden-Württemberg,LK Schwarzwald-Baar-Kreis,08326,Feature,[object Object]
+Baden-Württemberg,LK Ludwigsburg,08118,Feature,[object Object]
+Baden-Württemberg,LK Rottweil,08325,Feature,[object Object]
+Baden-Württemberg,LK Ravensburg,08436,Feature,[object Object]
+Baden-Württemberg,LK Rems-Murr-Kreis,08119,Feature,[object Object]
+Baden-Württemberg,LK Rastatt,08216,Feature,[object Object]
+Baden-Württemberg,LK Biberach,08426,Feature,[object Object]
+Baden-Württemberg,LK Bodenseekreis,08435,Feature,[object Object]
+Baden-Württemberg,LK Rhein-Neckar-Kreis,08226,Feature,[object Object]
+Baden-Württemberg,LK Karlsruhe,08215,Feature,[object Object]
+Baden-Württemberg,LK Neckar-Odenwald-Kreis,08225,Feature,[object Object]
+Baden-Württemberg,LK Zollernalbkreis,08417,Feature,[object Object]
+Baden-Württemberg,LK Sigmaringen,08437,Feature,[object Object]
+Baden-Württemberg,LK Lörrach,08336,Feature,[object Object]
+Baden-Württemberg,SK Karlsruhe,08212,Feature,[object Object]
+Baden-Württemberg,LK Ostalbkreis,08136,Feature,[object Object]
+Baden-Württemberg,LK Schwäbisch Hall,08127,Feature,[object Object]
+Baden-Württemberg,LK Tübingen,08416,Feature,[object Object]
+Baden-Württemberg,SK Heidelberg,08221,Feature,[object Object]
+Baden-Württemberg,SK Pforzheim,08231,Feature,[object Object]
+Baden-Württemberg,LK Heilbronn,08125,Feature,[object Object]
+Baden-Württemberg,LK Göppingen,08117,Feature,[object Object]
+Baden-Württemberg,LK Heidenheim,08135,Feature,[object Object]
+Baden-Württemberg,LK Esslingen,08116,Feature,[object Object]
+Baden-Württemberg,LK Waldshut,08337,Feature,[object Object]
+Baden-Württemberg,LK Konstanz,08335,Feature,[object Object]
+Baden-Württemberg,LK Reutlingen,08415,Feature,[object Object]
+Baden-Württemberg,SK Ulm,08421,Feature,[object Object]
+Baden-Württemberg,LK Alb-Donau-Kreis,08425,Feature,[object Object]
+Baden-Württemberg,LK Tuttlingen,08327,Feature,[object Object]
+Baden-Württemberg,LK Ortenaukreis,08317,Feature,[object Object]
+Baden-Württemberg,LK Emmendingen,08316,Feature,[object Object]
+Baden-Württemberg,LK Enzkreis,08236,Feature,[object Object]
+Baden-Württemberg,LK Böblingen,08115,Feature,[object Object]
+Baden-Württemberg,LK Main-Tauber-Kreis,08128,Feature,[object Object]Bundesland,RKI_NameDE,gemeindeschluessel,type,geometry
+Bayern,LK Roth,09576,Feature,[object Object]
+Bayern,LK Dachau,09174,Feature,[object Object]
+Bayern,LK Lichtenfels,09478,Feature,[object Object]
+Bayern,SK Aschaffenburg,09661,Feature,[object Object]
+Bayern,LK Bad Kissingen,09672,Feature,[object Object]
+Bayern,SK Amberg,09361,Feature,[object Object]
+Bayern,SK Kempten,09763,Feature,[object Object]
+Bayern,LK Dillingen a.d.Donau,09773,Feature,[object Object]
+Bayern,SK Passau,09262,Feature,[object Object]
+Bayern,LK Bamberg,09471,Feature,[object Object]
+Bayern,SK Coburg,09463,Feature,[object Object]
+Bayern,SK Bamberg,09461,Feature,[object Object]
+Bayern,LK Neu-Ulm,09775,Feature,[object Object]
+Bayern,LK Rhön-Grabfeld,09673,Feature,[object Object]
+Bayern,LK Haßberge,09674,Feature,[object Object]
+Bayern,LK Deggendorf,09271,Feature,[object Object]
+Bayern,LK Weißenburg-Gunzenhausen,09577,Feature,[object Object]
+Bayern,SK München,09162,Feature,[object Object]
+Bayern,LK Erding,09177,Feature,[object Object]
+Bayern,LK Oberallgäu,09780,Feature,[object Object]
+Bayern,SK Landshut,09261,Feature,[object Object]
+Bayern,LK Kelheim,09273,Feature,[object Object]
+Bayern,SK Memmingen,09764,Feature,[object Object]
+Bayern,LK Regensburg,09375,Feature,[object Object]
+Bayern,SK Straubing,09263,Feature,[object Object]
+Bayern,LK Neumarkt i.d.OPf.,09373,Feature,[object Object]
+Bayern,LK Miltenberg,09676,Feature,[object Object]
+Bayern,LK Fürstenfeldbruck,09179,Feature,[object Object]
+Bayern,LK Starnberg,09188,Feature,[object Object]
+Bayern,LK München,09184,Feature,[object Object]
+Bayern,LK Lindau,09776,Feature,[object Object]
+Bayern,LK Landsberg a.Lech,09181,Feature,[object Object]
+Bayern,LK Altötting,09171,Feature,[object Object]
+Bayern,LK Rottal-Inn,09277,Feature,[object Object]
+Bayern,SK Ingolstadt,09161,Feature,[object Object]
+Bayern,LK Eichstätt,09176,Feature,[object Object]
+Bayern,LK Cham,09372,Feature,[object Object]
+Bayern,LK Kitzingen,09675,Feature,[object Object]
+Bayern,LK Neustadt/Aisch-Bad Windsheim,09575,Feature,[object Object]
+Bayern,LK Freising,09178,Feature,[object Object]
+Bayern,SK Rosenheim,09163,Feature,[object Object]
+Bayern,LK Rosenheim,09187,Feature,[object Object]
+Bayern,LK Neuburg-Schrobenhausen,09185,Feature,[object Object]
+Bayern,LK Pfaffenhofen a.d.Ilm,09186,Feature,[object Object]
+Bayern,LK Donau-Ries,09779,Feature,[object Object]
+Bayern,SK Kaufbeuren,09762,Feature,[object Object]
+Bayern,SK Hof,09464,Feature,[object Object]
+Bayern,LK Regen,09276,Feature,[object Object]
+Bayern,LK Ebersberg,09175,Feature,[object Object]
+Bayern,LK Kulmbach,09477,Feature,[object Object]
+Bayern,LK Nürnberger Land,09574,Feature,[object Object]
+Bayern,LK Aschaffenburg,09671,Feature,[object Object]
+Bayern,LK Tirschenreuth,09377,Feature,[object Object]
+Bayern,LK Unterallgäu,09778,Feature,[object Object]
+Bayern,SK Würzburg,09663,Feature,[object Object]
+Bayern,LK Passau,09275,Feature,[object Object]
+Bayern,SK Regensburg,09362,Feature,[object Object]
+Bayern,LK Günzburg,09774,Feature,[object Object]
+Bayern,LK Main-Spessart,09677,Feature,[object Object]
+Bayern,LK Neustadt a.d.Waldnaab,09374,Feature,[object Object]
+Bayern,LK Amberg-Sulzbach,09371,Feature,[object Object]
+Bayern,SK Erlangen,09562,Feature,[object Object]
+Bayern,LK Schwandorf,09376,Feature,[object Object]
+Bayern,LK Mühldorf a.Inn,09183,Feature,[object Object]
+Bayern,SK Weiden i.d.OPf.,09363,Feature,[object Object]
+Bayern,LK Freyung-Grafenau,09272,Feature,[object Object]
+Bayern,LK Forchheim,09474,Feature,[object Object]
+Bayern,LK Erlangen-Höchstadt,09572,Feature,[object Object]
+Bayern,SK Fürth,09563,Feature,[object Object]
+Bayern,LK Wunsiedel i.Fichtelgebirge,09479,Feature,[object Object]
+Bayern,LK Straubing-Bogen,09278,Feature,[object Object]
+Bayern,LK Dingolfing-Landau,09279,Feature,[object Object]
+Bayern,LK Landshut,09274,Feature,[object Object]
+Bayern,LK Bad Tölz-Wolfratshausen,09173,Feature,[object Object]
+Bayern,LK Weilheim-Schongau,09190,Feature,[object Object]
+Bayern,LK Miesbach,09182,Feature,[object Object]
+Bayern,LK Augsburg,09772,Feature,[object Object]
+Bayern,LK Bayreuth,09472,Feature,[object Object]
+Bayern,SK Augsburg,09761,Feature,[object Object]
+Bayern,LK Aichach-Friedberg,09771,Feature,[object Object]
+Bayern,LK Traunstein,09189,Feature,[object Object]
+Bayern,LK Fürth,09573,Feature,[object Object]
+Bayern,SK Nürnberg,09564,Feature,[object Object]
+Bayern,LK Schweinfurt,09678,Feature,[object Object]
+Bayern,SK Schweinfurt,09662,Feature,[object Object]
+Bayern,SK Bayreuth,09462,Feature,[object Object]
+Bayern,LK Würzburg,09679,Feature,[object Object]
+Bayern,LK Ostallgäu,09777,Feature,[object Object]
+Bayern,LK Berchtesgadener Land,09172,Feature,[object Object]
+Bayern,LK Garmisch-Partenkirchen,09180,Feature,[object Object]
+Bayern,LK Coburg,09473,Feature,[object Object]
+Bayern,SK Ansbach,09561,Feature,[object Object]
+Bayern,LK Kronach,09476,Feature,[object Object]
+Bayern,LK Hof,09475,Feature,[object Object]
+Bayern,LK Ansbach,09571,Feature,[object Object]
+Bayern,SK Schwabach,09565,Feature,[object Object]Bundesland,RKI_NameDE,gemeindeschluessel,type,geometry
+Berlin,SK Berlin Mitte,11001,Feature,[object Object]
+Berlin,SK Berlin Friedrichshain-Kreuzberg,11002,Feature,[object Object]
+Berlin,SK Berlin Pankow,11003,Feature,[object Object]
+Berlin,SK Berlin Charlottenburg-Wilmersdorf,11004,Feature,[object Object]
+Berlin,SK Berlin Steglitz-Zehlendorf,11006,Feature,[object Object]
+Berlin,SK Berlin Tempelhof-Schöneberg,11007,Feature,[object Object]
+Berlin,SK Berlin Neukölln,11008,Feature,[object Object]
+Berlin,SK Berlin Treptow-Köpenick,11009,Feature,[object Object]
+Berlin,SK Berlin Marzahn-Hellersdorf,11010,Feature,[object Object]
+Berlin,SK Berlin Lichtenberg,11011,Feature,[object Object]
+Berlin,SK Berlin Reinickendorf,11012,Feature,[object Object]
+Berlin,SK Berlin Spandau,11005,Feature,[object Object]Bundesland,RKI_NameDE,gemeindeschluessel,type,geometry
+Brandenburg,LK Teltow-Fläming,12072,Feature,[object Object]
+Brandenburg,LK Potsdam-Mittelmark,12069,Feature,[object Object]
+Brandenburg,SK Potsdam,12054,Feature,[object Object]
+Brandenburg,SK Frankfurt (Oder),12053,Feature,[object Object]
+Brandenburg,LK Uckermark,12073,Feature,[object Object]
+Brandenburg,LK Barnim,12060,Feature,[object Object]
+Brandenburg,SK Cottbus,12052,Feature,[object Object]
+Brandenburg,LK Oder-Spree,12067,Feature,[object Object]
+Brandenburg,LK Dahme-Spreewald,12061,Feature,[object Object]
+Brandenburg,LK Prignitz,12070,Feature,[object Object]
+Brandenburg,LK Märkisch-Oderland,12064,Feature,[object Object]
+Brandenburg,LK Havelland,12063,Feature,[object Object]
+Brandenburg,SK Brandenburg a.d.Havel,12051,Feature,[object Object]
+Brandenburg,LK Oberspreewald-Lausitz,12066,Feature,[object Object]
+Brandenburg,LK Ostprignitz-Ruppin,12068,Feature,[object Object]
+Brandenburg,LK Oberhavel,12065,Feature,[object Object]
+Brandenburg,LK Spree-Neiße,12071,Feature,[object Object]
+Brandenburg,LK Elbe-Elster,12062,Feature,[object Object]Bundesland,RKI_NameDE,gemeindeschluessel,type,geometry
+Bremen,SK Bremen,04011,Feature,[object Object]
+Bremen,SK Bremerhaven,04012,Feature,[object Object]Bundesland,RKI_NameDE,gemeindeschluessel,type,geometry
+Hamburg,SK Hamburg,02000,Feature,[object Object]Bundesland,RKI_NameDE,gemeindeschluessel,type,geometry
+Hessen,LK Fulda,06631,Feature,[object Object]
+Hessen,LK Main-Kinzig-Kreis,06435,Feature,[object Object]
+Hessen,LK Offenbach,06438,Feature,[object Object]
+Hessen,LK Schwalm-Eder-Kreis,06634,Feature,[object Object]
+Hessen,LK Limburg-Weilburg,06533,Feature,[object Object]
+Hessen,LK Lahn-Dill-Kreis,06532,Feature,[object Object]
+Hessen,LK Marburg-Biedenkopf,06534,Feature,[object Object]
+Hessen,SK Wiesbaden,06414,Feature,[object Object]
+Hessen,SK Frankfurt am Main,06412,Feature,[object Object]
+Hessen,LK Hochtaunuskreis,06434,Feature,[object Object]
+Hessen,LK Wetteraukreis,06440,Feature,[object Object]
+Hessen,LK Kassel,06633,Feature,[object Object]
+Hessen,LK Waldeck-Frankenberg,06635,Feature,[object Object]
+Hessen,SK Offenbach,06413,Feature,[object Object]
+Hessen,LK Gießen,06531,Feature,[object Object]
+Hessen,LK Hersfeld-Rotenburg,06632,Feature,[object Object]
+Hessen,LK Odenwaldkreis,06437,Feature,[object Object]
+Hessen,LK Vogelsbergkreis,06535,Feature,[object Object]
+Hessen,LK Main-Taunus-Kreis,06436,Feature,[object Object]
+Hessen,SK Kassel,06611,Feature,[object Object]
+Hessen,LK Rheingau-Taunus-Kreis,06439,Feature,[object Object]
+Hessen,LK Bergstraße,06431,Feature,[object Object]
+Hessen,LK Werra-Meißner-Kreis,06636,Feature,[object Object]
+Hessen,LK Groß-Gerau,06433,Feature,[object Object]
+Hessen,SK Darmstadt,06411,Feature,[object Object]
+Hessen,LK Darmstadt-Dieburg,06432,Feature,[object Object]Bundesland,RKI_NameDE,gemeindeschluessel,type,geometry
+Mecklenburg-Vorpommern,LK LudwigslustParchim,13076,Feature,[object Object]
+Mecklenburg-Vorpommern,LK VorpommernGreifswald,13075,Feature,[object Object]
+Mecklenburg-Vorpommern,SK Schwerin,13004,Feature,[object Object]
+Mecklenburg-Vorpommern,LK Mecklenburgische Seenplatte,13071,Feature,[object Object]
+Mecklenburg-Vorpommern,LK Rostock,13072,Feature,[object Object]
+Mecklenburg-Vorpommern,LK VorpommernRügen,13073,Feature,[object Object]
+Mecklenburg-Vorpommern,SK Rostock,13003,Feature,[object Object]
+Mecklenburg-Vorpommern,LK Nordwestmecklenburg,13074,Feature,[object Object]Bundesland,RKI_NameDE,gemeindeschluessel,type,geometry
+Niedersachsen,LK Göttingen,03159,Feature,[object Object]
+Niedersachsen,LK Osnabrück,03459,Feature,[object Object]
+Niedersachsen,LK Hameln-Pyrmont,03252,Feature,[object Object]
+Niedersachsen,LK Helmstedt,03154,Feature,[object Object]
+Niedersachsen,LK Lüchow-Dannenberg,03354,Feature,[object Object]
+Niedersachsen,LK Schaumburg,03257,Feature,[object Object]
+Niedersachsen,LK Wesermarsch,03461,Feature,[object Object]
+Niedersachsen,LK Cuxhaven,03352,Feature,[object Object]
+Niedersachsen,LK Emsland,03454,Feature,[object Object]
+Niedersachsen,SK Wolfsburg,03103,Feature,[object Object]
+Niedersachsen,LK Cloppenburg,03453,Feature,[object Object]
+Niedersachsen,LK Vechta,03460,Feature,[object Object]
+Niedersachsen,LK Holzminden,03255,Feature,[object Object]
+Niedersachsen,LK Aurich,03452,Feature,[object Object]
+Niedersachsen,LK Oldenburg,03458,Feature,[object Object]
+Niedersachsen,LK Stade,03359,Feature,[object Object]
+Niedersachsen,LK Diepholz,03251,Feature,[object Object]
+Niedersachsen,LK Harburg,03353,Feature,[object Object]
+Niedersachsen,LK Lüneburg,03355,Feature,[object Object]
+Niedersachsen,SK Salzgitter,03102,Feature,[object Object]
+Niedersachsen,LK Friesland,03455,Feature,[object Object]
+Niedersachsen,LK Goslar,03153,Feature,[object Object]
+Niedersachsen,LK Nienburg (Weser),03256,Feature,[object Object]
+Niedersachsen,LK Uelzen,03360,Feature,[object Object]
+Niedersachsen,LK Rotenburg (Wümme),03357,Feature,[object Object]
+Niedersachsen,LK Northeim,03155,Feature,[object Object]
+Niedersachsen,SK Delmenhorst,03401,Feature,[object Object]
+Niedersachsen,LK Osterholz,03356,Feature,[object Object]
+Niedersachsen,LK Verden,03361,Feature,[object Object]
+Niedersachsen,LK Grafschaft Bentheim,03456,Feature,[object Object]
+Niedersachsen,LK Wolfenbüttel,03158,Feature,[object Object]
+Niedersachsen,SK Emden,03402,Feature,[object Object]
+Niedersachsen,SK Wilhelmshaven,03405,Feature,[object Object]
+Niedersachsen,SK Osnabrück,03404,Feature,[object Object]
+Niedersachsen,LK Wittmund,03462,Feature,[object Object]
+Niedersachsen,LK Gifhorn,03151,Feature,[object Object]
+Niedersachsen,SK Braunschweig,03101,Feature,[object Object]
+Niedersachsen,SK Oldenburg,03403,Feature,[object Object]
+Niedersachsen,LK Ammerland,03451,Feature,[object Object]
+Niedersachsen,LK Leer,03457,Feature,[object Object]
+Niedersachsen,LK Peine,03157,Feature,[object Object]
+Niedersachsen,LK Hildesheim,03254,Feature,[object Object]
+Niedersachsen,Region Hannover,03241,Feature,[object Object]
+Niedersachsen,LK Heidekreis,03358,Feature,[object Object]
+Niedersachsen,LK Celle,03351,Feature,[object Object]Bundesland,RKI_NameDE,gemeindeschluessel,type,geometry
+Nordrhein-Westfalen,SK Leverkusen,05316,Feature,[object Object]
+Nordrhein-Westfalen,LK Olpe,05966,Feature,[object Object]
+Nordrhein-Westfalen,LK Minden-Lübbecke,05770,Feature,[object Object]
+Nordrhein-Westfalen,SK Krefeld,05114,Feature,[object Object]
+Nordrhein-Westfalen,LK Hochsauerlandkreis,05958,Feature,[object Object]
+Nordrhein-Westfalen,SK Wuppertal,05124,Feature,[object Object]
+Nordrhein-Westfalen,LK Kleve,05154,Feature,[object Object]
+Nordrhein-Westfalen,SK Mülheim a.d.Ruhr,05117,Feature,[object Object]
+Nordrhein-Westfalen,LK Oberbergischer Kreis,05374,Feature,[object Object]
+Nordrhein-Westfalen,LK Siegen-Wittgenstein,05970,Feature,[object Object]
+Nordrhein-Westfalen,LK Steinfurt,05566,Feature,[object Object]
+Nordrhein-Westfalen,LK Rheinisch-Bergischer Kreis,05378,Feature,[object Object]
+Nordrhein-Westfalen,SK Duisburg,05112,Feature,[object Object]
+Nordrhein-Westfalen,SK Hamm,05915,Feature,[object Object]
+Nordrhein-Westfalen,SK Dortmund,05913,Feature,[object Object]
+Nordrhein-Westfalen,SK Essen,05113,Feature,[object Object]
+Nordrhein-Westfalen,LK Lippe,05766,Feature,[object Object]
+Nordrhein-Westfalen,LK Coesfeld,05558,Feature,[object Object]
+Nordrhein-Westfalen,LK Düren,05358,Feature,[object Object]
+Nordrhein-Westfalen,SK Bottrop,05512,Feature,[object Object]
+Nordrhein-Westfalen,SK Bielefeld,05711,Feature,[object Object]
+Nordrhein-Westfalen,LK Höxter,05762,Feature,[object Object]
+Nordrhein-Westfalen,LK Soest,05974,Feature,[object Object]
+Nordrhein-Westfalen,SK Oberhausen,05119,Feature,[object Object]
+Nordrhein-Westfalen,SK Mönchengladbach,05116,Feature,[object Object]
+Nordrhein-Westfalen,LK Viersen,05166,Feature,[object Object]
+Nordrhein-Westfalen,LK Heinsberg,05370,Feature,[object Object]
+Nordrhein-Westfalen,LK Borken,05554,Feature,[object Object]
+Nordrhein-Westfalen,LK Recklinghausen,05562,Feature,[object Object]
+Nordrhein-Westfalen,SK Hagen,05914,Feature,[object Object]
+Nordrhein-Westfalen,LK Ennepe-Ruhr-Kreis,05954,Feature,[object Object]
+Nordrhein-Westfalen,LK Euskirchen,05366,Feature,[object Object]
+Nordrhein-Westfalen,SK Bochum,05911,Feature,[object Object]
+Nordrhein-Westfalen,LK Herford,05758,Feature,[object Object]
+Nordrhein-Westfalen,LK Paderborn,05774,Feature,[object Object]
+Nordrhein-Westfalen,LK Wesel,05170,Feature,[object Object]
+Nordrhein-Westfalen,LK Gütersloh,05754,Feature,[object Object]
+Nordrhein-Westfalen,SK Solingen,05122,Feature,[object Object]
+Nordrhein-Westfalen,StädteRegion Aachen,05334,Feature,[object Object]
+Nordrhein-Westfalen,LK Märkischer Kreis,05962,Feature,[object Object]
+Nordrhein-Westfalen,SK Düsseldorf,05111,Feature,[object Object]
+Nordrhein-Westfalen,LK Mettmann,05158,Feature,[object Object]
+Nordrhein-Westfalen,SK Gelsenkirchen,05513,Feature,[object Object]
+Nordrhein-Westfalen,SK Herne,05916,Feature,[object Object]
+Nordrhein-Westfalen,LK Rhein-Erft-Kreis,05362,Feature,[object Object]
+Nordrhein-Westfalen,LK Unna,05978,Feature,[object Object]
+Nordrhein-Westfalen,SK Münster,05515,Feature,[object Object]
+Nordrhein-Westfalen,LK Warendorf,05570,Feature,[object Object]
+Nordrhein-Westfalen,SK Bonn,05314,Feature,[object Object]
+Nordrhein-Westfalen,LK Rhein-Sieg-Kreis,05382,Feature,[object Object]
+Nordrhein-Westfalen,SK Köln,05315,Feature,[object Object]
+Nordrhein-Westfalen,SK Remscheid,05120,Feature,[object Object]
+Nordrhein-Westfalen,LK Rhein-Kreis Neuss,05162,Feature,[object Object]Bundesland,RKI_NameDE,gemeindeschluessel,type,geometry
+Rheinland-Pfalz,LK Germersheim,07334,Feature,[object Object]
+Rheinland-Pfalz,LK Cochem-Zell,07135,Feature,[object Object]
+Rheinland-Pfalz,LK Bernkastel-Wittlich,07231,Feature,[object Object]
+Rheinland-Pfalz,SK Neustadt a.d.Weinstraße,07316,Feature,[object Object]
+Rheinland-Pfalz,LK Bad Dürkheim,07332,Feature,[object Object]
+Rheinland-Pfalz,LK Kaiserslautern,07335,Feature,[object Object]
+Rheinland-Pfalz,LK Rhein-Lahn-Kreis,07141,Feature,[object Object]
+Rheinland-Pfalz,SK Frankenthal,07311,Feature,[object Object]
+Rheinland-Pfalz,SK Landau i.d.Pfalz,07313,Feature,[object Object]
+Rheinland-Pfalz,SK Ludwigshafen,07314,Feature,[object Object]
+Rheinland-Pfalz,LK Alzey-Worms,07331,Feature,[object Object]
+Rheinland-Pfalz,SK Mainz,07315,Feature,[object Object]
+Rheinland-Pfalz,LK Rhein-Pfalz-Kreis,07338,Feature,[object Object]
+Rheinland-Pfalz,LK Birkenfeld,07134,Feature,[object Object]
+Rheinland-Pfalz,LK Mainz-Bingen,07339,Feature,[object Object]
+Rheinland-Pfalz,LK Rhein-Hunsrück-Kreis,07140,Feature,[object Object]
+Rheinland-Pfalz,LK Trier-Saarburg,07235,Feature,[object Object]
+Rheinland-Pfalz,SK Pirmasens,07317,Feature,[object Object]
+Rheinland-Pfalz,LK Bad Kreuznach,07133,Feature,[object Object]
+Rheinland-Pfalz,SK Koblenz,07111,Feature,[object Object]
+Rheinland-Pfalz,LK Vulkaneifel,07233,Feature,[object Object]
+Rheinland-Pfalz,SK Worms,07319,Feature,[object Object]
+Rheinland-Pfalz,SK Trier,07211,Feature,[object Object]
+Rheinland-Pfalz,LK Donnersbergkreis,07333,Feature,[object Object]
+Rheinland-Pfalz,LK Ahrweiler,07131,Feature,[object Object]
+Rheinland-Pfalz,SK Kaiserslautern,07312,Feature,[object Object]
+Rheinland-Pfalz,LK Kusel,07336,Feature,[object Object]
+Rheinland-Pfalz,SK Zweibrücken,07320,Feature,[object Object]
+Rheinland-Pfalz,SK Speyer,07318,Feature,[object Object]
+Rheinland-Pfalz,LK Bitburg-Prüm,07232,Feature,[object Object]
+Rheinland-Pfalz,LK Westerwaldkreis,07143,Feature,[object Object]
+Rheinland-Pfalz,LK Altenkirchen,07132,Feature,[object Object]
+Rheinland-Pfalz,LK Mayen-Koblenz,07137,Feature,[object Object]
+Rheinland-Pfalz,LK Neuwied,07138,Feature,[object Object]
+Rheinland-Pfalz,LK Südwestpfalz,07340,Feature,[object Object]
+Rheinland-Pfalz,LK Südliche Weinstraße,07337,Feature,[object Object]Bundesland,RKI_NameDE,gemeindeschluessel,type,geometry
+Saarland,LK Sankt Wendel,10046,Feature,[object Object]
+Saarland,LK Merzig-Wadern,10042,Feature,[object Object]
+Saarland,LK Saarlouis,10044,Feature,[object Object]
+Saarland,LK Stadtverband Saarbrücken,10041,Feature,[object Object]
+Saarland,LK Neunkirchen,10043,Feature,[object Object]
+Saarland,LK Saar-Pfalz-Kreis,10045,Feature,[object Object]Bundesland,RKI_NameDE,gemeindeschluessel,type,geometry
+Sachsen,LK Meißen,14627,Feature,[object Object]
+Sachsen,LK Sächsische Schweiz-Osterzgebirge,14628,Feature,[object Object]
+Sachsen,LK Leipzig,14729,Feature,[object Object]
+Sachsen,LK Nordsachsen,14730,Feature,[object Object]
+Sachsen,SK Chemnitz,14511,Feature,[object Object]
+Sachsen,SK Leipzig,14713,Feature,[object Object]
+Sachsen,LK Erzgebirgskreis,14521,Feature,[object Object]
+Sachsen,LK Mittelsachsen,14522,Feature,[object Object]
+Sachsen,LK Görlitz,14626,Feature,[object Object]
+Sachsen,SK Dresden,14612,Feature,[object Object]
+Sachsen,LK Bautzen,14625,Feature,[object Object]
+Sachsen,LK Vogtlandkreis,14523,Feature,[object Object]
+Sachsen,LK Zwickau,14524,Feature,[object Object]Bundesland,RKI_NameDE,gemeindeschluessel,type,geometry
+Sachsen-Anhalt,LK Salzlandkreis,15089,Feature,[object Object]
+Sachsen-Anhalt,SK Magdeburg,15003,Feature,[object Object]
+Sachsen-Anhalt,LK Burgenlandkreis,15084,Feature,[object Object]
+Sachsen-Anhalt,LK Stendal,15090,Feature,[object Object]
+Sachsen-Anhalt,LK Mansfeld-Südharz,15087,Feature,[object Object]
+Sachsen-Anhalt,LK Jerichower Land,15086,Feature,[object Object]
+Sachsen-Anhalt,LK Börde,15083,Feature,[object Object]
+Sachsen-Anhalt,LK Harz,15085,Feature,[object Object]
+Sachsen-Anhalt,SK Halle,15002,Feature,[object Object]
+Sachsen-Anhalt,LK Saalekreis,15088,Feature,[object Object]
+Sachsen-Anhalt,LK Altmarkkreis Salzwedel,15081,Feature,[object Object]
+Sachsen-Anhalt,LK Wittenberg,15091,Feature,[object Object]
+Sachsen-Anhalt,SK Dessau-Roßlau,15001,Feature,[object Object]
+Sachsen-Anhalt,LK Anhalt-Bitterfeld,15082,Feature,[object Object]Bundesland,RKI_NameDE,gemeindeschluessel,type,geometry
+Thüringen,LK Kyffhäuserkreis,16065,Feature,[object Object]
+Thüringen,LK Eichsfeld,16061,Feature,[object Object]
+Thüringen,LK Sömmerda,16068,Feature,[object Object]
+Thüringen,LK Unstrut-Hainich-Kreis,16064,Feature,[object Object]
+Thüringen,LK Hildburghausen,16069,Feature,[object Object]
+Thüringen,SK Erfurt,16051,Feature,[object Object]
+Thüringen,SK Eisenach,16056,Feature,[object Object]
+Thüringen,LK Weimarer Land,16071,Feature,[object Object]
+Thüringen,SK Jena,16053,Feature,[object Object]
+Thüringen,LK Altenburger Land,16077,Feature,[object Object]
+Thüringen,LK Wartburgkreis,16063,Feature,[object Object]
+Thüringen,LK Gotha,16067,Feature,[object Object]
+Thüringen,LK Saale-Holzland-Kreis,16074,Feature,[object Object]
+Thüringen,LK Ilm-Kreis,16070,Feature,[object Object]
+Thüringen,LK Nordhausen,16062,Feature,[object Object]
+Thüringen,SK Suhl,16054,Feature,[object Object]
+Thüringen,LK Schmalkalden-Meiningen,16066,Feature,[object Object]
+Thüringen,SK Weimar,16055,Feature,[object Object]
+Thüringen,SK Gera,16052,Feature,[object Object]
+Thüringen,LK Saale-Orla-Kreis,16075,Feature,[object Object]
+Thüringen,LK Greiz,16076,Feature,[object Object]
+Thüringen,LK Sonneberg,16072,Feature,[object Object]
+Thüringen,LK Saalfeld-Rudolstadt,16073,Feature,[object Object]Bundesland,RKI_NameDE,gemeindeschluessel,type,geometry
+Schleswig-Holstein,LK Rendsburg-Eckernförde,01058,Feature,[object Object]
+Schleswig-Holstein,SK Lübeck,01003,Feature,[object Object]
+Schleswig-Holstein,LK Ostholstein,01055,Feature,[object Object]
+Schleswig-Holstein,LK Plön,01057,Feature,[object Object]
+Schleswig-Holstein,LK Segeberg,01060,Feature,[object Object]
+Schleswig-Holstein,LK Nordfriesland,01054,Feature,[object Object]
+Schleswig-Holstein,SK Neumünster,01004,Feature,[object Object]
+Schleswig-Holstein,LK Pinneberg,01056,Feature,[object Object]
+Schleswig-Holstein,LK Stormarn,01062,Feature,[object Object]
+Schleswig-Holstein,SK Flensburg,01001,Feature,[object Object]
+Schleswig-Holstein,LK Schleswig-Flensburg,01059,Feature,[object Object]
+Schleswig-Holstein,SK Kiel,01002,Feature,[object Object]
+Schleswig-Holstein,LK Steinburg,01061,Feature,[object Object]
+Schleswig-Holstein,LK Dithmarschen,01051,Feature,[object Object]
+Schleswig-Holstein,LK Herzogtum Lauenburg,01053,Feature,[object Object]
