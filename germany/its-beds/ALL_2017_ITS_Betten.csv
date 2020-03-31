@@ -273,3 +273,99 @@ Nummer,Kreisebene,Intensivbetten,Krankenhauser,Betten,Bundesland,EWZ,Region,Inte
 16075,Saale-Orla-Kreis,32,,,TH,,,,
 16076,"Greiz, Landkreis",32,,,TH,,,,
 16077,"Altenburger Land, Landkreis",32,,,TH,,,,
+09161,Ingolstadt,43,,,BY,136981,Ingolstadt,154,493153
+09162,München,470,,,BY,1471508,München,930,2908664
+09163,Rosenheim,16,,,BY,63324,Südostoberbayern,207,833578
+09171,Altötting,28,,,BY,111210,Südostoberbayern,207,833578
+09172,Berchtesgadener Land,26,,,BY,105722,Südostoberbayern,207,833578
+09173,Bad Tölz-Wolfratshausen,39,,,BY,127227,Oberland,139,450768
+09174,Dachau,49,,,BY,153884,München,930,2908664
+09175,Ebersberg,45,,,BY,142142,München,930,2908664
+09176,Eichstätt,41,,,BY,132341,Ingolstadt,154,493153
+09177,Erding,44,,,BY,137660,München,930,2908664
+09178,Freising,57,,,BY,179116,München,930,2908664
+09179,Fürstenfeldbruck,70,,,BY,219320,München,930,2908664
+09180,Garmisch-Partenkirchen,27,,,BY,88467,Oberland,139,450768
+09181,Landsberg am Lech,38,,,BY,120071,München,930,2908664
+09182,Miesbach,31,,,BY,99726,Oberland,139,450768
+09183,Mühldorf a. Inn,29,,,BY,115250,Südostoberbayern,207,833578
+09184,München,112,,,BY,348871,München,930,2908664
+09185,Neuburg-Schrobenhausen,30,,,BY,96680,Ingolstadt,154,493153
+09186,Pfaffenhofen a.d. Ilm,40,,,BY,127151,Ingolstadt,154,493153
+09187,Rosenheim,65,,,BY,260983,Südostoberbayern,207,833578
+09188,Starnberg,44,,,BY,136092,München,930,2908664
+09189,Traunstein,44,,,BY,177089,Südostoberbayern,207,833578
+09190,Weilheim-Schongau,42,,,BY,135348,Oberland,139,450768
+09261,Landshut,14,,,BY,72404,Landshut,88,447978
+09262,Passau,13,,,BY,52469,Donau-Wald,167,668292
+09263,Straubing,12,,,BY,47794,Donau-Wald,167,668292
+09271,Deggendorf,30,,,BY,119326,Donau-Wald,167,668292
+09272,Freyung-Grafenau,20,,,BY,78355,Donau-Wald,167,668292
+09273,Kelheim,50,,,BY,122258,Regensburg,299,729883
+09274,Landshut,31,,,BY,158698,Landshut,88,447978
+09275,Passau,48,,,BY,192043,Donau-Wald,167,668292
+09276,Regen,19,,,BY,77656,Donau-Wald,167,668292
+09277,Rottal-Inn,24,,,BY,120659,Landshut,88,447978
+09278,Straubing-Bogen,25,,,BY,100649,Donau-Wald,167,668292
+09279,Dingolfing-Landau,19,,,BY,96217,Landshut,88,447978
+09361,Amberg,10,,,BY,41970,Oberpfalz-Nord,123,501644
+09362,Regensburg,63,,,BY,152610,Regensburg,299,729883
+09363,Weiden i.d. OPf.,10,,,BY,42520,Oberpfalz-Nord,123,501644
+09371,Amberg-Sulzbach,25,,,BY,103109,Oberpfalz-Nord,123,501644
+09372,Cham,52,,,BY,127882,Regensburg,299,729883
+09373,Neumarkt i.d. OPf.,55,,,BY,133561,Regensburg,299,729883
+09374,Neustadt a.d. Waldnaab,23,,,BY,94352,Oberpfalz-Nord,123,501644
+09375,Regensburg,79,,,BY,193572,Regensburg,299,729883
+09376,Schwandorf,36,,,BY,147189,Oberpfalz-Nord,123,501644
+09377,Tirschenreuth,18,,,BY,72504,Oberpfalz-Nord,123,501644
+09461,Bamberg,17,,,BY,77592,Oberfranken-West,132,602905
+09462,Bayreuth,28,,,BY,74657,Oberfranken-Ost,172,464577
+09463,Coburg,9,,,BY,41249,Oberfranken-West,132,602905
+09464,Hof,17,,,BY,45930,Oberfranken-Ost,172,464577
+09471,Bamberg,32,,,BY,147086,Oberfranken-West,132,602905
+09472,Bayreuth,38,,,BY,103656,Oberfranken-Ost,172,464577
+09473,Coburg,19,,,BY,86906,Oberfranken-West,132,602905
+09474,Forchheim,25,,,BY,116099,Oberfranken-West,132,602905
+09475,Hof,35,,,BY,95311,Oberfranken-Ost,172,464577
+09476,Kronach,15,,,BY,67135,Oberfranken-West,132,602905
+09477,Kulmbach,27,,,BY,71845,Oberfranken-Ost,172,464577
+09478,Lichtenfels,15,,,BY,66838,Oberfranken-West,132,602905
+09479,Wunsiedel i. Fichtelgebirge,27,,,BY,73178,Oberfranken-Ost,172,464577
+09561,Ansbach,7,,,BY,41847,Westmittelfranken,74,420553
+09562,Erlangen,39,,,BY,111962,Industrieregion Mittelfranken,465,1349848
+09563,Fürth,44,,,BY,127748,Industrieregion Mittelfranken,465,1349848
+09564,Nürnberg,179,,,BY,518365,Industrieregion Mittelfranken,465,1349848
+09565,Schwabach,14,,,BY,40792,Industrieregion Mittelfranken,465,1349848
+09571,Ansbach,32,,,BY,183949,Westmittelfranken,74,420553
+09572,Erlangen-Höchstadt,47,,,BY,136271,Industrieregion Mittelfranken,465,1349848
+09573,Fürth,40,,,BY,117387,Industrieregion Mittelfranken,465,1349848
+09574,Nürnberger Land,59,,,BY,170365,Industrieregion Mittelfranken,465,1349848
+09575,Neustadt a.d. Aisch-Bad Windsheim,18,,,BY,100364,Westmittelfranken,74,420553
+09576,Roth,44,,,BY,126958,Industrieregion Mittelfranken,465,1349848
+09577,Weißenburg-Gunzenhausen,17,,,BY,94393,Westmittelfranken,74,420553
+09661,Aschaffenburg,13,,,BY,70527,Bayerischer Untermain,68,373491
+09662,Schweinfurt,24,,,BY,54032,Main-Rhön,194,436645
+09663,Würzburg,53,,,BY,127880,Würzburg,212,506988
+09671,Aschaffenburg,32,,,BY,174208,Bayerischer Untermain,68,373491
+09672,Bad Kissingen,46,,,BY,103218,Main-Rhön,194,436645
+09673,Rhön-Grabfeld,35,,,BY,79690,Main-Rhön,194,436645
+09674,Haßberge,38,,,BY,84599,Main-Rhön,194,436645
+09675,Kitzingen,38,,,BY,90909,Würzburg,212,506988
+09676,Miltenberg,23,,,BY,128756,Bayerischer Untermain,68,373491
+09677,Main-Spessart,53,,,BY,126365,Würzburg,212,506988
+09678,Schweinfurt,51,,,BY,115106,Main-Rhön,194,436645
+09679,Würzburg,68,,,BY,161834,Würzburg,212,506988
+09761,Augsburg,54,,,BY,295135,Augsburg,167,909782
+09762,Kaufbeuren,9,,,BY,43893,Allgäu,99,490147
+09763,Kempten (Allgäu),14,,,BY,68907,Allgäu,99,490147
+09764,Memmingen,9,,,BY,43837,Donau-Iller (BY),100,487825
+09771,Aichach-Friedberg,25,,,BY,133596,Augsburg,167,909782
+09772,Augsburg,46,,,BY,251534,Augsburg,167,909782
+09773,Dillingen a.d. Donau,18,,,BY,96021,Augsburg,167,909782
+09774,Günzburg,26,,,BY,125747,Donau-Iller (BY),100,487825
+09775,Neu-Ulm,36,,,BY,174200,Donau-Iller (BY),100,487825
+09776,Lindau (Bodensee),16,,,BY,81669,Allgäu,99,490147
+09777,Ostallgäu,28,,,BY,140316,Allgäu,99,490147
+09778,Unterallgäu,30,,,BY,144041,Donau-Iller (BY),100,487825
+09779,Donau-Ries,25,,,BY,133496,Augsburg,167,909782
+09780,Oberallgäu,31,,,BY,155362,Allgäu,99,490147
