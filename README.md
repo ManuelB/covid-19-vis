@@ -4,7 +4,7 @@ This repository contains data visualizations based on RKI and DIVI using [kepler
 Newest Simulation:
 [Germany BY, NI, NW, RP, MV, SN, ST, TH, SH, HH, BR, BB, BE, BW, SR 2020-03-31 50% of ICU beds for COVID-19 with age distribution](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/simulation/2020-03-31_Landkreise_Intensivbetten_Custom_Mitigation-1-month-keplergl.json)
 
-[Hystreet (activity of pedestrians in a city) as color (yellow - many, red - a few), covid-19 case growth 7 days later (circle size):](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/everycounts/everycounts-hystreet_score-7-days-case-growth-keplergl.json]
+[Hystreet (activity of pedestrians in a city) as color (yellow - many, red - a few), covid-19 case growth 7 days later (circle size):](https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/ManuelB/covid-19-vis/gh-pages/everycounts/everycounts-hystreet_score-7-days-case-growth-keplergl.json)
 
 The covid-19-vis project is a simulation and visualization project that
 predicts when the intense care unit (ICU) bed capacity of a certain region will be
