@@ -18,6 +18,6 @@
     },
     "homepage": "https://github.com/ManuelB/covid-19-vis#readme",
     "dependencies": {
-        "xlsx": "^0.15.6"
+        "xlsx": "^0.17.0"
     }
 }
